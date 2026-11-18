@@ -1,0 +1,3238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gray Horizon\n"
+"Report-Msgid-Bugs-To: https://github.com/NijeFila/GrayHorizon-Translations/issues\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Gray Horizon (pnpm i18n:publish)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.findWork"
+msgid "Find work"
+msgstr "Buscar empleo"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.foundABank"
+msgid "Found a bank"
+msgstr "Fundar un banco"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.foundACompany"
+msgid "Found a company"
+msgstr "Fundar una empresa"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.assemblyMember"
+msgid "Next: What does a member of the Assembly do?"
+msgstr "Siguiente: ¿Qué hace un miembro de la Asamblea?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.banking"
+msgid "Next: How do banks and loans work?"
+msgstr "Siguiente: ¿Cómo funcionan los bancos y los préstamos?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.chamber"
+msgid "Next: How does the chamber work?"
+msgstr "Siguiente: ¿Cómo funciona la cámara?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.chat"
+msgid "Next: How does Chat work?"
+msgstr "Siguiente: ¿Cómo funciona el Chat?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.country"
+msgid "Next: Your country and how to take part"
+msgstr "Siguiente: Tu país y cómo participar"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.deciding"
+msgid "Next: How does this country decide things?"
+msgstr "Siguiente: ¿Cómo decide las cosas este país?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.development"
+msgid "Next: Roads, research and world projects"
+msgstr "Siguiente: Carreteras, investigación y proyectos del mundo"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.elections"
+msgid "Next: How do elections work?"
+msgstr "Siguiente: ¿Cómo funcionan las elecciones?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.gazette"
+msgid "Next: What is the Official Gazette?"
+msgstr "Siguiente: ¿Qué es el Boletín Oficial?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.giving"
+msgid "Next: How do I give or sell to someone?"
+msgstr "Siguiente: ¿Cómo doy o vendo algo a alguien?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.letters"
+msgid "Next: How do letters and tips work?"
+msgstr "Siguiente: ¿Cómo funcionan las cartas y las propinas?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.market"
+msgid "Next: How do I buy and sell?"
+msgstr "Siguiente: ¿Cómo compro y vendo?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.money"
+msgid "Next: How does money work?"
+msgstr "Siguiente: ¿Cómo funciona el dinero?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.newspaper"
+msgid "Next: How do I run a newspaper?"
+msgstr "Siguiente: ¿Cómo dirijo un periódico?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.offices"
+msgid "Next: Who runs a country?"
+msgstr "Siguiente: ¿Quién dirige un país?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.orders"
+msgid "Next: What happens to my orders and offers?"
+msgstr "Siguiente: ¿Qué pasa con mis órdenes y ofertas?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.party"
+msgid "Next: What is a party for?"
+msgstr "Siguiente: ¿Para qué sirve un partido?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.press"
+msgid "Next: How does News work?"
+msgstr "Siguiente: ¿Cómo funciona Noticias?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.primeMinister"
+msgid "Next: What does a Prime Minister do?"
+msgstr "Siguiente: ¿Qué hace un Primer ministro?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.safety"
+msgid "Next: How do I hide or report somebody?"
+msgstr "Siguiente: ¿Cómo oculto o denuncio a alguien?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.shares"
+msgid "Next: How do shares work?"
+msgstr "Siguiente: ¿Cómo funcionan las acciones?"
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+#, fuzzy,machine-translated
+msgctxt "help.act.next.writing"
+msgid "Next: How do I write for a paper?"
+msgstr "Siguiente: ¿Cómo escribo para un periódico?"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.openAlerts"
+msgid "Open Alerts"
+msgstr "Abrir Avisos"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.openChat"
+msgid "Open Chat"
+msgstr "Abrir Chat"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.openEconomy"
+msgid "Open Economy"
+msgstr "Abrir Economía"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.openHome"
+msgid "Open Home"
+msgstr "Abrir Inicio"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.openJobs"
+msgid "Open Jobs"
+msgstr "Abrir Empleos"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.openNews"
+msgid "Open News"
+msgstr "Abrir Noticias"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.openNow"
+msgid "Open Now"
+msgstr "Abrir Ahora"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.openRankings"
+msgid "Open rankings"
+msgstr "Abrir clasificaciones"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.openSettings"
+msgid "Open Settings"
+msgstr "Abrir Ajustes"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.openTheMap"
+msgid "Open the map"
+msgstr "Abrir el mapa"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.openWar"
+msgid "Open War"
+msgstr "Abrir Guerra"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.openWaysToEarn"
+msgid "Open Ways to earn"
+msgstr "Abrir Formas de ganar"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.openWorldProjects"
+msgid "Open world projects"
+msgstr "Abrir proyectos del mundo"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.openYou"
+msgid "Open You"
+msgstr "Abrir Tú"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.openYourCountry"
+msgid "Open your country"
+msgstr "Abrir tu país"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.readTheWorldRules"
+msgid "Read the world rules"
+msgstr "Leer las reglas del mundo"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.seeTreatiesAndAllies"
+msgid "See treaties and allies"
+msgstr "Ver tratados y aliados"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.seeWhereYouCanWork"
+msgid "See where you can work"
+msgstr "Ver dónde puedes trabajar"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.seeYourCountrySUnits"
+msgid "See your country's units"
+msgstr "Ver las unidades de tu país"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.seeYourFood"
+msgid "See your food"
+msgstr "Ver tu comida"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.startANewspaper"
+msgid "Start a newspaper"
+msgstr "Crear un periódico"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.whatIsAnOrganization"
+msgid "What is an organization?"
+msgstr "¿Qué es una organización?"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.yourCompanies"
+msgid "Your companies"
+msgstr "Tus empresas"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+#, fuzzy,machine-translated
+msgctxt "help.act.yourMoney"
+msgid "Your money"
+msgstr "Tu dinero"
+
+#, fuzzy,machine-translated
+msgctxt "help.alerts.after"
+msgid "A decision you, or the world, settled says what happened to it rather than leaving."
+msgstr "Una decisión que resolviste tú, o que resolvió el mundo, muestra cómo terminó en lugar de desaparecer."
+
+#, fuzzy,machine-translated
+msgctxt "help.alerts.answer"
+msgid "Alerts tell you what happened and what needs you; the game always shows them, and this device can too."
+msgstr "Los avisos te dicen qué pasó y qué necesita de ti; el juego siempre los muestra, y este dispositivo también puede hacerlo."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.alerts.line"
+msgid "What you are told, and where."
+msgstr "Qué se te avisa y dónde."
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.alerts.step1.how"
+msgid "open Alerts from Home: Waiting on you first, then Important, then the rest by day."
+msgstr "abre Avisos desde Inicio: primero Te esperan, luego Importante y después el resto, por día."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.alerts.step1.to"
+msgid "To read them"
+msgstr "Para leerlos"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.alerts.step2.how"
+msgid "press it: it opens the thing itself, and Back returns to the list."
+msgstr "púlsalo y se abre lo que anuncia; Atrás vuelve a la lista."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.alerts.step2.to"
+msgid "To act on one"
+msgstr "Para actuar sobre uno"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.alerts.step3.how"
+msgid "open Settings, then Alerts, turn on alerts on this device, and choose which kinds reach it."
+msgstr "abre Ajustes, luego Avisos, activa los avisos en este dispositivo y elige qué tipos te llegan."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.alerts.step3.to"
+msgid "To get them on this device"
+msgstr "Para recibirlos en este dispositivo"
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+#, fuzzy,machine-translated
+msgctxt "help.alerts.synonyms"
+msgid "alert, notification, notify, push, phone, news"
+msgstr "aviso, avisos, alerta, alertas, notificación, notificacion, notificaciones, notificar, push, teléfono, telefono, noticias"
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.alerts.title"
+msgid "How alerts work"
+msgstr "Cómo funcionan los avisos"
+
+#. The meaning of the word before it, as a short sentence.
+#, fuzzy,machine-translated
+msgctxt "help.alerts.word1.means"
+msgid "News that changes your country or your things, such as a war."
+msgstr "Noticias que afectan a tu país o a lo tuyo, como una guerra."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.alerts.word1.term"
+msgid "Important"
+msgstr "Importante"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.assemblyMember.line"
+msgid "Votes on every bill, and may propose one."
+msgstr "Vota todos los proyectos de ley y puede proponer uno."
+
+#, fuzzy,machine-translated
+msgctxt "help.assemblyMember.p1"
+msgid "<b>A member votes on every bill before the chamber, and may propose bills.</b>"
+msgstr "<b>Un miembro vota todos los proyectos de ley que llegan a la cámara y puede proponer proyectos.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.assemblyMember.p2"
+msgid "Seats are elected by place: a member stands for where their voters live, for the term the constitution sets."
+msgstr "Los escaños se eligen por lugar: un miembro representa el sitio donde viven sus votantes, durante el mandato que fija la constitución."
+
+#, fuzzy,machine-translated
+msgctxt "help.assemblyMember.p3"
+msgid "To vote: the seat’s console under You lists each bill waiting on your vote, with its tally and when it closes."
+msgstr "Para votar: la consola del escaño, en Tú, lista cada proyecto de ley que espera tu voto, con su recuento y cuándo cierra."
+
+#, fuzzy,machine-translated
+msgctxt "help.assemblyMember.p4"
+msgid "Your votes are public, and the console keeps them: every bill you voted on, and how it ended."
+msgstr "Tus votos son públicos y la consola los guarda: cada proyecto de ley que votaste y cómo terminó."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.assemblyMember.title"
+msgid "What does a member of the Assembly do?"
+msgstr "¿Qué hace un miembro de la Asamblea?"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.bankFounding.line"
+msgid "What it takes, and what is spent."
+msgstr "Qué hace falta y qué se gasta."
+
+#. {level} is a player level. {charter} is the charter fee, drawn as a coin amount. {capital} is the least capital, drawn as a coin amount.
+#, fuzzy,machine-translated
+msgctxt "help.bankFounding.p1"
+msgid "From level {level} you can found a bank from You › Start something. It takes a {charter} charter fee, which is spent, and at least {capital} of your own money, which becomes the bank’s cash."
+msgstr "Desde el nivel {level} puedes fundar un banco desde Tú › Crear algo. Cuesta una tasa de licencia de {charter}, que se gasta, y al menos {capital} de tu propio dinero, que pasa a ser el efectivo del banco."
+
+#, fuzzy,machine-translated
+msgctxt "help.bankFounding.p2"
+msgid "A bank can fail, and the people who bank there can lose money. You can wind a bank up, but founding one cannot be undone."
+msgstr "Un banco puede quebrar, y quienes guardan allí su dinero pueden perderlo. Puedes liquidar un banco, pero fundarlo no se puede deshacer."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.bankFounding.title"
+msgid "How do I start a bank?"
+msgstr "¿Cómo fundo un banco?"
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.bankRunning.li1"
+msgid "<b>What it lends on:</b> published terms. Anyone who fits them borrows without asking you. You can change them, or take them down; loans already made stay as they are."
+msgstr "<b>En qué condiciones presta:</b> condiciones publicadas. Cualquiera que las cumpla pide prestado sin pedirte permiso. Puedes cambiarlas o retirarlas; los préstamos ya concedidos quedan como están."
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.bankRunning.li2"
+msgid "<b>Offer someone a loan:</b> the money leaves the bank only when they accept. One offer at a time to one person; you can withdraw it while it waits."
+msgstr "<b>Ofrecer un préstamo a alguien:</b> el dinero sale del banco solo cuando esa persona acepta. Una oferta a la vez para una persona; puedes retirarla mientras espera."
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.bankRunning.li3"
+msgid "<b>Who owes it money:</b> each loan and how it is going. A loan nobody repays is a loss nothing makes good."
+msgstr "<b>Quién le debe dinero:</b> cada préstamo y cómo va. Un préstamo que nadie devuelve es una pérdida que nada compensa."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.bankRunning.line"
+msgid "Whether it can pay out, who owes it, and its terms."
+msgstr "Si puede pagar, quién le debe y sus condiciones."
+
+#, fuzzy,machine-translated
+msgctxt "help.bankRunning.p1"
+msgid "A bank keeps other players’ money and lends it. Its console says first whether it <b>can pay out</b>: its cash against what it owes the people who bank there."
+msgstr "Un banco guarda el dinero de otros jugadores y lo presta. Su consola dice primero si <b>puede pagar</b>: su efectivo frente a lo que debe a quienes guardan allí su dinero."
+
+#, fuzzy,machine-translated
+msgctxt "help.bankRunning.p2"
+msgid "A bank that owes depositors more than it holds says so first. Winding a bank up is at the foot of More options and cannot be undone."
+msgstr "Un banco que debe a sus depositantes más de lo que tiene lo dice primero. Liquidar un banco está al final de Más opciones y no se puede deshacer."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.bankRunning.title"
+msgid "Running a bank"
+msgstr "Dirigir un banco"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.banking.line"
+msgid "Keep money in a bank, borrow it, or run a bank yourself."
+msgstr "Guarda dinero en un banco, pídelo prestado o dirige tú un banco."
+
+#, fuzzy,machine-translated
+msgctxt "help.banking.p1"
+msgid "<b>Banks are run by players: you can put money in one, or borrow from one that lends to you.</b>"
+msgstr "<b>Los bancos los dirigen los jugadores: puedes poner dinero en uno o pedir un préstamo a uno que te lo ofrezca.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.banking.p2"
+msgid "To put money in: open Money, then Banks, and press Put money in on a bank. No bank pays interest on it. You take it out when the bank has the money to pay you."
+msgstr "Para poner dinero: abre Dinero, luego Bancos, y pulsa Poner dinero en un banco. Ningún banco paga intereses por él. Lo retiras cuando el banco tiene dinero para pagarte."
+
+#, fuzzy,machine-translated
+msgctxt "help.banking.p3"
+msgid "To borrow: open Money, then Loans. Each bank says how much it lends, its interest a year, for how long and how often you pay. The Borrow sheet says each payment, the day of the last, and what a missed payment does under that bank’s terms. One loan per bank at a time."
+msgstr "Para pedir un préstamo: abre Dinero, luego Préstamos. Cada banco indica cuánto presta, su interés anual, por cuánto tiempo y cada cuánto pagas. El panel de Pedir prestado indica cada cuota, el día de la última y qué ocurre si no pagas una cuota según las condiciones de ese banco. Un préstamo por banco a la vez."
+
+#, fuzzy,machine-translated
+msgctxt "help.banking.p4"
+msgid "To pay it back early: open the loan and press Repay, or Repay it all."
+msgstr "Para devolverlo antes de tiempo: abre el préstamo y pulsa Devolver o Devolver todo."
+
+#. {level} is a player level. {charter} is the charter fee, drawn as a coin amount. {capital} is the least capital, drawn as a coin amount.
+#, fuzzy,machine-translated
+msgctxt "help.banking.p5"
+msgid "From Level {level} you can found a bank: {charter} for the charter and at least {capital} of capital."
+msgstr "Desde el nivel {level} puedes fundar un banco: {charter} de licencia y al menos {capital} de capital."
+
+#, fuzzy,machine-translated
+msgctxt "help.banking.p6"
+msgid "Words: Deposit: money you put in a bank. Interest: what a loan costs a year, as a part of what you borrow."
+msgstr "Palabras: Depósito: dinero que pones en un banco. Interés: lo que cuesta un préstamo al año, como una parte de lo que pides prestado."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.banking.title"
+msgid "How do banks and loans work?"
+msgstr "¿Cómo funcionan los bancos y los préstamos?"
+
+#, fuzzy,machine-translated
+msgctxt "help.basics.answer"
+msgid "Work your first shift, eat, train and choose where you live; Getting started in Now walks you through it."
+msgstr "Trabaja tu primer turno, come, entrena y elige dónde vivir; Primeros pasos, en Ahora, te guía paso a paso."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.basics.line"
+msgid "What to do first, step by step."
+msgstr "Qué hacer primero, paso a paso."
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {food} is a number of food items. {starterGrant} is the money a new citizen starts with, drawn as a coin amount. {newCountryGrant} is the money a newcomer starts with in a country that is still new, drawn as a coin amount.
+#, fuzzy,machine-translated
+msgctxt "help.basics.step1.how"
+msgid "you are a citizen already, with {starterGrant} ({newCountryGrant} in a country that is still new), {food} food and a basic set of gear."
+msgstr "ya eres ciudadano, con {starterGrant} ({newCountryGrant} en un país que aún es nuevo), {food} unidades de comida y un equipo básico."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.basics.step1.to"
+msgid "To begin"
+msgstr "Para empezar"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.basics.step2.how"
+msgid "press Work a shift on Home. Public works take anyone, with or without a job."
+msgstr "pulsa Trabajar un turno en Inicio. Las obras públicas aceptan a cualquiera, con o sin empleo."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.basics.step2.to"
+msgid "To earn"
+msgstr "Para ganar dinero"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.basics.step3.how"
+msgid "train once a day and finish today's goals; each level opens more of the game."
+msgstr "entrena una vez al día y termina los objetivos de hoy; cada nivel abre más partes del juego."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.basics.step3.to"
+msgid "To grow"
+msgstr "Para crecer"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.basics.step4.how"
+msgid "open a province on the map and choose Live here once you stand in it."
+msgstr "abre una provincia en el mapa y elige Vivir aquí cuando estés en ella."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.basics.step4.to"
+msgid "To settle"
+msgstr "Para instalarte"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.basics.step5.how"
+msgid "vote after a few days, trade on the Market, write for a paper, and fight when your country is at war."
+msgstr "vota pasados unos días, comercia en el Mercado, escribe para un periódico y combate cuando tu país esté en guerra."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.basics.step5.to"
+msgid "Later"
+msgstr "Más adelante"
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+#, fuzzy,machine-translated
+msgctxt "help.basics.synonyms"
+msgid "new, start, begin, first, tutorial, guide, how to play"
+msgstr "nuevo, nueva, empezar, comenzar, inicio, primeros pasos, primer día, tutorial, guía, guia, cómo jugar, como jugar, principiante, ayuda"
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.basics.title"
+msgid "Your first hour"
+msgstr "Tu primera hora"
+
+#. The meaning of the word before it, as a short sentence.
+#, fuzzy,machine-translated
+msgctxt "help.basics.word1.means"
+msgid "The steps in Now that take you through your first day."
+msgstr "Los pasos de Ahora que te guían durante tu primer día."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.basics.word1.term"
+msgid "Getting started"
+msgstr "Primeros pasos"
+
+#. The meaning of the word before it, as a short sentence.
+#, fuzzy,machine-translated
+msgctxt "help.basics.word2.means"
+msgid "What your experience adds up to; each one opens more of the game."
+msgstr "Lo que suma tu experiencia; cada uno abre más partes del juego."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.basics.word2.term"
+msgid "Level"
+msgstr "Nivel"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.chamber.line"
+msgid "Members propose bills and vote on them."
+msgstr "Los miembros proponen proyectos de ley y los votan."
+
+#. {hours} is a number of hours.
+#, fuzzy,machine-translated
+msgctxt "help.chamber.p1"
+msgid "<b>The chamber is the country’s elected assembly. Its members propose bills and vote on each for {hours} hours.</b>"
+msgstr "<b>La cámara es la asamblea elegida del país. Sus miembros proponen proyectos de ley y votan cada uno durante {hours} horas.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.chamber.p2"
+msgid "A bill passes with more yes than no votes. A change to the constitution needs two thirds. How each member voted is public."
+msgstr "Un proyecto de ley se aprueba con más votos a favor que en contra. Un cambio a la constitución necesita dos tercios. El voto de cada miembro es público."
+
+#, fuzzy,machine-translated
+msgctxt "help.chamber.p3"
+msgid "To follow a bill: Country, Politics, The chamber lists every bill, its tally and when its vote closes."
+msgstr "Para seguir un proyecto de ley: abre País, Política, La cámara, que lista cada proyecto de ley, su recuento y cuándo cierra su votación."
+
+#, fuzzy,machine-translated
+msgctxt "help.chamber.p4"
+msgid "To propose one: a member, or an office that may propose bills, uses Propose a bill on the same screen."
+msgstr "Para proponer uno: un miembro, o un cargo que pueda proponer proyectos de ley, usa Proponer un proyecto de ley en la misma pantalla."
+
+#, fuzzy,machine-translated
+msgctxt "help.chamber.p5"
+msgid "Words: Member: somebody holding a seat in the chamber."
+msgstr "Palabras: Miembro: alguien que ocupa un escaño en la cámara."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.chamber.title"
+msgid "How does the chamber work?"
+msgstr "¿Cómo funciona la cámara?"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.chat.line"
+msgid "Rooms, direct messages, and staying safe."
+msgstr "Salas, mensajes directos y cómo protegerte."
+
+#, fuzzy,machine-translated
+msgctxt "help.chat.p1"
+msgid "<b>Chat is the rooms you are in and the people you write to.</b>"
+msgstr "<b>El Chat son las salas en las que estás y las personas a las que escribes.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.chat.p2"
+msgid "Your rooms: the whole world, your country, and every party, unit, company or battle you belong to. Press a room to open it."
+msgstr "Tus salas: el mundo entero, tu país y cada partido, unidad, empresa o batalla a la que perteneces. Pulsa una sala para abrirla."
+
+#, fuzzy,machine-translated
+msgctxt "help.chat.p3"
+msgid "To write: type in the box and press Send. The world room may ask you to wait between messages, and Send counts it down. Press + to mention somebody, add an emoji or a sticker, or attach a picture."
+msgstr "Para escribir: escribe en el cuadro y pulsa Enviar. La sala del mundo puede pedirte que esperes entre mensajes, y Enviar cuenta el tiempo. Pulsa + para mencionar a alguien, añadir un emoji o un sticker, o adjuntar una imagen."
+
+#, fuzzy,machine-translated
+msgctxt "help.chat.p4"
+msgid "To answer one message: open its ⋯ and press Reply. To write to one person, press Message on their page."
+msgstr "Para responder a un mensaje: abre su ⋯ y pulsa Responder. Para escribir a una persona, pulsa Mensaje en su página."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.chat.title"
+msgid "How does Chat work?"
+msgstr "¿Cómo funciona el Chat?"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.citizenship.line"
+msgid "Which country you belong to, and moving to another."
+msgstr "A qué país perteneces y cómo pasar a otro."
+
+#, fuzzy,machine-translated
+msgctxt "help.citizenship.p1"
+msgid "<b>You are a citizen of one country at a time. It is where you vote, run for office and join a party.</b>"
+msgstr "<b>Tienes la ciudadanía de un solo país a la vez. En él votas, te presentas a un cargo y te unes a un partido.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.citizenship.p2"
+msgid "To change: open the other country’s People and apply. Some countries let everyone in at once; in others an office decides. The application says what moving would end for you."
+msgstr "Para cambiar: abre Personas en el otro país y haz tu solicitud. Algunos países admiten a todos de inmediato; en otros decide un cargo. La solicitud dice qué dejarías atrás al mudarte."
+
+#, fuzzy,machine-translated
+msgctxt "help.citizenship.p3"
+msgid "There is a wait between changes, and after moving you wait longer before you can vote or run. Your own dates are on the People screen."
+msgstr "Hay una espera entre cambios, y tras mudarte esperas más antes de poder votar o presentarte. Tus propias fechas están en la pantalla Personas."
+
+#, fuzzy,machine-translated
+msgctxt "help.citizenship.p4"
+msgid "Words: Citizen: a member of a country."
+msgstr "Palabras: Ciudadano: miembro de un país."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.citizenship.title"
+msgid "Citizenship, and how to change it"
+msgstr "La ciudadanía y cómo cambiarla"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.coins.line"
+msgid "Frames, banners and name colours for how you look."
+msgstr "Marcos, banners y colores de nombre para tu aspecto."
+
+#, fuzzy,machine-translated
+msgctxt "help.coins.p1"
+msgid "<b>Coins are a second currency, for how you look and how much room you have, never for an advantage.</b>"
+msgstr "<b>Las Monedas son una segunda divisa, para cómo te ves y cuánto espacio tienes, nunca para ganar ventaja.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.coins.p2"
+msgid "They are bought with real money once the store opens, and buying them is not open yet. They cannot be turned into CR."
+msgstr "Se compran con dinero real cuando abra la Tienda, y comprarlas todavía no está disponible. No se pueden convertir en CR."
+
+#, fuzzy,machine-translated
+msgctxt "help.coins.p3"
+msgid "To try something on: open it in the Store and press Try it on. Only you see it, nothing is bought, and it ends when you leave the Store."
+msgstr "Para probar algo: ábrelo en la Tienda y pulsa Probar. Solo tú lo ves, no se compra nada y termina cuando sales de la Tienda."
+
+#, fuzzy,machine-translated
+msgctxt "help.coins.p4"
+msgid "To wear what you own: open it and press Wear. A title you earned is worn from your public page."
+msgstr "Para ponerte lo que tienes: ábrelo y pulsa Ponerse. Un título que ganaste se lleva desde tu página pública."
+
+#. {coins} is a number of Coins.
+#, fuzzy,machine-translated
+msgctxt "help.coins.p5"
+msgid "Supporter, once it is on sale: {coins} Coins a month, a badge and extra slots. The tip jar on Ko-fi buys nothing and changes nothing."
+msgstr "Mecenas, cuando esté a la venta: {coins} Monedas al mes, una insignia y espacios extra. El bote de propinas de Ko-fi no compra nada ni cambia nada."
+
+#, fuzzy,machine-translated
+msgctxt "help.coins.p6"
+msgid "Words: Coins: the Store’s currency. Supporter: a monthly subscription for looks and room."
+msgstr "Palabras: Monedas: la divisa de la Tienda. Mecenas: una suscripción mensual para el aspecto y el espacio."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.coins.title"
+msgid "What are Coins?"
+msgstr "¿Qué son las Monedas?"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.company.h1"
+msgid "Words"
+msgstr "Palabras"
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.company.li1"
+msgid "<b>To make something:</b> open a site. It is a building in a province of your company’s country. The price shown is the whole price: the building and the goods bought for it."
+msgstr "<b>Para fabricar algo:</b> abre una instalación. Es un edificio en una provincia del país de tu empresa. El precio que se muestra es el precio total: el edificio y los bienes comprados para él."
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.company.li2"
+msgid "<b>To get it working:</b> advertise for people under People. Both sides are held for 24 hours once somebody is hired."
+msgstr "<b>Para ponerla a funcionar:</b> anuncia puestos en Personas. Ambas partes quedan vinculadas durante 24 horas cuando se contrata a alguien."
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.company.li3"
+msgid "<b>To sell what it makes:</b> Trade and stock opens the Market as the company."
+msgstr "<b>Para vender lo que produce:</b> Comercio y existencias abre el Mercado como la empresa."
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.company.li4"
+msgid "<b>To pay its owners:</b> Money. It keeps two weeks of wages and what it owes."
+msgstr "<b>Para pagar a sus propietarios:</b> Dinero. La empresa conserva dos semanas de salarios y lo que debe."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.company.line"
+msgid "Sites, people, money and stock, from one screen."
+msgstr "Instalaciones, personas, dinero y existencias, desde una sola pantalla."
+
+#, fuzzy,machine-translated
+msgctxt "help.company.p1"
+msgid "Open it from You: its first screen says what waits on you, what is wrong, and what runs by itself."
+msgstr "Ábrela desde Tú: su primera pantalla dice qué te espera, qué va mal y qué funciona solo."
+
+#, fuzzy,machine-translated
+msgctxt "help.company.p2"
+msgid "<b>Site:</b> a building where your company makes things. <b>Stock:</b> what its sites hold. <b>Payout:</b> money paid to its owners by their shares."
+msgstr "<b>Instalación:</b> un edificio donde tu empresa fabrica cosas. <b>Existencias:</b> lo que guardan sus instalaciones. <b>Reparto:</b> dinero que se paga a sus propietarios según sus acciones."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.company.title"
+msgid "How do I run a company?"
+msgstr "¿Cómo dirijo una empresa?"
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.companyFounding.li1"
+msgid "<b>Alone:</b> you pay all of it and own all of it."
+msgstr "<b>En solitario:</b> lo pagas todo tú y todo es tuyo."
+
+#. One item of a list; the bold start is a short label. {partners} is a number of citizens. {hours} is a number of hours.
+#, fuzzy,machine-translated
+msgctxt "help.companyFounding.li2"
+msgid "<b>With partners:</b> up to {partners} citizens of its country put money in and own shares by what they put in. You send them a link. If it is not all in within {hours} hours, everyone’s money goes back."
+msgstr "<b>Con socios:</b> hasta {partners} ciudadanos de su país ponen dinero y poseen acciones según lo que aportan. Tú les envías un enlace. Si no está todo aportado en {hours} horas, el dinero de todos se devuelve."
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.companyFounding.li3"
+msgid "<b>Where it is registered is for good:</b> it can only build in that country. The fee goes to the treasury of whoever holds the province."
+msgstr "<b>El país donde se registra es para siempre:</b> solo puede construir en ese país. La tasa va al tesoro público de quien tenga la provincia."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.companyFounding.line"
+msgid "Alone or with partners, and what is for good."
+msgstr "En solitario o con socios, y qué es para siempre."
+
+#. {level} is a player level. {charter} is the fee to found a company, drawn as a coin amount. {startMoney} is the least start money a company needs, drawn as a coin amount.
+#, fuzzy,machine-translated
+msgctxt "help.companyFounding.p1"
+msgid "From level {level} you can found a company from You › Start something. It takes a {charter} fee and at least {startMoney} of start money, which becomes the company’s."
+msgstr "Desde el nivel {level} puedes fundar una empresa desde Tú › Crear algo. Cuesta una tasa de {charter} y al menos {startMoney} de dinero inicial, que pasa a ser de la empresa."
+
+#, fuzzy,machine-translated
+msgctxt "help.companyFounding.p2"
+msgid "Once it exists, open its first site: until then it can make and hire nothing."
+msgstr "Cuando exista, abre su primera instalación: hasta entonces no puede fabricar ni contratar nada."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.companyFounding.title"
+msgid "How do I start a company?"
+msgstr "¿Cómo fundo una empresa?"
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.companyHiring.li1"
+msgid "<b>Advertise for people:</b> say how many, from which level, and the pay for a short shift. The screen says what a full shift then pays, and warns you when you would pay more than a shift makes."
+msgstr "<b>Anunciar puestos:</b> indica cuántas personas, desde qué nivel y el pago por un turno corto. La pantalla indica cuánto paga entonces un turno completo y te avisa cuando pagarías más de lo que produce un turno."
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.companyHiring.li2"
+msgid "<b>Ask me first</b> lets you answer each person. <b>Hire anyone who qualifies</b> takes them at once."
+msgstr "<b>Pregúntame antes</b> te deja responder a cada persona. <b>Contratar a cualquiera que cumpla los requisitos</b> contrata a cada persona al instante."
+
+#. One item of a list; the bold start is a short label. {hours} is a number of hours.
+#, fuzzy,machine-translated
+msgctxt "help.companyHiring.li3"
+msgid "<b>Answering:</b> Hire or Refuse. Once somebody is hired, both sides are held for {hours} hours."
+msgstr "<b>Responder:</b> Contratar o Rechazar. Cuando se contrata a alguien, ambas partes quedan vinculadas durante {hours} horas."
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.companyHiring.li4"
+msgid "<b>Wages</b> are paid from the company’s money each day; the console says how many days it has in hand."
+msgstr "<b>Los salarios</b> se pagan cada día con el dinero de la empresa; la consola dice para cuántos días alcanza."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.companyHiring.line"
+msgid "Adverts, applicants, pay, and handing hiring over."
+msgstr "Anuncios, solicitantes, pago y cómo delegar la contratación."
+
+#, fuzzy,machine-translated
+msgctxt "help.companyHiring.p1"
+msgid "A company hires from its People once it has a site that is open."
+msgstr "Una empresa contrata desde su sección Personas cuando tiene una instalación abierta."
+
+#, fuzzy,machine-translated
+msgctxt "help.companyHiring.p2"
+msgid "Under More options you can let idle workers go after a number of days, or hand hiring over to someone you trust, with a job title."
+msgstr "En Más opciones puedes despedir a quienes llevan inactivos cierto número de días, o delegar la contratación en alguien de confianza, con un título de puesto."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.companyHiring.title"
+msgid "How do I hire people?"
+msgstr "¿Cómo contrato personas?"
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.companySite.li1"
+msgid "<b>What it makes:</b> each choice shows the whole price of its cheapest place, what a site makes a day and what that sells for today."
+msgstr "<b>Qué produce:</b> cada opción muestra el precio total de su lugar más barato, lo que produce una instalación al día y por cuánto se vende hoy."
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.companySite.li2"
+msgid "<b>Where:</b> a province of your company’s own country, with its industry level and the room left. A province another country holds is shown, and cannot be chosen."
+msgstr "<b>Dónde:</b> una provincia del propio país de tu empresa, con su nivel industrial y el espacio que queda. Una provincia en manos de otro país se muestra, pero no se puede elegir."
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.companySite.li3"
+msgid "<b>How big:</b> a bigger site has more places to work. You can make it bigger later; it stops for a few hours then."
+msgstr "<b>De qué tamaño:</b> una instalación más grande tiene más puestos de trabajo. Puedes ampliarla después; entonces se detiene unas horas."
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.companySite.li4"
+msgid "<b>The price:</b> the building and the goods it needs, bought on the Market for the company. Nothing more is spent than the price you were shown."
+msgstr "<b>El precio:</b> el edificio y los bienes que necesita, comprados en el Mercado para la empresa. No se gasta nada más que el precio que viste."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.companySite.line"
+msgid "What it makes, where, how big, and what it costs."
+msgstr "Qué produce, dónde, de qué tamaño y cuánto cuesta."
+
+#, fuzzy,machine-translated
+msgctxt "help.companySite.p1"
+msgid "A site is a building where your company makes one thing. Open one from your company’s Sites."
+msgstr "Una instalación es un edificio donde tu empresa produce una sola cosa. Abre una desde las Instalaciones de tu empresa."
+
+#, fuzzy,machine-translated
+msgctxt "help.companySite.p2"
+msgid "A site works once it has people, or an automation line. Pulling one down is at the foot of the site’s More options."
+msgstr "Una instalación funciona cuando tiene personas o una línea de automatización. Derribarla está al final de Más opciones de la instalación."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.companySite.title"
+msgid "How do I open a site?"
+msgstr "¿Cómo abro una instalación?"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.country.h1"
+msgid "Voting and running for office"
+msgstr "Votar y presentarse a un cargo"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.country.h2"
+msgid "Laws and taxes"
+msgstr "Leyes e impuestos"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.country.h3"
+msgid "Changing citizenship and parties"
+msgstr "Cambiar de ciudadanía y de partido"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.country.line"
+msgid "Citizenship, elections, laws and taxes."
+msgstr "Ciudadanía, elecciones, leyes e impuestos."
+
+#, fuzzy,machine-translated
+msgctxt "help.country.p1"
+msgid "Every country is run by its players. Citizens elect the people who make the laws, set the taxes and can declare war."
+msgstr "Cada país lo dirigen sus jugadores. Los ciudadanos eligen a quienes hacen las leyes, fijan los impuestos y pueden declarar la guerra."
+
+#. The first three numbers are days of citizenship: {originalVote} before voting, {originalAssembly} before running for the assembly, {originalHeadOfState} before running for head of state, for a citizen who never changed country. {migrantVote}, {migrantAssembly} and {migrantHeadOfState} are the same three waits, in days, for a citizen who moved from another country.
+#, fuzzy,machine-translated
+msgctxt "help.country.p2"
+msgid "Both depend on how many days you have been a citizen of that country. If you have never changed citizenship, you can vote after {originalVote} days, run for the assembly after {originalAssembly} and for head of state after {originalHeadOfState}. If you moved from another country it is {migrantVote}, {migrantAssembly} and {migrantHeadOfState} days. The Country screen shows your own dates."
+msgstr "Ambas cosas dependen de cuántos días llevas con la ciudadanía de ese país. Si nunca has cambiado de ciudadanía, puedes votar tras {originalVote} días, presentarte a la Asamblea tras {originalAssembly} y a la jefatura de Estado tras {originalHeadOfState}. Si viniste de otro país, son {migrantVote}, {migrantAssembly} y {migrantHeadOfState} días. La pantalla País muestra tus propias fechas."
+
+#, fuzzy,machine-translated
+msgctxt "help.country.p3"
+msgid "While a country is new there is no wait at all: see A new country."
+msgstr "Mientras un país es nuevo no hay ninguna espera: consulta Un país nuevo."
+
+#. {nominationDays} is a number of days. {votingDays} is a number of days.
+#, fuzzy,machine-translated
+msgctxt "help.country.p4"
+msgid "An election has {nominationDays} day for candidates to run, then {votingDays} day of voting, the first election for an office too. If nobody runs against you, you take the seat when entries close, with no vote. A chamber is elected by place, so for a seat in it that means nobody else running where you live. An office the chamber chooses, such as a prime minister, is the exception: anybody may run for it, and the chamber’s members always vote, even on one name."
+msgstr "Una elección tiene {nominationDays} día para que se presenten los candidatos y luego {votingDays} día de votación, y esto vale también para la primera elección de un cargo. Si nadie se presenta contra ti, te quedas con el puesto cuando se cierran las candidaturas, sin votación. Una cámara se elige por lugar, así que para un escaño en ella eso significa que nadie más se presenta donde vives. Un cargo que elige la cámara, como el de primer ministro, es la excepción: cualquiera puede presentarse a él, y los miembros de la cámara siempre votan, incluso con un solo nombre."
+
+#. {hours} is a number of hours.
+#, fuzzy,machine-translated
+msgctxt "help.country.p5"
+msgid "Members of the assembly propose laws and vote on them for {hours} hours. A president or prime minister may propose laws too, and votes on them only with a seat of their own. A law passes with more yes than no votes; a change to the constitution needs two thirds. Taxes are set this way, so they differ from country to country: see your country’s Money room."
+msgstr "Los miembros de la Asamblea proponen leyes y las votan durante {hours} horas. Quien ocupa la presidencia o el puesto de primer ministro también puede proponer leyes, y vota sobre ellas solo si tiene un escaño propio. Una ley se aprueba con más votos a favor que en contra; un cambio a la constitución necesita dos tercios. Los impuestos se fijan así, por lo que cambian de un país a otro: mira la sección Dinero de tu país."
+
+#. {level} is a player level. {fee} is the fee to found a party, drawn as a coin amount.
+#, fuzzy,machine-translated
+msgctxt "help.country.p6"
+msgid "You can apply to become a citizen of another country. Some countries accept everyone at once, others have an official decide. There is a wait between changes. From level {level} you can found a political party for {fee}."
+msgstr "Puedes solicitar la ciudadanía de otro país. Algunos países aceptan a todos de inmediato; en otros decide una autoridad. Hay una espera entre cambios. Desde el nivel {level} puedes fundar un partido político por {fee}."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.country.title"
+msgid "Your country and how to take part"
+msgstr "Tu país y cómo participar"
+
+#, fuzzy,machine-translated
+msgctxt "help.daily.after"
+msgid "A new day starts at midnight UTC."
+msgstr "Un día nuevo empieza a medianoche UTC."
+
+#, fuzzy,machine-translated
+msgctxt "help.daily.answer"
+msgid "Work a shift, train and eat, then see what is waiting on you."
+msgstr "Trabaja un turno, entrena y come, y luego mira qué te espera."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.daily.line"
+msgid "Work, train, eat, and what waits on you."
+msgstr "Trabajar, entrenar, comer y lo que te espera."
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {shortShift} is an amount of Energy.
+#, fuzzy,machine-translated
+msgctxt "help.daily.step1.how"
+msgid "press Work a shift on Home. A short shift costs {shortShift} Energy and pays a wage in CR."
+msgstr "pulsa Trabajar un turno en Inicio. Un turno corto cuesta {shortShift} de Energía y paga un salario en CR."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.daily.step1.to"
+msgid "To earn money"
+msgstr "Para ganar dinero"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {training} is an amount of Energy.
+#, fuzzy,machine-translated
+msgctxt "help.daily.step2.how"
+msgid "press Train for battle, once a day, for {training} Energy. You hit harder in a battle."
+msgstr "pulsa Entrenar para la batalla, una vez al día, por {training} de Energía. Golpeas más fuerte en una batalla."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.daily.step2.to"
+msgid "To get stronger"
+msgstr "Para fortalecerte"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {foodEnergy} is an amount of Energy. {restingEnergy} is an amount of Energy.
+#, fuzzy,machine-translated
+msgctxt "help.daily.step3.how"
+msgid "press Eat. One food gives {foodEnergy} Energy; on its own, Energy comes back up to {restingEnergy}."
+msgstr "pulsa Comer. Una comida da {foodEnergy} de Energía; por sí sola, la Energía se recupera hasta {restingEnergy}."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.daily.step3.to"
+msgid "To get Energy back"
+msgstr "Para recuperar Energía"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.daily.step4.how"
+msgid "look at Waiting on you at the top of Now. Each line says by when."
+msgstr "mira Te esperan, arriba en Ahora. Cada línea dice para cuándo."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.daily.step4.to"
+msgid "To see what needs you"
+msgstr "Para ver qué te espera"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {reward} is the reward, drawn as a coin amount.
+#, fuzzy,machine-translated
+msgctxt "help.daily.step5.how"
+msgid "finish today’s goals for {reward} and a case."
+msgstr "termina los objetivos de hoy: recibes {reward} y una caja."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.daily.step5.to"
+msgid "To earn a little more"
+msgstr "Para ganar un poco más"
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+#, fuzzy,machine-translated
+msgctxt "help.daily.synonyms"
+msgid "each day, daily, routine, what now, today"
+msgstr "cada día, cada dia, diario, diaria, a diario, rutina, qué hago, que hago, ahora, hoy, día, dia"
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.daily.title"
+msgid "What do I do each day?"
+msgstr "¿Qué hago cada día?"
+
+#. The meaning of the word before it, as a short sentence.
+#, fuzzy,machine-translated
+msgctxt "help.daily.word1.means"
+msgid "What work, training and fighting use."
+msgstr "Lo que gastan el trabajo, el entrenamiento y el combate."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.daily.word1.term"
+msgid "Energy"
+msgstr "Energía"
+
+#. The meaning of the word before it, as a short sentence.
+#, fuzzy,machine-translated
+msgctxt "help.daily.word2.means"
+msgid "Credits, the game's money."
+msgstr "Créditos, el dinero del juego."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.daily.word2.term"
+msgid "CR"
+msgstr "CR"
+
+#. The meaning of the word before it, as a short sentence.
+#, fuzzy,machine-translated
+msgctxt "help.daily.word3.means"
+msgid "Decisions only you can make, each with its deadline."
+msgstr "Decisiones que solo tú puedes tomar, cada una con su plazo."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.daily.word3.term"
+msgid "Waiting on you"
+msgstr "Te esperan"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.deciding.line"
+msgid "Bills, laws and what each office may do."
+msgstr "Proyectos de ley, leyes y lo que puede hacer cada cargo."
+
+#, fuzzy,machine-translated
+msgctxt "help.deciding.p1"
+msgid "<b>By law. Members of the chamber propose bills and vote on them, and a bill that passes becomes law.</b>"
+msgstr "<b>Por ley. Los miembros de la cámara proponen proyectos de ley y los votan, y un proyecto aprobado se convierte en ley.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.deciding.p2"
+msgid "Some acts belong to an office instead: whoever holds it acts within the powers its page lists, such as spending from the Treasury up to a limit. A power the constitution keeps for the chamber is done by proposing a bill."
+msgstr "Algunos actos corresponden en cambio a un cargo: quien lo ocupa actúa dentro de las facultades que lista su página, como gastar del tesoro público hasta un límite. Una facultad que la constitución reserva a la cámara se ejerce proponiendo un proyecto de ley."
+
+#, fuzzy,machine-translated
+msgctxt "help.deciding.p3"
+msgid "Citizens choose who holds the offices and the seats in elections, and can be asked one question in a referendum."
+msgstr "Los ciudadanos eligen en elecciones quién ocupa los cargos y los escaños, y se les puede hacer una sola pregunta en un referendo."
+
+#, fuzzy,machine-translated
+msgctxt "help.deciding.p4"
+msgid "To take part: vote in Country, Politics, Elections; run for an office there; or ask your member of the chamber to propose a bill."
+msgstr "Para participar: vota en País, Política, Elecciones; preséntate allí a un cargo; o pide a tu miembro de la cámara que proponga un proyecto de ley."
+
+#, fuzzy,machine-translated
+msgctxt "help.deciding.p5"
+msgid "Words: Bill: a proposed law. Law: a bill that passed. Power: what an office may do."
+msgstr "Palabras: Proyecto de ley: una ley propuesta. Ley: un proyecto de ley aprobado. Facultad: lo que puede hacer un cargo."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.deciding.title"
+msgid "How does this country decide things?"
+msgstr "¿Cómo decide las cosas este país?"
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.development.li1"
+msgid "Better transport makes journeys shorter and can give a province an airport."
+msgstr "Un mejor transporte acorta los viajes y puede dar un aeropuerto a una provincia."
+
+#. One item of a list; the bold start is a short label. {tierOne} is a number of days. {tierTwo} is a number of days. {tierThree} is a number of days. {floor} is the lowest price, drawn as a coin amount.
+#, fuzzy,machine-translated
+msgctxt "help.development.li2"
+msgid "Research comes in three tiers and helps the whole country. A tier costs {tierOne}, {tierTwo} and {tierThree} days of what the country takes in, never less than {floor}, plus goods. A minister starts it from Country, Economy, or a law orders it."
+msgstr "La investigación tiene tres niveles y ayuda a todo el país. Un nivel cuesta {tierOne}, {tierTwo} y {tierThree} días de lo que ingresa el país, nunca menos de {floor}, más bienes. Un ministro la inicia desde País, Economía, o una ley lo ordena."
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.development.li3"
+msgid "World projects are built by everyone. Any citizen can contribute."
+msgstr "Los proyectos del mundo los construyen todos. Cualquier ciudadano puede contribuir."
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.development.li4"
+msgid "Upgrades and world projects earn a country prestige."
+msgstr "Las mejoras y los proyectos del mundo dan prestigio a un país."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.development.line"
+msgid "Roads, industry, research and world projects."
+msgstr "Carreteras, industria, investigación y proyectos del mundo."
+
+#, fuzzy,machine-translated
+msgctxt "help.development.p1"
+msgid "Every province has three kinds of infrastructure: transport, industrial and civil, each up to level 10. A country builds them by opening a worksite, by law or by a minister’s order, and its citizens build it shift by shift, paid from the treasury."
+msgstr "Cada provincia tiene tres tipos de infraestructura: de transporte, industrial y civil, cada una hasta el nivel 10. Un país las construye abriendo una obra, por ley o por orden de un ministro, y sus ciudadanos la construyen turno a turno, con pago del tesoro público."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.development.title"
+msgid "Roads, research and world projects"
+msgstr "Carreteras, investigación y proyectos del mundo"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.elections.line"
+msgid "Running, voting, and asking the country one question."
+msgstr "Presentarse, votar y hacer una pregunta al país."
+
+#. {nominationDays} is a number of days. {votingDays} is a number of days.
+#, fuzzy,machine-translated
+msgctxt "help.elections.p1"
+msgid "<b>An election fills an office or the chamber’s seats. Candidates have {nominationDays} day to run, then voting is open for {votingDays} day. Your vote is secret.</b>"
+msgstr "<b>Una elección cubre un cargo o los escaños de la cámara. Los candidatos tienen {nominationDays} día para presentarse y luego la votación está abierta {votingDays} día. Tu voto es secreto.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.elections.p2"
+msgid "If nobody runs against you, you take the seat when entries close, with no vote."
+msgstr "Si nadie se presenta contra ti, te quedas con el puesto cuando se cierran las candidaturas, sin votación."
+
+#. {hours} is a number of hours.
+#, fuzzy,machine-translated
+msgctxt "help.elections.p3"
+msgid "A referendum asks every citizen one question. It opens at once and runs for {hours} hours. Its answer binds nobody: acting on it is up to the government."
+msgstr "Un referendo hace una pregunta a todos los ciudadanos. Se abre de inmediato y dura {hours} horas. Su resultado no obliga a nadie: actuar según él depende del gobierno."
+
+#, fuzzy,machine-translated
+msgctxt "help.elections.p4"
+msgid "To vote: open Country, Politics, Elections, then the election, then Vote. You can vote once you have been a citizen long enough; the screen shows your date."
+msgstr "Para votar: abre País, Política, Elecciones, luego la elección y luego Votar. Puedes votar cuando lleves suficiente tiempo con la ciudadanía; la pantalla muestra tu fecha."
+
+#, fuzzy,machine-translated
+msgctxt "help.elections.p5"
+msgid "To run: the same election, Run for this office. You can choose a party to run for."
+msgstr "Para presentarte: en la misma elección, Presentarse a este cargo. Puedes elegir un partido por el que presentarte."
+
+#, fuzzy,machine-translated
+msgctxt "help.elections.p6"
+msgid "Words: Candidate: somebody running. Ballot: the list you vote on."
+msgstr "Palabras: Candidato: alguien que se presenta. Boleta: la lista en la que votas."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.elections.title"
+msgid "How do elections and referendums work?"
+msgstr "¿Cómo funcionan las elecciones y los referendos?"
+
+#, fuzzy,machine-translated
+msgctxt "help.energy.after"
+msgid "With too little Energy, an act waits until you have enough. Nothing else happens to you."
+msgstr "Con muy poca Energía, una acción espera hasta que tengas suficiente. No te pasa nada más."
+
+#, fuzzy,machine-translated
+msgctxt "help.energy.answer"
+msgid "Energy is what work, training and fighting spend; it comes back when you eat, and slowly by itself."
+msgstr "La Energía es lo que gastan el trabajo, el entrenamiento y el combate; vuelve cuando comes, y despacio por sí sola."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.energy.line"
+msgid "What spends it, and how it comes back."
+msgstr "Qué la gasta y cómo vuelve."
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {shortShift} is an amount of Energy. {fullShift} is an amount of Energy. {training} is an amount of Energy. {energy} is an amount of Energy.
+#, fuzzy,machine-translated
+msgctxt "help.energy.step1.how"
+msgid "a short shift costs {shortShift}, a full one {fullShift}, training {training}, and each attack in a battle {energy}."
+msgstr "un turno corto cuesta {shortShift}, uno completo {fullShift}, el entrenamiento {training} y cada ataque en una batalla {energy}."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.energy.step1.to"
+msgid "To know what it costs"
+msgstr "Para saber cuánto cuesta"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {foodEnergy} is an amount of Energy. {maxEnergy} is an amount of Energy.
+#, fuzzy,machine-translated
+msgctxt "help.energy.step2.how"
+msgid "press Eat. One food gives {foodEnergy} Energy, up to {maxEnergy}."
+msgstr "pulsa Comer. Una comida da {foodEnergy} de Energía, hasta {maxEnergy}."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.energy.step2.to"
+msgid "To get it back"
+msgstr "Para recuperarla"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {perHour} is an amount of Energy. {restingEnergy} is an amount of Energy.
+#, fuzzy,machine-translated
+msgctxt "help.energy.step3.how"
+msgid "it comes back by itself, {perHour} at the start of every hour, while you have less than {restingEnergy}."
+msgstr "vuelve sola, {perHour} al comienzo de cada hora, mientras tengas menos de {restingEnergy}."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.energy.step3.to"
+msgid "To wait instead"
+msgstr "Para esperar sin comer"
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+#, fuzzy,machine-translated
+msgctxt "help.energy.synonyms"
+msgid "energy, tired, rest, resting, food, eat, hungry"
+msgstr "energía, energia, cansado, cansancio, descanso, descansar, comida, comer, hambre"
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.energy.title"
+msgid "How Energy works"
+msgstr "Cómo funciona la Energía"
+
+#. The meaning of the word before it, as a short sentence. {restingEnergy} is an amount of Energy.
+#, fuzzy,machine-translated
+msgctxt "help.energy.word1.means"
+msgid "The {restingEnergy} Energy it comes back to by itself."
+msgstr "Los {restingEnergy} de Energía hasta los que vuelve sola."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.energy.word1.term"
+msgid "Resting level"
+msgstr "Nivel de descanso"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.foundingEra.h1"
+msgid "What is different"
+msgstr "Qué es diferente"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.foundingEra.h2"
+msgid "Before the first government"
+msgstr "Antes del primer gobierno"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.foundingEra.h3"
+msgid "Running unopposed"
+msgstr "Presentarse sin oposición"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.foundingEra.line"
+msgid "Why the first days in a country are easier."
+msgstr "Por qué los primeros días en un país son más fáciles."
+
+#. {companies} is a number of companies. {days} is a number of days.
+#, fuzzy,machine-translated
+msgctxt "help.foundingEra.p1"
+msgid "A country is new from the day its first citizen arrives until players own {companies} companies there, or for {days} days, whichever comes first. The Country screen says when yours is."
+msgstr "Un país es nuevo desde el día en que llega su primer ciudadano hasta que los jugadores poseen {companies} empresas allí, o durante {days} días, lo que ocurra primero. La pantalla País dice hasta cuándo lo es el tuyo."
+
+#. {newCountryGrant} is the money a newcomer starts with in a country that is still new, drawn as a coin amount. {starterGrant} is the money a new citizen starts with, drawn as a coin amount.
+#, fuzzy,machine-translated
+msgctxt "help.foundingEra.p2"
+msgid "Newcomers here start with {newCountryGrant} instead of {starterGrant}, and founding a company here needs no waiting, whoever founds it."
+msgstr "Quienes llegan aquí empiezan con {newCountryGrant} en lugar de {starterGrant}, y fundar una empresa aquí no requiere espera, la funde quien la funde."
+
+#, fuzzy,machine-translated
+msgctxt "help.foundingEra.p3"
+msgid "If you started playing in that country, you can vote and run for office at once, with no waiting. Somebody who moves there from another country waits the usual time for a newcomer from abroad, new country or not. When the country stops being new, the usual waits come back for everybody, counted from the day each person arrived: somebody who arrived yesterday waits out the rest of theirs, and the Country screen gives them the day."
+msgstr "Si empezaste a jugar en ese país, puedes votar y presentarte a un cargo de inmediato, sin esperar. Quien llega desde otro país espera el tiempo habitual de quien viene del extranjero, sea el país nuevo o no. Cuando el país deja de ser nuevo, las esperas habituales vuelven para todos, contadas desde el día en que llegó cada persona: quien llegó ayer cumple el resto de la suya, y la pantalla País le da el día."
+
+#, fuzzy,machine-translated
+msgctxt "help.foundingEra.p4"
+msgid "Until somebody is elected, nobody governs. What runs on its own keeps running, and nobody can pass a law, spend from the treasury or declare war. A monarchy with nobody on its throne holds a first election for it among its citizens, and whoever wins holds it for life."
+msgstr "Hasta que alguien es elegido, nadie gobierna. Lo que funciona solo sigue funcionando, y nadie puede aprobar una ley, gastar del tesoro público ni declarar la guerra. Una monarquía sin nadie en el trono celebra una primera elección para él entre sus ciudadanos, y quien gana lo ocupa de por vida."
+
+#, fuzzy,machine-translated
+msgctxt "help.foundingEra.p5"
+msgid "If nobody runs against you, there is nothing to vote on: when entries close, you take the seat. So if you are the only one running for President, you become President. A chamber is elected by place, so for a seat in it that means nobody else running where you live. A name on a ballot cannot be taken off, and the Run button says so before you press it. An office the chamber chooses is never taken unopposed: its members vote even when one person runs."
+msgstr "Si nadie se presenta contra ti, no hay nada que votar: cuando se cierran las candidaturas, te quedas con el puesto. Así, si eres la única persona que se presenta a la presidencia, la ocupas. Una cámara se elige por lugar, así que para un escaño en ella eso significa que nadie más se presenta donde vives. Un nombre en una boleta no se puede quitar, y el botón Presentarse lo dice antes de que lo pulses. Un cargo que elige la cámara nunca se obtiene sin oposición: sus miembros votan aunque se presente una sola persona."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.foundingEra.title"
+msgid "A new country"
+msgstr "Un país nuevo"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.gazette.line"
+msgid "Where a government speaks for its country."
+msgstr "Donde un gobierno habla en nombre de su país."
+
+#, fuzzy,machine-translated
+msgctxt "help.gazette.p1"
+msgid "<b>It is where a government speaks for its country.</b>"
+msgstr "<b>Es donde un gobierno habla en nombre de su país.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.gazette.p2"
+msgid "To read it: its notices appear in News under Your country, marked Official notice, and its front page lists all of them and the offices that write there. Every citizen of the country gets its notices without following it."
+msgstr "Para leerlo: sus avisos aparecen en Noticias, en Tu país, marcados como Aviso oficial, y su portada los lista todos junto con los cargos que escriben allí. Todos los ciudadanos del país reciben sus avisos sin seguirlo."
+
+#, fuzzy,machine-translated
+msgctxt "help.gazette.p3"
+msgid "To write a notice: hold an office that writes there, then press Write a notice on its front page. A notice costs nothing to print, and you write it while you hold the office."
+msgstr "Para escribir un aviso: ocupa un cargo que escriba allí y luego pulsa Escribir un aviso en su portada. Un aviso no cuesta nada imprimirlo, y lo escribes mientras ocupas el cargo."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.gazette.title"
+msgid "What is the Official Gazette?"
+msgstr "¿Qué es el Boletín Oficial?"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.giving.line"
+msgid "Give goods to a person, or offer them for a price."
+msgstr "Da bienes a una persona u ofrécelos por un precio."
+
+#, fuzzy,machine-translated
+msgctxt "help.giving.p1"
+msgid "<b>Open their page and press Give or sell, or start from a good in your Inventory.</b>"
+msgstr "<b>Abre su página y pulsa Dar o vender, o empieza desde un bien de tu Inventario.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.giving.p2"
+msgid "To give: choose Give, what and how many, and press Give. To sell: choose Sell and set a price for all of it, which they pay when they accept."
+msgstr "Para dar: elige Dar, qué y cuántos, y pulsa Dar. Para vender: elige Vender y fija un precio por todo, que la persona paga cuando acepta."
+
+#, fuzzy,machine-translated
+msgctxt "help.giving.p3"
+msgid "What you send is held for them at once, and they are told. If they say no, or do not answer in time, it all comes back to you. You can withdraw the offer before they answer."
+msgstr "Lo que envías queda retenido para esa persona de inmediato, y se le avisa. Si dice que no, o no responde a tiempo, todo vuelve a ti. Puedes retirar la oferta antes de que responda."
+
+#, fuzzy,machine-translated
+msgctxt "help.giving.p4"
+msgid "Goods given or sold to a person pay no freight and no import tax, wherever they are."
+msgstr "Los bienes dados o vendidos a una persona no pagan flete ni impuesto a la importación, esté donde esté."
+
+#. {hours} is a number of hours.
+#, fuzzy,machine-translated
+msgctxt "help.giving.p5"
+msgid "For your first {hours} hours, your starting gear and early rewards cannot be sold or given away. The sheet says the day you can."
+msgstr "Durante tus primeras {hours} horas, tu equipo inicial y tus primeras recompensas no se pueden vender ni regalar. El panel dice el día en que podrás."
+
+#, fuzzy,machine-translated
+msgctxt "help.giving.p6"
+msgid "Words: Held: kept for them until they answer."
+msgstr "Palabras: Retenido: guardado para esa persona hasta que responda."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.giving.title"
+msgid "How do I give or sell to someone?"
+msgstr "¿Cómo doy o vendo algo a alguien?"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.givingOrders.line"
+msgid "Telling your side where to fight."
+msgstr "Decirle a tu bando dónde combatir."
+
+#, fuzzy,machine-translated
+msgctxt "help.givingOrders.p1"
+msgid "An order is given on a battle, in the name of a unit (by its commander or an officer) or of a country (by whoever holds that power). It says what to do, how urgent it is and when it ends."
+msgstr "Una orden se da sobre una batalla, en nombre de una unidad (por su comandante o un oficial) o de un país (por quien tenga esa facultad). Dice qué hacer, qué tan urgente es y cuándo termina."
+
+#, fuzzy,machine-translated
+msgctxt "help.givingOrders.p2"
+msgid "Everybody fighting for your side in that battle reads it right above the Fight buttons, and the unit’s soldiers see it first in Now. Other orders keep standing beside it. Whoever gave an order can take it back while it stands, and it ends by itself when its time is up or its battle is decided."
+msgstr "Quienes combaten por tu bando en esa batalla la leen justo encima de los botones Combatir, y los soldados de la unidad la ven primero en Ahora. Las otras órdenes siguen vigentes a su lado. Quien dio una orden puede retirarla mientras esté vigente, y termina sola cuando se acaba su plazo o se decide su batalla."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.givingOrders.title"
+msgid "Giving orders"
+msgstr "Dar órdenes"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.inventory.line"
+msgid "Gear, food, goods and cases."
+msgstr "Equipo, comida, bienes y cajas."
+
+#, fuzzy,machine-translated
+msgctxt "help.inventory.p1"
+msgid "<b>Inventory holds what you wear, your goods and your cases. What a company or a unit you run holds is on its own page.</b>"
+msgstr "<b>El Inventario guarda lo que llevas puesto, tus bienes y tus cajas. Lo que guarda una empresa o una unidad que diriges está en su propia página.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.inventory.p2"
+msgid "To wear something: press Wear on a piece. You wear five: a weapon, a helmet, body armor, legwear and boots. Power is how hard you hit, Protection how much of a hit your armor takes, and Mobility how light you move."
+msgstr "Para ponerte algo: pulsa Ponerse en una pieza. Llevas cinco: un arma, un casco, una armadura, pantalones y botas. Fuerza es cuánto golpeas, Protección cuánto de un golpe absorbe tu armadura y Movilidad qué tan ligero te mueves."
+
+#, fuzzy,machine-translated
+msgctxt "help.inventory.p3"
+msgid "To mend a piece: open it and press Repair, which costs Scrap. A piece at nothing is broken and stops counting in a fight. Only a broken piece can be broken up for Scrap or retired."
+msgstr "Para reparar una pieza: ábrela y pulsa Reparar, que cuesta Chatarra. Una pieza a cero está rota y deja de contar en un combate. Solo una pieza rota se puede desmontar para obtener Chatarra o dar de baja."
+
+#, fuzzy,machine-translated
+msgctxt "help.inventory.p4"
+msgid "To use goods: open one to sell it, give it to someone, or, for food, eat it. To open a case: press Open one, or Open all."
+msgstr "Para usar bienes: abre uno para venderlo, dárselo a alguien o, si es comida, comerlo. Para abrir una caja: pulsa Abrir una caja o Abrir todas."
+
+#. {common} is a percentage, printed without the percent sign. {uncommon} is a percentage, printed without the percent sign. {rare} is a percentage, printed without the percent sign. {epic} is a percentage, printed without the percent sign. {legendary} is a percentage, printed without the percent sign.
+#, fuzzy,machine-translated
+msgctxt "help.inventory.p5"
+msgid "Gear made in a factory comes out rarer than gear from a case: {common}% Common, {uncommon}% Uncommon, {rare}% Rare, {epic}% Epic and {legendary}% Legendary."
+msgstr "El equipo fabricado en una fábrica tiene mayor rareza que el de una caja: {common}% Común, {uncommon}% Poco común, {rare}% Raro, {epic}% Épico y {legendary}% Legendario."
+
+#, fuzzy,machine-translated
+msgctxt "help.inventory.p6"
+msgid "Words: Scrap: what gear is mended with. Condition: how worn a piece is, out of the best it can still reach."
+msgstr "Palabras: Chatarra: con lo que se repara el equipo. Estado: cuánto desgaste tiene una pieza, sobre lo mejor que aún puede alcanzar."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.inventory.title"
+msgid "What do I own, and how do I use it?"
+msgstr "¿Qué tengo y cómo lo uso?"
+
+#, fuzzy,machine-translated
+msgctxt "help.jobs.after"
+msgid "You hold one job at a time. Taking one withdraws your other applications."
+msgstr "Tienes un solo empleo a la vez. Aceptar uno retira tus otras solicitudes."
+
+#. {hours} is a number of hours.
+#, fuzzy,machine-translated
+msgctxt "help.jobs.answer"
+msgid "Apply for a job and work its shifts; for {hours} hours after you are hired, neither you nor the company can end it."
+msgstr "Solicita un empleo y trabaja sus turnos; durante {hours} horas tras la contratación, ni tú ni la empresa pueden terminarlo."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.jobs.line"
+msgid "Applying, working and leaving."
+msgstr "Solicitar, trabajar y dejar el empleo."
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.jobs.step1.how"
+msgid "open Ways to earn, then Jobs. Some jobs hire you at once; others send your application to the company, which says yes or no."
+msgstr "abre Formas de ganar y luego Empleos. Algunos empleos te contratan de inmediato; otros envían tu solicitud a la empresa, que dice sí o no."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.jobs.step1.to"
+msgid "To apply"
+msgstr "Para solicitar"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.jobs.step2.how"
+msgid "each job says what a full and a short shift pay you after tax."
+msgstr "cada empleo dice cuánto te paga un turno completo y uno corto después de impuestos."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.jobs.step2.to"
+msgid "To compare"
+msgstr "Para comparar"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.jobs.step3.how"
+msgid "your applications are above the board, each with Withdraw it."
+msgstr "tus solicitudes están encima del tablero, cada una con Retirarla."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.jobs.step3.to"
+msgid "To change your mind"
+msgstr "Para cambiar de opinión"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.jobs.step4.how"
+msgid "press Leave this job on your job's card, once your hours are up."
+msgstr "pulsa Dejar este empleo en la tarjeta de tu empleo, cuando se cumplan tus horas."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.jobs.step4.to"
+msgid "To leave"
+msgstr "Para dejarlo"
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+#, fuzzy,machine-translated
+msgctxt "help.jobs.synonyms"
+msgid "job, apply, hire, employer, quit, leave, resign"
+msgstr "empleo, trabajo, trabajar, solicitar, postular, postularse, contratar, empleador, renunciar, dejar, abandonar, puesto"
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.jobs.title"
+msgid "How do jobs work?"
+msgstr "¿Cómo funcionan los empleos?"
+
+#. The meaning of the word before it, as a short sentence.
+#, fuzzy,machine-translated
+msgctxt "help.jobs.word1.means"
+msgid "What a shift pays before tax."
+msgstr "Lo que paga un turno antes de impuestos."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.jobs.word1.term"
+msgid "Wage"
+msgstr "Salario"
+
+#. The meaning of the word before it, as a short sentence.
+#, fuzzy,machine-translated
+msgctxt "help.jobs.word2.means"
+msgid "A company your country owns; it hires anyone at its wage."
+msgstr "Una empresa que posee tu país; contrata a cualquiera con su salario."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.jobs.word2.term"
+msgid "State company"
+msgstr "Empresa estatal"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.letters.line"
+msgid "What readers send a piece and its writer."
+msgstr "Lo que los lectores envían a un artículo y a su redactor."
+
+#, fuzzy,machine-translated
+msgctxt "help.letters.p1"
+msgid "<b>Under every piece, readers write letters and can thank the writer with a tip.</b>"
+msgstr "<b>Debajo de cada artículo, los lectores escriben cartas y pueden agradecer al redactor con una propina.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.letters.p2"
+msgid "To write a letter: type it in the box under the piece and post it. Letters are public, with your name and country. You can withdraw your own letter from its ⋯."
+msgstr "Para escribir una carta: escríbela en el cuadro bajo el artículo y publícala. Las cartas son públicas, con tu nombre y tu país. Puedes retirar tu propia carta desde su ⋯."
+
+#. {paperShare} is a percentage, printed without the percent sign. {minimumTip} is the smallest tip, drawn as a coin amount.
+#, fuzzy,machine-translated
+msgctxt "help.letters.p3"
+msgid "To thank the writer: press Thank and choose an amount, from {minimumTip}. The writer keeps most of it and the paper keeps the rest ({paperShare}% unless its owner changes it). You thank a writer once for each piece."
+msgstr "Para agradecer al redactor: pulsa Agradecer y elige una cantidad, desde {minimumTip}. El redactor se queda con la mayor parte y el periódico con el resto ({paperShare}% salvo que su dueño lo cambie). Agradeces a un redactor una vez por cada artículo."
+
+#, fuzzy,machine-translated
+msgctxt "help.letters.p4"
+msgid "To say what you thought: Good piece or Not for me. To report a letter or a piece, open its ⋯."
+msgstr "Para decir qué te pareció: Buen artículo o No es para mí. Para denunciar una carta o un artículo, abre su ⋯."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.letters.title"
+msgid "How do letters and tips work?"
+msgstr "¿Cómo funcionan las cartas y las propinas?"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.market.line"
+msgid "Buying, selling, and what a trade costs."
+msgstr "Comprar, vender y cuánto cuesta una operación."
+
+#, fuzzy,machine-translated
+msgctxt "help.market.p1"
+msgid "<b>Every good has a page in the Market, with its price delivered to where you are and one button that buys or sells.</b>"
+msgstr "<b>Cada bien tiene una página en el Mercado, con su precio puesto en destino hasta donde estás y un botón que compra o vende.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.market.p2"
+msgid "To buy: open the good, choose Buy and how many, and press the button. It shows the total, and that is what you pay. The cheapest offers are taken first."
+msgstr "Para comprar: abre el bien, elige Comprar y cuántos, y pulsa el botón. Muestra el total, y eso es lo que pagas. Las ofertas más baratas se toman primero."
+
+#, fuzzy,machine-translated
+msgctxt "help.market.p3"
+msgid "To sell: choose Sell. Sell now sells to the buyers paying most; when nobody is buying, set your own price."
+msgstr "Para vender: elige Vender. Vender ahora vende a quienes más pagan; cuando nadie compra, pon tu propio precio."
+
+#, fuzzy,machine-translated
+msgctxt "help.market.p4"
+msgid "To set your own price: press Set your own price. An offer to buy sets its money aside and a listing holds your goods, until one is taken."
+msgstr "Para poner tu propio precio: pulsa Pon tu propio precio. Una oferta de compra aparta su dinero y un anuncio retiene tus bienes, hasta que otra persona acepta."
+
+#. {percent} is a percentage, printed without the percent sign. {amount} is the size of a trade that asks first, drawn as a coin amount.
+#, fuzzy,machine-translated
+msgctxt "help.market.p5"
+msgid "The total is the price, freight by weight and distance, a fee of {percent}% paid to the country the goods are delivered to, and an import tax on goods from another country. A trade of {amount} or more asks you first."
+msgstr "El total es el precio, el flete por peso y distancia, una comisión de {percent}% que se paga al país al que se entregan los bienes, y un impuesto a la importación sobre los bienes de otro país. Una operación de {amount} o más te pregunta antes."
+
+#, fuzzy,machine-translated
+msgctxt "help.market.p6"
+msgid "Until a country’s players make enough, the game’s shop sells food, construction materials, industrial components and fuel in its capital, at a price anyone who makes it can sell for less."
+msgstr "Hasta que los jugadores de un país produzcan lo suficiente, la tienda del juego vende comida, materiales de construcción, componentes industriales y combustible en su capital, a un precio que quien lo produzca puede superar vendiendo más barato."
+
+#, fuzzy,machine-translated
+msgctxt "help.market.p7"
+msgid "Words: Delivered: the price with every charge, to where you are. Bid: an offer to buy at your own price."
+msgstr "Palabras: Puesto en destino: el precio con todos los cargos, hasta donde estás. Oferta de compra: una oferta para comprar a tu propio precio."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.market.title"
+msgid "How do I buy and sell?"
+msgstr "¿Cómo compro y vendo?"
+
+#, fuzzy,machine-translated
+msgctxt "help.moderation.answer"
+msgid "Read the report, decide it within 24 hours, and check the words the player will read before you send them."
+msgstr "Lee la denuncia, resuélvela en 24 horas y revisa las palabras que leerá el jugador antes de enviarlas."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.moderation.line"
+msgid "For staff: the queue, a decision, and an appeal."
+msgstr "Para el equipo: la cola, una decisión y una apelación."
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.moderation.step1.how"
+msgid "open the staff console: reports are oldest first, and one waiting more than 24 hours says Late."
+msgstr "abre la consola del equipo: las denuncias van de la más antigua a la más nueva, y una que lleva más de 24 horas esperando dice Con retraso."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.moderation.step1.to"
+msgid "To see what waits"
+msgstr "Para ver qué espera"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.moderation.step2.how"
+msgid "open a report, press Decide, and choose what it stops and for how long."
+msgstr "abre una denuncia, pulsa Decidir y elige qué se detiene y por cuánto tiempo."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.moderation.step2.to"
+msgid "To decide"
+msgstr "Para decidir"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.moderation.step3.how"
+msgid "the question shows the player's sentence, who is told, and that they may appeal."
+msgstr "la pregunta muestra la frase que leerá el jugador, a quién se avisa y que puede apelar."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.moderation.step3.to"
+msgid "To check the words"
+msgstr "Para revisar las palabras"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.moderation.step4.how"
+msgid "press Nothing was wrong. Close it."
+msgstr "pulsa No había ningún problema. Cerrarla."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.moderation.step4.to"
+msgid "To close one with nothing wrong"
+msgstr "Para cerrar una sin ningún problema"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.moderation.step5.how"
+msgid "a moderator who did not decide it reads it, and presses Lift it or Keep it."
+msgstr "un moderador que no la decidió la lee y pulsa Levantarla o Mantenerla."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.moderation.step5.to"
+msgid "To answer an appeal"
+msgstr "Para responder a una apelación"
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+#, fuzzy,machine-translated
+msgctxt "help.moderation.synonyms"
+msgid "report, sanction, moderate, moderation, appeal, staff"
+msgstr "denuncia, denunciar, sanción, sancion, moderar, moderación, moderacion, apelación, apelacion, apelar, equipo, staff"
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.moderation.title"
+msgid "Deciding a report"
+msgstr "Resolver una denuncia"
+
+#. The meaning of the word before it, as a short sentence.
+#, fuzzy,machine-translated
+msgctxt "help.moderation.word1.means"
+msgid "A report waiting more than 24 hours."
+msgstr "Una denuncia que lleva esperando más de 24 horas."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.moderation.word1.term"
+msgid "Late"
+msgstr "Con retraso"
+
+#. The meaning of the word before it, as a short sentence.
+#, fuzzy,machine-translated
+msgctxt "help.moderation.word2.means"
+msgid "What a decision stops a player doing, and until when."
+msgstr "Lo que una decisión impide hacer a un jugador, y hasta cuándo."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.moderation.word2.term"
+msgid "Sanction"
+msgstr "Sanción"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.money.line"
+msgid "CR, what you earn and spend, and where it went."
+msgstr "CR, lo que ganas y gastas, y a dónde fue."
+
+#, fuzzy,machine-translated
+msgctxt "help.money.p1"
+msgid "<b>CR is the money of the world: you earn it, spend it and keep it in your wallet, and every movement is in your Records.</b>"
+msgstr "<b>CR es el dinero del mundo: lo ganas, lo gastas y lo guardas en tu billetera, y cada movimiento queda en tus Registros.</b>"
+
+#. {starterGrant} is the money a new citizen starts with, drawn as a coin amount. {newCountryGrant} is the money a newcomer starts with in a country that is still new, drawn as a coin amount.
+#, fuzzy,machine-translated
+msgctxt "help.money.p2"
+msgid "To earn it: work a shift for a wage, sell on the Market, or take tips for what you write. New citizens start with {starterGrant} ({newCountryGrant} in a country that is still new)."
+msgstr "Para ganarlo: trabaja un turno por un salario, vende en el Mercado o recibe propinas por lo que escribes. Los ciudadanos nuevos empiezan con {starterGrant} ({newCountryGrant} en un país que aún es nuevo)."
+
+#, fuzzy,machine-translated
+msgctxt "help.money.p3"
+msgid "To spend it: buy goods, travel, or start a company, a paper or a bank. An offer to buy sets its money aside: it is still yours, but you cannot spend it until the offer fills or you take it back."
+msgstr "Para gastarlo: compra bienes, viaja o funda una empresa, un periódico o un banco. Una oferta de compra aparta su dinero: sigue siendo tuyo, pero no puedes gastarlo hasta que la oferta se cumpla o la retires."
+
+#, fuzzy,machine-translated
+msgctxt "help.money.p4"
+msgid "To see where it went: open Records at the foot of Money, and choose Earned, Spent, Banks and loans or Trades."
+msgstr "Para ver a dónde fue: abre Registros al final de Dinero y elige Ganado, Gastado, Bancos y préstamos u Operaciones."
+
+#. {hours} is a number of hours.
+#, fuzzy,machine-translated
+msgctxt "help.money.p5"
+msgid "Your country sets its taxes by law, and a new rate starts {hours} hours after the law passes. Its rates are under Country, Economy."
+msgstr "Tu país fija sus impuestos por ley, y una tasa nueva empieza {hours} horas después de que se apruebe la ley. Sus tasas están en País, Economía."
+
+#, fuzzy,machine-translated
+msgctxt "help.money.p6"
+msgid "Words: CR: credits, the game’s money. Set aside: held by an offer to buy, and still yours."
+msgstr "Palabras: CR: créditos, el dinero del juego. Apartado: retenido por una oferta de compra, y aún tuyo."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.money.title"
+msgid "How does money work?"
+msgstr "¿Cómo funciona el dinero?"
+
+#, fuzzy,machine-translated
+msgctxt "help.moved.after"
+msgid "Old links still work: they open the place where the thing lives now."
+msgstr "Los enlaces antiguos siguen funcionando: abren el lugar donde está ahora lo que buscabas."
+
+#, fuzzy,machine-translated
+msgctxt "help.moved.answer"
+msgid "Everything now lives in six places: Home, Market, News, Chat, Country and You. Each place you knew before is inside one of them."
+msgstr "Todo está ahora en seis lugares: Inicio, Mercado, Noticias, Chat, País y Tú. Cada lugar que conocías está dentro de uno de ellos."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.moved.line"
+msgid "Where Today, Work, Press, Banking and the Menu went."
+msgstr "Dónde fueron Hoy, Trabajo, Prensa, Banca y el Menú."
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.moved.step1.how"
+msgid "press Home. Now and Today hold your next steps, your shift, training and eating. Jobs is under Find a job."
+msgstr "pulsa Inicio. Ahora y Hoy reúnen tus próximos pasos, tu turno, el entrenamiento y la comida. Empleos está en Buscar empleo."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.moved.step1.to"
+msgid "To find Today and Work"
+msgstr "Para encontrar Hoy y Trabajo"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.moved.step2.how"
+msgid "press News: your country's papers, the world's, and the ones you follow."
+msgstr "pulsa Noticias: los periódicos de tu país, los del mundo y los que sigues."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.moved.step2.to"
+msgid "To find Press"
+msgstr "Para encontrar Prensa"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.moved.step3.how"
+msgid "press You, then Money: your accounts, loans and shares. A bank you run is in You too."
+msgstr "pulsa Tú y luego Dinero: tus cuentas, préstamos y acciones. Un banco que diriges también está en Tú."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.moved.step3.to"
+msgid "To find Banking"
+msgstr "Para encontrar Banca"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.moved.step4.how"
+msgid "press Country, then Economy: public works and research."
+msgstr "pulsa País y luego Economía: obras públicas e investigación."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.moved.step4.to"
+msgid "To find Development"
+msgstr "Para encontrar Desarrollo"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.moved.step5.how"
+msgid "press You: what you hold and run, Settings and Help."
+msgstr "pulsa Tú: lo que tienes y diriges, Ajustes y Ayuda."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.moved.step5.to"
+msgid "To find the Menu"
+msgstr "Para encontrar el Menú"
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+#, fuzzy,machine-translated
+msgctxt "help.moved.synonyms"
+msgid "moved, where is, where did, today, work, press, banking, development, menu, dock, old, changed"
+msgstr "movido, mudado, cambió, cambio, cambiado, dónde está, donde esta, dónde quedó, donde quedo, hoy, trabajo, prensa, banca, banco, desarrollo, menú, menu, barra, antiguo, viejo"
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.moved.title"
+msgid "Where did things move?"
+msgstr "¿Dónde quedó cada cosa?"
+
+#. The meaning of the word before it, as a short sentence.
+#, fuzzy,machine-translated
+msgctxt "help.moved.word1.means"
+msgid "One of the six: Home, Market, News, Country and You at the bottom of a phone, with Chat at its top; all six down the side of a desktop."
+msgstr "Uno de los seis: Inicio, Mercado, Noticias, País y Tú abajo en un teléfono, con Chat arriba; los seis a un lado en un dispositivo de escritorio."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.moved.word1.term"
+msgid "Place"
+msgstr "Lugar"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.newspaper.line"
+msgid "A paper's pieces, its writers and its printing money."
+msgstr "Los artículos de un periódico, sus redactores y su dinero de impresión."
+
+#. {level} is a player level.
+#, fuzzy,machine-translated
+msgctxt "help.newspaper.p1"
+msgid "<b>Start one from You › Start something once you reach Level {level}.</b>"
+msgstr "<b>Crea uno desde Tú › Crear algo cuando llegues al nivel {level}.</b>"
+
+#. {creationFee} is the cost to start a paper, drawn as a coin amount.
+#, fuzzy,machine-translated
+msgctxt "help.newspaper.p2"
+msgid "To start it: give it a name and the country it prints from. It costs {creationFee}, which becomes its printing money. A citizen runs one paper at a time."
+msgstr "Para crearlo: ponle un nombre y el país desde el que se imprime. Cuesta {creationFee}, que pasa a ser su dinero de impresión. Un ciudadano dirige un periódico a la vez."
+
+#. {printFee} is the cost to print one piece, drawn as a coin amount.
+#, fuzzy,machine-translated
+msgctxt "help.newspaper.p3"
+msgid "To publish: each piece costs the paper {printFee} to print. Add money under More options when it runs low."
+msgstr "Para publicar: imprimir cada artículo cuesta {printFee} al periódico. Añade dinero en Más opciones cuando le quede poco."
+
+#, fuzzy,machine-translated
+msgctxt "help.newspaper.p4"
+msgid "To take writers on: invite them from Writers, or accept those who ask. An editor publishes too; a writer sends you their pieces. What writers keep of a tip is yours to set, under More options."
+msgstr "Para incorporar redactores: invítalos desde Redactores o acepta a quienes lo pidan. Un editor también publica; un redactor te envía sus artículos. Lo que los redactores se quedan de una propina lo decides tú, en Más opciones."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.newspaper.title"
+msgid "How do I run a newspaper?"
+msgstr "¿Cómo dirijo un periódico?"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.offices.line"
+msgid "Its offices, who holds them, and what each may do."
+msgstr "Sus cargos, quién los ocupa y qué puede hacer cada uno."
+
+#, fuzzy,machine-translated
+msgctxt "help.offices.p1"
+msgid "<b>The players holding its offices: a head of state, a head of government, ministers and the members of the chamber.</b>"
+msgstr "<b>Quienes ocupan sus cargos: la jefatura de Estado, la jefatura de gobierno, los ministros y los miembros de la cámara.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.offices.p2"
+msgid "The constitution sets which offices exist and how each is filled: by election, by the chamber, or by an office that appoints to it."
+msgstr "La constitución fija qué cargos existen y cómo se cubre cada uno: por elección, por la cámara o por un cargo que nombra a quien lo ocupa."
+
+#, fuzzy,machine-translated
+msgctxt "help.offices.p3"
+msgid "Each office’s page says how it is filled, how long a term lasts and what it may do, each power a door to where it is used."
+msgstr "La página de cada cargo dice cómo se cubre, cuánto dura un mandato y qué puede hacer, y cada facultad lleva al lugar donde se usa."
+
+#, fuzzy,machine-translated
+msgctxt "help.offices.p4"
+msgid "To see who holds what: Country, Politics, Offices. An office nobody holds says how it can be filled."
+msgstr "Para ver quién ocupa qué: País, Política, Cargos. Un cargo que nadie ocupa dice cómo puede cubrirse."
+
+#, fuzzy,machine-translated
+msgctxt "help.offices.p5"
+msgid "If you hold one, its console is under You: what waits on it first, then what it may do."
+msgstr "Si ocupas uno, su consola está en Tú: primero lo que le espera, luego lo que puede hacer."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.offices.title"
+msgid "Who runs a country?"
+msgstr "¿Quién dirige un país?"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.orders.line"
+msgid "What you have out on the Market, and what it holds."
+msgstr "Lo que tienes en el Mercado y lo que retiene."
+
+#, fuzzy,machine-translated
+msgctxt "help.orders.p1"
+msgid "<b>An order or an offer waits until someone takes it, you take it back, or it ends, and while it waits it holds its money or goods.</b>"
+msgstr "<b>Una orden o una oferta espera hasta que alguien la acepta, tú la retiras o termina, y mientras espera retiene su dinero o sus bienes.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.orders.p2"
+msgid "To see them: open Your orders and offers in the Market. Open lists everything out in your name, what each one holds and when it ends."
+msgstr "Para verlas: abre Tus órdenes y ofertas en el Mercado. Abiertas lista todo lo que hay a tu nombre, lo que retiene cada una y cuándo termina."
+
+#, fuzzy,machine-translated
+msgctxt "help.orders.p3"
+msgid "To take one back: press Take back on an order, or Withdraw on an offer you sent. What it held comes back at once."
+msgstr "Para retirar una: pulsa Retirar, en una orden o en una oferta que enviaste. Lo que retenía vuelve de inmediato."
+
+#, fuzzy,machine-translated
+msgctxt "help.orders.p4"
+msgid "An order can fill while you are away, when a seller or a buyer meets your price. An offer to a person waits for their answer; if they say no, or do not answer in time, the goods come back."
+msgstr "Una orden puede cumplirse mientras estás fuera, cuando un vendedor o un comprador alcanza tu precio. Una oferta a una persona espera su respuesta; si dice que no, o no responde a tiempo, los bienes vuelven."
+
+#, fuzzy,machine-translated
+msgctxt "help.orders.p5"
+msgid "To see what you traded: open Records at the foot. Every closed order and answered offer is there, under its day."
+msgstr "Para ver lo que negociaste: abre Registros al final. Cada orden cerrada y cada oferta respondida está ahí, bajo su día."
+
+#, fuzzy,machine-translated
+msgctxt "help.orders.p6"
+msgid "Words: Set aside: money an offer to buy holds, still yours. Held: goods kept for an order or an offer until it ends."
+msgstr "Palabras: Apartado: dinero que retiene una oferta de compra, aún tuyo. Retenido: bienes guardados para una orden o una oferta hasta que termina."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.orders.title"
+msgid "What happens to my orders and offers?"
+msgstr "¿Qué pasa con mis órdenes y ofertas?"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.organization.line"
+msgid "A group with members and a voice."
+msgstr "Un grupo con miembros y voz."
+
+#, fuzzy,machine-translated
+msgctxt "help.organization.p1"
+msgid "<b>A group of players with a name, members and a voice: its leader and officers announce to every member. It has no power in the game.</b>"
+msgstr "<b>Un grupo de jugadores con nombre, miembros y voz: su líder y sus autoridades hacen anuncios a todos los miembros. No tiene poder en el juego.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.organization.p2"
+msgid "To join: open it from Country, People, Organizations. Some let anyone in; others decide each request."
+msgstr "Para unirte: ábrela desde País, Personas, Organizaciones. Algunas dejan entrar a cualquiera; otras deciden cada solicitud."
+
+#, fuzzy,machine-translated
+msgctxt "help.organization.p3"
+msgid "To start one: You, Start something. It is free, and you lead it."
+msgstr "Para crear una: Tú, Crear algo. Es gratis, y tú la diriges."
+
+#, fuzzy,machine-translated
+msgctxt "help.organization.p4"
+msgid "To leave: on its page, Leave. A leader cannot leave what they lead."
+msgstr "Para salir: en su página, Salir. Un líder no puede salir de lo que dirige."
+
+#, fuzzy,machine-translated
+msgctxt "help.organization.p5"
+msgid "Words: Officer: a member who can let people in, remove plain members and announce."
+msgstr "Palabras: Autoridad: un miembro que puede admitir personas, expulsar a miembros comunes y hacer anuncios."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.organization.title"
+msgid "What is an organization?"
+msgstr "¿Qué es una organización?"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.party.line"
+msgid "A label candidates share on the ballot."
+msgstr "Una etiqueta que comparten los candidatos en la boleta."
+
+#, fuzzy,machine-translated
+msgctxt "help.party.p1"
+msgid "<b>A party is a label candidates share on the ballot. It gives no advantage and holds no power of its own.</b>"
+msgstr "<b>Un partido es una etiqueta que comparten los candidatos en la boleta. No da ninguna ventaja y no tiene poder propio.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.party.p2"
+msgid "To ask to join: open it from Country, Politics, Parties and press Ask to join. You can ask several parties; you belong to the first that lets you in."
+msgstr "Para pedir unirte: ábrelo desde País, Política, Partidos y pulsa Pedir unirse. Puedes pedirlo a varios partidos; perteneces al primero que te admita."
+
+#, fuzzy,machine-translated
+msgctxt "help.party.p3"
+msgid "To give money: on the party’s page, Money. Every gift is public and cannot be taken back, and the party fund cannot be spent yet."
+msgstr "Para dar dinero: en la página del partido, Dinero. Cada donación es pública y no se puede retirar, y el fondo del partido todavía no se puede gastar."
+
+#, fuzzy,machine-translated
+msgctxt "help.party.p4"
+msgid "To leave: on the party’s page, Leave. When its leader leaves, the party passes to its longest-serving officer."
+msgstr "Para salir: en la página del partido, Salir. Cuando su líder se va, el partido pasa a su autoridad con más tiempo en el cargo."
+
+#. {level} is a player level. {fee} is the fee to found a party, drawn as a coin amount.
+#, fuzzy,machine-translated
+msgctxt "help.party.p5"
+msgid "To found one: from level {level}, for {fee}, under You, Start something."
+msgstr "Para fundar uno: desde el nivel {level}, por {fee}, en Tú, Crear algo."
+
+#, fuzzy,machine-translated
+msgctxt "help.party.p6"
+msgid "Words: Officer: a member who can let people in and remove plain members. Party fund: the money given to a party."
+msgstr "Palabras: Autoridad: un miembro que puede admitir personas y expulsar a miembros comunes. Fondo del partido: el dinero que se da a un partido."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.party.title"
+msgid "What is a party for?"
+msgstr "¿Para qué sirve un partido?"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.peace.line"
+msgid "How a war ends."
+msgstr "Cómo termina una guerra."
+
+#, fuzzy,machine-translated
+msgctxt "help.peace.p1"
+msgid "A war ends when one side accepts the other’s peace terms. Terms can hand provinces over and say who keeps what. Whoever holds that power in a country offers them; the other country accepts them, refuses them, or sends different terms back, which take their place."
+msgstr "Una guerra termina cuando un bando acepta las condiciones de paz del otro. Las condiciones pueden entregar provincias y decir quién se queda con qué. Quien tiene esa facultad en un país las ofrece; el otro país las acepta, las rechaza o devuelve otras condiciones, que ocupan su lugar."
+
+#, fuzzy,machine-translated
+msgctxt "help.peace.p2"
+msgid "Terms stand until they are answered or withdrawn. After peace, either country may declare war again."
+msgstr "Las condiciones siguen vigentes hasta que se responden o se retiran. Tras la paz, cualquiera de los dos países puede declarar la guerra de nuevo."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.peace.title"
+msgid "Peace terms"
+msgstr "Condiciones de paz"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.personPage.line"
+msgid "A citizen's public record."
+msgstr "El registro público de un ciudadano."
+
+#, fuzzy,machine-translated
+msgctxt "help.personPage.p1"
+msgid "<b>Their public record: who they are and what they have done.</b>"
+msgstr "<b>Su registro público: quién es y qué ha hecho.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.personPage.p2"
+msgid "It shows their banner and picture, their name and title, their level and country, where they are, their own words, the seals they chose to show, their statistics and their record. Anyone can read it."
+msgstr "Muestra su banner y su imagen, su nombre y título, su nivel y país, dónde está, sus propias palabras, los sellos que eligió mostrar, sus estadísticas y su registro. Cualquiera puede leerla."
+
+#, fuzzy,machine-translated
+msgctxt "help.personPage.p3"
+msgid "To change yours: open You, then Your page, and press Edit. Your picture, banner and words are set in Settings. On You, each fact others can also see says Public."
+msgstr "Para cambiar la tuya: abre Tú, luego Tu página, y pulsa Editar. Tu imagen, tu banner y tus palabras se fijan en Ajustes. En Tú, cada dato que otros también pueden ver dice Público."
+
+#, fuzzy,machine-translated
+msgctxt "help.personPage.p4"
+msgid "To choose the seals on show: in Achievements, turn on Show on my page. You get room for more as you level up."
+msgstr "Para elegir los sellos que se muestran: en Logros, activa Mostrar en mi página. Tienes espacio para más a medida que subes de nivel."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.personPage.title"
+msgid "What does a citizen's page show?"
+msgstr "¿Qué muestra la página de un ciudadano?"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.press.line"
+msgid "Newspapers written by players."
+msgstr "Periódicos escritos por jugadores."
+
+#, fuzzy,machine-translated
+msgctxt "help.press.p1"
+msgid "<b>News is the papers players write, as headlines you open and read.</b>"
+msgstr "<b>Noticias son los periódicos que escriben los jugadores, como titulares que abres y lees.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.press.p2"
+msgid "To read: open a headline. A dot marks one you have not opened yet. Your country shows your country’s papers (press its flag to read another country’s), The world shows every paper, and Following shows the papers you follow."
+msgstr "Para leer: abre un titular. Un punto marca uno que aún no has abierto. Tu país muestra los periódicos de tu país (pulsa su bandera para leer los de otro país), El mundo muestra todos los periódicos y Siguiendo muestra los periódicos que sigues."
+
+#, fuzzy,machine-translated
+msgctxt "help.press.p3"
+msgid "To keep up with a paper: press Follow on its front page or under one of its pieces. Its new pieces then come to Following. Pieces you liked are kept there too."
+msgstr "Para estar al día con un periódico: pulsa Seguir en su portada o debajo de uno de sus artículos. Sus artículos nuevos llegan entonces a Siguiendo. Los artículos que te gustaron también se guardan allí."
+
+#. {level} is a player level.
+#, fuzzy,machine-translated
+msgctxt "help.press.p4"
+msgid "To write: if you write for a paper, Write is under the tabs. Anyone can start a paper from Level {level}."
+msgstr "Para escribir: si escribes para un periódico, Escribir está debajo de las pestañas. Cualquiera puede crear un periódico desde el nivel {level}."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.press.title"
+msgid "How does News work?"
+msgstr "¿Cómo funciona Noticias?"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.primeMinister.line"
+msgid "The head of government, and the powers of the office."
+msgstr "La jefatura de gobierno y las facultades del cargo."
+
+#, fuzzy,machine-translated
+msgctxt "help.primeMinister.p1"
+msgid "<b>A Prime Minister heads the government. What the office may do is set by the country’s constitution and listed on its page.</b>"
+msgstr "<b>Un Primer ministro encabeza el gobierno. Lo que puede hacer el cargo lo fija la constitución del país y se lista en su página.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.primeMinister.p2"
+msgid "Its powers often include appointing ministers, proposing bills and spending from the Treasury up to a limit the law sets. A power the office lacks is shown with who holds it instead."
+msgstr "Sus facultades suelen incluir nombrar ministros, proponer proyectos de ley y gastar del tesoro público hasta un límite que fija la ley. Una facultad que el cargo no tiene se muestra con quién la tiene en su lugar."
+
+#, fuzzy,machine-translated
+msgctxt "help.primeMinister.p3"
+msgid "To act: open the office’s console under You. What waits on it comes first, then its powers in groups, each act asking before it is done."
+msgstr "Para actuar: abre la consola del cargo en Tú. Primero va lo que le espera y luego sus facultades en grupos, y cada acto pide confirmación antes de hacerse."
+
+#, fuzzy,machine-translated
+msgctxt "help.primeMinister.p4"
+msgid "Words: Head of government: the office that runs the country day to day."
+msgstr "Palabras: Jefatura de gobierno: el cargo que dirige el país en el día a día."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.primeMinister.title"
+msgid "What does a Prime Minister do?"
+msgstr "¿Qué hace un Primer ministro?"
+
+#, fuzzy,machine-translated
+msgctxt "help.rankings.after"
+msgid "Wealth shows your position only. No amount of anybody's money is ever shown."
+msgstr "La riqueza muestra solo tu posición. Nunca se muestra la cantidad de dinero de nadie."
+
+#, fuzzy,machine-translated
+msgctxt "help.rankings.answer"
+msgid "Rankings count who is ahead this week, this month and for all time; they are for pride and pay nothing."
+msgstr "Las clasificaciones cuentan quién va por delante esta semana, este mes y de todos los tiempos; son por orgullo y no pagan nada."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.rankings.line"
+msgid "Who is ahead, and what the world builds."
+msgstr "Quién va por delante y qué construye el mundo."
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.rankings.step1.how"
+msgid "open Rankings from The world: citizens, countries, military units, companies and newspapers, the top 50 of each."
+msgstr "abre Clasificaciones desde El mundo: ciudadanos, países, unidades militares, empresas y periódicos, los 50 primeros de cada uno."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.rankings.step1.to"
+msgid "To see the boards"
+msgstr "Para ver las tablas"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.rankings.step2.how"
+msgid "boards are recounted every hour, and the week starts on Monday at midnight UTC."
+msgstr "las tablas se recuentan cada hora, y la semana empieza el lunes a medianoche UTC."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.rankings.step2.to"
+msgid "To know when they change"
+msgstr "Para saber cuándo cambian"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.rankings.step3.how"
+msgid "open The world: its world projects, its eras and what each country has put in."
+msgstr "abre El mundo: sus proyectos del mundo, sus eras y lo que ha aportado cada país."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.rankings.step3.to"
+msgid "To see what the world builds"
+msgstr "Para ver qué construye el mundo"
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+#, fuzzy,machine-translated
+msgctxt "help.rankings.synonyms"
+msgid "ranking, rankings, leaderboard, top, world project, prestige"
+msgstr "clasificación, clasificacion, clasificaciones, ranking, rankings, tabla, mejores, top, proyecto del mundo, prestigio"
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.rankings.title"
+msgid "How do rankings and world projects work?"
+msgstr "¿Cómo funcionan las clasificaciones y los proyectos del mundo?"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.safety.line"
+msgid "Hide, block or report somebody."
+msgstr "Oculta, bloquea o denuncia a alguien."
+
+#, fuzzy,machine-translated
+msgctxt "help.safety.p1"
+msgid "<b>From the ⋯ beside their name, or beside anything they wrote.</b>"
+msgstr "<b>Desde el ⋯ junto a su nombre, o junto a cualquier cosa que escribió.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.safety.p2"
+msgid "To hide them: Hide their posts. Their articles, letters and room posts leave your screens, but not your direct messages. Show them again from Chat › People you know."
+msgstr "Para ocultar a una persona: Ocultar sus publicaciones. Sus artículos, cartas y mensajes de sala desaparecen de tus pantallas, pero no tus mensajes directos. Vuelve a mostrarla desde Chat › Personas que conoces."
+
+#, fuzzy,machine-translated
+msgctxt "help.safety.p3"
+msgid "To block them: they cannot write to you in a direct or group room, and you stop seeing what they write in chat."
+msgstr "Para bloquear a alguien: esa persona no puede escribirte en una sala directa o de grupo, y dejas de ver lo que escribe en el chat."
+
+#, fuzzy,machine-translated
+msgctxt "help.safety.p4"
+msgid "To report: choose Report on a message, a letter, a piece or a person, pick what is wrong and add a note if you like. A moderator reads every report, and nobody is told who reported them."
+msgstr "Para denunciar: elige Denunciar en un mensaje, una carta, un artículo o una persona, escoge qué está mal y añade una nota si quieres. Un moderador lee cada denuncia, y a nadie se le dice quién lo denunció."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.safety.title"
+msgid "How do I hide or report somebody?"
+msgstr "¿Cómo oculto o denuncio a alguien?"
+
+#, fuzzy,machine-translated
+msgctxt "help.settings.answer"
+msgid "Settings holds how you look, what others see, your alerts and sound, how you sign in, and your account."
+msgstr "Ajustes guarda tu aspecto, lo que ven los demás, tus avisos y tu sonido, cómo inicias sesión y tu cuenta."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.settings.line"
+msgid "How you look, what others see, alerts and your account."
+msgstr "Tu aspecto, lo que ven los demás, los avisos y tu cuenta."
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.settings.step1.how"
+msgid "Profile: your picture, banner, words about you and your name."
+msgstr "Perfil: tu imagen, tu banner, tus palabras sobre ti y tu nombre."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.settings.step1.to"
+msgid "To change how you look"
+msgstr "Para cambiar tu aspecto"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.settings.step2.how"
+msgid "Privacy, with the people you hid."
+msgstr "Privacidad, con las personas que ocultaste."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.settings.step2.to"
+msgid "To choose what others see"
+msgstr "Para elegir lo que ven los demás"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.settings.step3.how"
+msgid "Alerts. Language and Sound and radio sit beside it."
+msgstr "Avisos. Idioma y Sonido y radio están a su lado."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.settings.step3.to"
+msgid "To be told on this device"
+msgstr "Para recibir avisos en este dispositivo"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.settings.step4.how"
+msgid "Account and security: your email address, your ways in, your devices, and deleting your account."
+msgstr "Cuenta y seguridad: tu correo electrónico, tus formas de entrar, tus dispositivos y la eliminación de tu cuenta."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.settings.step4.to"
+msgid "To change how you sign in"
+msgstr "Para cambiar cómo inicias sesión"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.settings.step5.how"
+msgid "Your standing, where you can ask a moderator to look again."
+msgstr "Tu situación, donde puedes pedir a un moderador que lo revise de nuevo."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.settings.step5.to"
+msgid "To see anything against your account"
+msgstr "Para ver cualquier cosa en contra de tu cuenta"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.settings.step6.how"
+msgid "Advanced holds Discord and keys for your own tools; About this world, the version and the rules."
+msgstr "Avanzado guarda Discord y claves para tus propias herramientas; Sobre este mundo, la versión y las reglas."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.settings.step6.to"
+msgid "For everything else"
+msgstr "Para todo lo demás"
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+#, fuzzy,machine-translated
+msgctxt "help.settings.synonyms"
+msgid "settings, account, email, sign out, log out, delete, name, picture, privacy, language, sound"
+msgstr "ajustes, configuración, configuracion, cuenta, correo, email, cerrar sesión, cerrar sesion, salir, eliminar, borrar, nombre, imagen, foto, privacidad, idioma, sonido"
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.settings.title"
+msgid "What can I change?"
+msgstr "¿Qué puedo cambiar?"
+
+#. The meaning of the word before it, as a short sentence.
+#, fuzzy,machine-translated
+msgctxt "help.settings.word1.means"
+msgid "Stop seeing someone's articles, letters and room messages; they can still write to you."
+msgstr "Dejar de ver los artículos, las cartas y los mensajes de sala de alguien; esa persona aún puede escribirte."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.settings.word1.term"
+msgid "Hide"
+msgstr "Ocultar"
+
+#. The meaning of the word before it, as a short sentence.
+#, fuzzy,machine-translated
+msgctxt "help.settings.word2.means"
+msgid "A device where you are signed in."
+msgstr "Un dispositivo donde has iniciado sesión."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.settings.word2.term"
+msgid "Session"
+msgstr "Sesión"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.shares.line"
+msgid "Part of a company you own, and offers to buy or sell some."
+msgstr "Una parte de una empresa que posees, y ofertas para comprar o vender algunas."
+
+#. {shares} is a number of shares.
+#, fuzzy,machine-translated
+msgctxt "help.shares.p1"
+msgid "<b>A company is {shares} shares, and more than half of a player’s company is control of it.</b>"
+msgstr "<b>Una empresa se divide en {shares} acciones, y tener más de la mitad de las acciones de la empresa de un jugador es tener su control.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.shares.p2"
+msgid "Shares change hands only by an offer from one holder to one person, who accepts it or not. There is no share market."
+msgstr "Las acciones cambian de manos solo mediante una oferta de un titular a una persona, que la acepta o no. No hay un mercado de acciones."
+
+#, fuzzy,machine-translated
+msgctxt "help.shares.p3"
+msgid "To answer an offer: it waits in Now and in Money, Shares, with what you pay, for how much of the company, and what you would own after."
+msgstr "Para responder a una oferta: espera en Ahora y en Dinero, Acciones, con lo que pagas, por cuánta parte de la empresa y qué poseerías después."
+
+#, fuzzy,machine-translated
+msgctxt "help.shares.p4"
+msgid "To offer some of yours: open Money, Shares, then Offer shares to someone. Choose who, how many and a price, or no price to give them. Nothing moves until they accept, and you can take it back until then."
+msgstr "Para ofrecer algunas tuyas: abre Dinero, Acciones y luego Ofrecer acciones a alguien. Elige a quién, cuántas y un precio, o ningún precio para regalarlas. Nada se mueve hasta que la persona acepta, y puedes retirarla hasta entonces."
+
+#, fuzzy,machine-translated
+msgctxt "help.shares.p5"
+msgid "To buy from a country: some countries sell shares in their state companies. They are under Shares on offer, and you buy on the company’s page."
+msgstr "Para comprar a un país: algunos países venden acciones de sus empresas estatales. Están en Acciones en oferta, y compras en la página de la empresa."
+
+#, fuzzy,machine-translated
+msgctxt "help.shares.p6"
+msgid "Words: Share: one part of a company. Control: more than half, which lets you run it."
+msgstr "Palabras: Acción: una parte de una empresa. Control: más de la mitad, que te permite dirigirla."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.shares.title"
+msgid "How do shares work?"
+msgstr "¿Cómo funcionan las acciones?"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.stateCompanies.h1"
+msgid "Who runs one"
+msgstr "Quién la dirige"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.stateCompanies.h2"
+msgid "Where the money goes"
+msgstr "A dónde va el dinero"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.stateCompanies.h3"
+msgid "How a country founds, sells and buys one"
+msgstr "Cómo un país la funda, la vende y la compra"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.stateCompanies.line"
+msgid "Companies your country owns, where anyone can work."
+msgstr "Empresas que posee tu país, donde cualquiera puede trabajar."
+
+#, fuzzy,machine-translated
+msgctxt "help.stateCompanies.p1"
+msgid "Some companies belong to a country rather than a person. They hire, make and sell like any other company, and nothing about them is cheaper or faster. Every country opens with two: a state farm and a state food plant. Both hire anyone at once."
+msgstr "Algunas empresas pertenecen a un país y no a una persona. Contratan, producen y venden como cualquier otra empresa, y nada en ellas es más barato ni más rápido. Cada país empieza con dos: una granja estatal y una planta de alimentos estatal. Las dos contratan a cualquiera de inmediato."
+
+#. {day} is a day number of the world's calendar.
+#, fuzzy,machine-translated
+msgctxt "help.stateCompanies.p10"
+msgid "The companies every country began with can be sold from day {day} of the world."
+msgstr "Las empresas con las que empezó cada país se pueden vender desde el Día {day} del mundo."
+
+#, fuzzy,machine-translated
+msgctxt "help.stateCompanies.p11"
+msgid "Where to find it: a sale is on the company’s own page, in Work → Shares under Companies for sale, and in the country’s Official Gazette."
+msgstr "Dónde encontrarla: una venta está en la página de la propia empresa, en Trabajo → Acciones, en Empresas en venta, y en el Boletín Oficial del país."
+
+#, fuzzy,machine-translated
+msgctxt "help.stateCompanies.p2"
+msgid "An office of the country runs it, usually the finance minister. Whoever holds that office runs the company for as long as they hold it. They cannot take a job there, raise their own wage there, or trade with it for themselves."
+msgstr "Un cargo del país la dirige, normalmente el ministro de Finanzas. Quien ocupa ese cargo dirige la empresa mientras lo ocupe. No puede aceptar un empleo allí, subirse el salario allí ni comerciar con ella por su cuenta."
+
+#, fuzzy,machine-translated
+msgctxt "help.stateCompanies.p3"
+msgid "When nobody holds the office, the company keeps working on its own: it hires anyone who applies at the wage it already pays, and buys and sells at the going price."
+msgstr "Cuando nadie ocupa el cargo, la empresa sigue funcionando sola: contrata a cualquiera que lo solicite con el salario que ya paga, y compra y vende al precio vigente."
+
+#, fuzzy,machine-translated
+msgctxt "help.stateCompanies.p4"
+msgid "A state company only offers jobs while it can pay a full shift for every place it has. When it cannot, its jobs disappear from the lists until it has sold enough."
+msgstr "Una empresa estatal solo ofrece empleos mientras puede pagar un turno completo por cada puesto que tiene. Cuando no puede, sus empleos desaparecen de las listas hasta que haya vendido lo suficiente."
+
+#, fuzzy,machine-translated
+msgctxt "help.stateCompanies.p5"
+msgid "Once a week, what a state company holds beyond two weeks of a full crew’s wages goes to its owners. The country’s share goes into its Treasury, and your country’s Money tab shows what each one last paid."
+msgstr "Una vez a la semana, lo que una empresa estatal tiene por encima de dos semanas de salarios de una plantilla completa va a sus propietarios. La parte del país va a su tesoro público, y la pestaña Dinero de tu país muestra lo que pagó cada una la última vez."
+
+#, fuzzy,machine-translated
+msgctxt "help.stateCompanies.p6"
+msgid "A country’s chamber can found a state company with money from the Treasury. The bill says what it makes, where its first site stands, and how much it starts with."
+msgstr "La cámara de un país puede fundar una empresa estatal con dinero del tesoro público. El proyecto de ley dice qué produce, dónde está su primera instalación y con cuánto empieza."
+
+#. {auctionDays} is a number of days. {offeringDays} is a number of days.
+#, fuzzy,machine-translated
+msgctxt "help.stateCompanies.p7"
+msgid "A chamber can sell one of the country’s companies in one of two ways. Sealed bids for {auctionDays} days: anyone may bid once, nobody sees another bid, and the highest bid of at least the price the chamber set buys the whole company. Every other bid comes back in full. Or shares at a fixed price for {offeringDays} days, to whoever buys first."
+msgstr "Una cámara puede vender una de las empresas del país de dos maneras. Ofertas selladas durante {auctionDays} días: cualquiera puede hacer una oferta una sola vez, nadie ve las ofertas de los demás, y la oferta más alta, de al menos el precio que fijó la cámara, compra la empresa entera. Todas las demás ofertas se devuelven completas. O acciones a un precio fijo durante {offeringDays} días, para quien compre primero."
+
+#, fuzzy,machine-translated
+msgctxt "help.stateCompanies.p8"
+msgid "Once the country holds half the shares or fewer, the company is no longer the country’s. Whoever holds the most shares runs it."
+msgstr "Cuando el país tiene la mitad de las acciones o menos, la empresa deja de ser del país. Quien tiene más acciones la dirige."
+
+#, fuzzy,machine-translated
+msgctxt "help.stateCompanies.p9"
+msgid "A chamber can buy a company based in its country. Every shareholder is paid for their shares: its sites at today’s building cost and its stock, plus a quarter, and its money, less what it owes. Putting the bill fixes the price. A company that is closing or for sale cannot be bought."
+msgstr "Una cámara puede comprar una empresa con sede en su país. Se paga a cada accionista por sus acciones: sus instalaciones al costo de construcción de hoy y sus existencias, más una cuarta parte, y su dinero, menos lo que debe. Proponer el proyecto de ley fija el precio. Una empresa que se está cerrando o está en venta no se puede comprar."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.stateCompanies.title"
+msgid "How do state companies work?"
+msgstr "¿Cómo funcionan las empresas estatales?"
+
+#. One step of a page: {to} is what the player wants to do, written as the start of a sentence ("To travel"), and {how} is what to do, which begins in lower case in English ("open a province on the map…"). The bold start ends in a colon.
+#, fuzzy,machine-translated
+msgctxt "help.step"
+msgid "<b>{to}:</b> {how}"
+msgstr "<b>{to}:</b> {how}"
+
+#, fuzzy,machine-translated
+msgctxt "help.travel.after"
+msgid "On the way you can trade, write and chat, but you cannot work a shift or fight until you arrive."
+msgstr "En el camino puedes comerciar, escribir y chatear, pero no puedes trabajar un turno ni combatir hasta llegar."
+
+#, fuzzy,machine-translated
+msgctxt "help.travel.answer"
+msgid "You stand in one province and live in one: travel moves where you stand, and once you are there you can live there too."
+msgstr "Estás en una provincia y vives en una: viajar cambia dónde estás, y cuando llegas también puedes vivir allí."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.travel.line"
+msgid "Journeys, flights and your home."
+msgstr "Viajes, vuelos y tu hogar."
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {fastest} is a number of minutes. {slowest} is a number of minutes. {cheapest} is the lowest fare, drawn as a coin amount. {cheapestAir} is the lowest air fare, drawn as a coin amount.
+#, fuzzy,machine-translated
+msgctxt "help.travel.step1.how"
+msgid "open a province on the map and choose Travel. Overland or by sea takes {fastest} to {slowest} minutes, from {cheapest}; by air, from an airport, from {cheapestAir}."
+msgstr "abre una provincia en el mapa y elige Viajar. Por tierra o por mar tarda de {fastest} a {slowest} minutos, desde {cheapest}; por aire, desde un aeropuerto, desde {cheapestAir}."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.travel.step1.to"
+msgid "To travel"
+msgstr "Para viajar"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {km} is a number of kilometres. {minimumEnergy} is an amount of Energy.
+#, fuzzy,machine-translated
+msgctxt "help.travel.step2.how"
+msgid "press Arrive now: 1 Energy for every {km} km still to go (at least {minimumEnergy}), and half the fare again."
+msgstr "pulsa Llegar ahora: 1 de Energía por cada {km} km que falten (al menos {minimumEnergy}), más la mitad del pasaje."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.travel.step2.to"
+msgid "To arrive at once"
+msgstr "Para llegar de inmediato"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.travel.step3.how"
+msgid "stand in the province, open it and choose Live here."
+msgstr "estando en la provincia, ábrela y elige Vivir aquí."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.travel.step3.to"
+msgid "To live somewhere"
+msgstr "Para vivir en un lugar"
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+#, fuzzy,machine-translated
+msgctxt "help.travel.synonyms"
+msgid "travel, move, journey, fly, flight, live, home, residence, map"
+msgstr "viajar, viaje, mudarse, mudanza, trasladarse, volar, vuelo, vivir, hogar, residencia, mapa"
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.travel.title"
+msgid "How do I travel and where do I live?"
+msgstr "¿Cómo viajo y dónde vivo?"
+
+#. The meaning of the word before it, as a short sentence.
+#, fuzzy,machine-translated
+msgctxt "help.travel.word1.means"
+msgid "Where you live, shown on your page."
+msgstr "Dónde vives, que se muestra en tu página."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.travel.word1.term"
+msgid "Residence"
+msgstr "Residencia"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.treasury.line"
+msgid "Taxes in, public spending out."
+msgstr "Impuestos que entran, gasto público que sale."
+
+#, fuzzy,machine-translated
+msgctxt "help.treasury.p1"
+msgid "<b>Taxes fill the Treasury: wages are taxed and the tax is paid into it.</b>"
+msgstr "<b>Los impuestos llenan el tesoro público: los salarios pagan impuestos y el impuesto se ingresa en él.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.treasury.p2"
+msgid "Goods bought from another country can carry a duty the buyer’s country sets. Taxes and duties change by law."
+msgstr "Los bienes comprados a otro país pueden llevar un arancel que fija el país del comprador. Los impuestos y los aranceles cambian por ley."
+
+#, fuzzy,machine-translated
+msgctxt "help.treasury.p3"
+msgid "The offices that may spend it do so within the limits the law sets: public works, research, budgets, state aid to another country, and its state companies."
+msgstr "Los cargos que pueden gastarlo lo hacen dentro de los límites que fija la ley: obras públicas, investigación, presupuestos, ayuda estatal a otro país y sus empresas estatales."
+
+#, fuzzy,machine-translated
+msgctxt "help.treasury.p4"
+msgid "To see it: Country, Economy shows the Treasury, its last movement, and where each part of it goes."
+msgstr "Para verlo: País, Economía muestra el tesoro público, su último movimiento y a dónde va cada parte."
+
+#, fuzzy,machine-translated
+msgctxt "help.treasury.p5"
+msgid "Words: Treasury: a country’s own money. Duty: a tax on goods from abroad."
+msgstr "Palabras: Tesoro público: el dinero propio de un país. Arancel: un impuesto sobre bienes del extranjero."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.treasury.title"
+msgid "Where does the country's money come from and go?"
+msgstr "¿De dónde viene el dinero del país y a dónde va?"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.treaties.line"
+msgid "Who comes to your side when you are attacked."
+msgstr "Quién viene en tu ayuda cuando te atacan."
+
+#, fuzzy,machine-translated
+msgctxt "help.treaties.p1"
+msgid "A defence pact is a treaty between countries: when one of them is attacked, the others are called on and may enter that war on its side. It is a right and not an obligation. Entering costs nothing, refusing is recorded publicly, and saying nothing is an answer too."
+msgstr "Un pacto de defensa es un tratado entre países: cuando uno de ellos es atacado, se llama a los demás y pueden entrar en esa guerra de su lado. Es un derecho y no una obligación. Entrar no cuesta nada, rechazar queda registrado públicamente, y no decir nada también es una respuesta."
+
+#, fuzzy,machine-translated
+msgctxt "help.treaties.p2"
+msgid "A treaty is proposed by whoever holds that power and comes into force once each country has agreed, the way its own laws say."
+msgstr "Un tratado lo propone quien tiene esa facultad y entra en vigor cuando cada país lo ha aceptado, como dicen sus propias leyes."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.treaties.title"
+msgid "Treaties and allies"
+msgstr "Tratados y aliados"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.units.h1"
+msgid "Ranks"
+msgstr "Rangos"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.units.h2"
+msgid "Treasury and armoury"
+msgstr "Tesorería y arsenal"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.units.h3"
+msgid "Machines and the base"
+msgstr "Máquinas y la base"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.units.h4"
+msgid "Leaving and disbanding"
+msgstr "Salir y disolver"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.units.line"
+msgid "Fighting together under one commander."
+msgstr "Combatir juntos bajo un solo comandante."
+
+#, fuzzy,machine-translated
+msgctxt "help.units.p1"
+msgid "A military unit is people of one country who fight together. Anyone can start one, free, and command it; a citizen serves in one unit at a time. Its page is public."
+msgstr "Una unidad militar es un grupo de personas de un mismo país que combaten juntas. Cualquiera puede crear una, gratis, y comandarla; un ciudadano sirve en una unidad a la vez. Su página es pública."
+
+#, fuzzy,machine-translated
+msgctxt "help.units.p2"
+msgid "The commander runs it. Officers give the unit’s orders, answer people who ask to serve and can remove a soldier; if the commander leaves, the unit passes to its longest-serving officer. Soldiers read the orders, stock the armoury and draw on it."
+msgstr "El comandante la dirige. Los oficiales dan las órdenes de la unidad, responden a quienes piden servir y pueden expulsar a un soldado; si el comandante se va, la unidad pasa a su oficial más antiguo. Los soldados leen las órdenes, abastecen el arsenal y toman de él."
+
+#, fuzzy,machine-translated
+msgctxt "help.units.p3"
+msgid "A unit has no income of its own: its treasury is what members pay in, and nobody can pay it back out to them. Its armoury holds the goods members put in for everyone."
+msgstr "Una unidad no tiene ingresos propios: su tesorería es lo que aportan los miembros, y nadie puede devolvérselo. Su arsenal guarda los bienes que los miembros ponen para todos."
+
+#, fuzzy,machine-translated
+msgctxt "help.units.p4"
+msgid "A machine the unit holds can be put into service at its base, for a fee from the treasury. It cannot be undone. The base is chosen when the unit starts and moves only if its province is lost, free, by the commander."
+msgstr "Una máquina que tiene la unidad se puede poner en servicio en su base, por una tasa de la tesorería. No se puede deshacer. La base se elige cuando se crea la unidad y solo se mueve si se pierde su provincia, gratis, por orden del comandante."
+
+#, fuzzy,machine-translated
+msgctxt "help.units.p5"
+msgid "A soldier can leave at any time, free. A unit is disbanded only by its last member, and wound up rather than deleted: its record stays."
+msgstr "Un soldado puede salir en cualquier momento, gratis. Una unidad solo la disuelve su último miembro, y se liquida en lugar de borrarse: su registro permanece."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.units.title"
+msgid "Units"
+msgstr "Unidades"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.war.h1"
+msgid "Who can fight"
+msgstr "Quién puede combatir"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.war.h2"
+msgid "What makes you hit harder"
+msgstr "Qué te hace golpear más fuerte"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.war.h3"
+msgid "What the ground does"
+msgstr "Lo que hace el terreno"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.war.h4"
+msgid "What fighting earns"
+msgstr "Qué se gana combatiendo"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.war.h5"
+msgid "Fighting for pay"
+msgstr "Combatir por paga"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.war.h6"
+msgid "Machines"
+msgstr "Máquinas"
+
+#. A heading inside the page.
+#, fuzzy,machine-translated
+msgctxt "help.war.h7"
+msgid "Whose ground"
+msgstr "De quién es el terreno"
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.war.li1"
+msgid "Citizens of a country in the war, or of its allies."
+msgstr "Ciudadanos de un país en la guerra, o de sus aliados."
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.war.li2"
+msgid "Anyone, for a side that posts a bounty, and paid for their damage. Never against your own country."
+msgstr "Cualquiera, por un bando que publica una recompensa, y se le paga por su daño. Nunca contra tu propio país."
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.war.li3"
+msgid "Standing in the battle’s province or one next to it, and not travelling."
+msgstr "Estar en la provincia de la batalla o en una vecina, y no estar viajando."
+
+#. One item of a list; the bold start is a short label. {energy} is an amount of Energy.
+#, fuzzy,machine-translated
+msgctxt "help.war.li4"
+msgid "Each attack costs {energy} Energy."
+msgstr "Cada ataque cuesta {energy} de Energía."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.war.line"
+msgid "How battles are fought, and who can fight."
+msgstr "Cómo se libran las batallas y quién puede combatir."
+
+#. {rounds} is a number of rounds. {minutes} is a number of minutes.
+#, fuzzy,machine-translated
+msgctxt "help.war.p1"
+msgid "Countries at war fight over provinces. A battle lasts {rounds} rounds of {minutes} minutes. Each round goes to the side that dealt more damage in it, and later rounds count for more. A battle can end early when one side can no longer catch up. A tie goes to extra rounds, and if it is still tied the defender wins."
+msgstr "Los países en guerra combaten por las provincias. Una batalla dura {rounds} rondas de {minutes} minutos. Cada ronda la gana el bando que hizo más daño en ella, y las rondas posteriores cuentan más. Una batalla puede terminar antes cuando un bando ya no puede alcanzar al otro. Un empate pasa a rondas extra, y si sigue empatado gana el defensor."
+
+#. {attacks} is a number of attacks. {provinces} is a number of provinces.
+#, fuzzy,machine-translated
+msgctxt "help.war.p2"
+msgid "A country runs one battle at a time against each enemy, and at most {attacks} attacks at once, plus one more for every {provinces} provinces it holds."
+msgstr "Un país libra una batalla a la vez contra cada enemigo, y como máximo {attacks} ataques a la vez, más uno por cada {provinces} provincias que controla."
+
+#. {declareDays} is a number of days. {battleDays} is a number of days. {floor} is the lowest price, drawn as a coin amount.
+#, fuzzy,machine-translated
+msgctxt "help.war.p3"
+msgid "Declaring a war costs the country’s Treasury {declareDays} days of what it takes in, and opening a battle {battleDays} day, never less than {floor}. War shows today’s price before anybody presses."
+msgstr "Declarar una guerra cuesta al tesoro público del país {declareDays} días de lo que ingresa, y abrir una batalla {battleDays} día, nunca menos de {floor}. Guerra muestra el precio de hoy antes de que nadie pulse."
+
+#, fuzzy,machine-translated
+msgctxt "help.war.p4"
+msgid "Your combat skill, which grows each time you train, and your weapon’s power. Terrain, supply and a little luck change it slightly. Your rank shows what you have done and adds no damage."
+msgstr "Tu habilidad de combate, que crece cada vez que entrenas, y la fuerza de tu arma. El terreno, el suministro y un poco de suerte la cambian ligeramente. Tu rango muestra lo que has hecho y no añade daño."
+
+#. {damage} is an amount of damage. {dailyCap} is an amount of XP. {attacks} is a number of attacks.
+#, fuzzy,machine-translated
+msgctxt "help.war.p5"
+msgid "When a battle is decided, everyone who fought in it gets 1 XP for every {damage} damage they dealt, up to {dailyCap} a day, win or lose. The winning side also gets a case for {attacks} attacks or more, one a day. The top fighter on each side gets a medal."
+msgstr "Cuando se decide una batalla, todos los que combatieron en ella reciben 1 XP por cada {damage} de daño que hicieron, hasta {dailyCap} al día, ganen o pierdan. El bando ganador también recibe una caja por {attacks} ataques o más, una al día. Quien más daño hizo en cada bando recibe una medalla."
+
+#, fuzzy,machine-translated
+msgctxt "help.war.p6"
+msgid "When attackers win, their country takes control of the province. Military units are groups of players who fight together; anyone can found one, free."
+msgstr "Cuando ganan los atacantes, su país toma el control de la provincia. Las unidades militares son grupos de jugadores que combaten juntos; cualquiera puede fundar una, gratis."
+
+#. {lowest} is the lowest pay, drawn as a coin amount. {highest} is the highest pay, drawn as a coin amount.
+#, fuzzy,machine-translated
+msgctxt "help.war.p7"
+msgid "A side can post a bounty: it pays anyone who fights for it, from any country, for the damage they deal, between {lowest} and {highest} per 100 damage, up to the most one fighter can earn, while its budget lasts. You must be in the province or next to it and not travelling, have the Energy for an attack, and not fight against your own country. Once you join a side for pay you keep it for the rest of that battle."
+msgstr "Un bando puede publicar una recompensa: paga a cualquiera que combata por él, de cualquier país, por el daño que haga, entre {lowest} y {highest} por cada 100 de daño, hasta lo máximo que puede ganar un combatiente, mientras dure su presupuesto. Debes estar en la provincia o en una vecina y no estar viajando, tener la Energía para un ataque y no combatir contra tu propio país. Una vez que te unes a un bando por paga, te quedas con él el resto de esa batalla."
+
+#, fuzzy,machine-translated
+msgctxt "help.war.p8"
+msgid "A country and a unit can put machines into service: tanks, artillery and planes. Each is stationed at a base, filled with Fuel from its owner’s stock, and sent to a battle within its reach, where each use spends fuel and wears it down. Bring it home to send it again elsewhere."
+msgstr "Un país y una unidad pueden poner máquinas en servicio: tanques, artillería y aviones. Cada una se estaciona en una base, se llena de Combustible de las existencias de su propietario y se envía a una batalla a su alcance, donde cada uso gasta combustible y la desgasta. Hazla volver a su base para enviarla de nuevo a otro lugar."
+
+#, fuzzy,machine-translated
+msgctxt "help.war.p9"
+msgid "Holding a province is not owning it. A province’s sheet shows who owns it and, when that is somebody else, who holds it: the owner keeps it on paper and its people stay the owner’s citizens until a peace hands it over. Every country that still claims a province may fight to take it back."
+msgstr "Controlar una provincia no es poseerla. La ficha de una provincia muestra a quién pertenece y, cuando es de otro, en manos de quién está: el propietario la conserva sobre el papel y su gente sigue siendo ciudadana de ese país hasta que una paz la entregue. Todo país que aún reclama una provincia puede combatir para recuperarla."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.war.title"
+msgid "War and battles"
+msgstr "Guerra y batallas"
+
+#, fuzzy,machine-translated
+msgctxt "help.work.answer"
+msgid "Work a shift at a job or on public works; a job usually pays more."
+msgstr "Trabaja un turno en un empleo o en obras públicas; un empleo suele pagar más."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.work.line"
+msgid "Shifts, public works and jobs."
+msgstr "Turnos, obras públicas y empleos."
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {shortShift} is an amount of Energy. {fullShift} is an amount of Energy. {times} is how many times the wage a full shift pays.
+#, fuzzy,machine-translated
+msgctxt "help.work.step1.how"
+msgid "press Work a shift on Home, or open Ways to earn. A short shift costs {shortShift} Energy; a full one costs {fullShift}, pays {times} times the wage, and gives your workplace two shifts of work."
+msgstr "pulsa Trabajar un turno en Inicio, o abre Formas de ganar. Un turno corto cuesta {shortShift} de Energía; uno completo cuesta {fullShift}, paga {times} veces el salario y da a tu lugar de trabajo dos turnos de trabajo."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.work.step1.to"
+msgid "To work"
+msgstr "Para trabajar"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {wage} is the wage, drawn as a coin amount.
+#, fuzzy,machine-translated
+msgctxt "help.work.step2.how"
+msgid "choose public works. A short shift pays {wage} unless your country’s law sets another wage, from the treasury and untaxed."
+msgstr "elige obras públicas. Un turno corto paga {wage}, salvo que la ley de tu país fije otro salario, del tesoro público y sin impuestos."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.work.step2.to"
+msgid "To work without a job"
+msgstr "Para trabajar sin empleo"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.work.step3.how"
+msgid "open Ways to earn, then Jobs."
+msgstr "abre Formas de ganar y luego Empleos."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.work.step3.to"
+msgid "To find a job"
+msgstr "Para encontrar un empleo"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.work.step4.how"
+msgid "read the pay slip after a shift: the wage, the income tax of the country you work in, and what is yours."
+msgstr "lee el recibo de pago después de un turno: el salario, el impuesto sobre la renta del país donde trabajas y lo que es tuyo."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.work.step4.to"
+msgid "To see what you kept"
+msgstr "Para ver lo que te quedó"
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+#, fuzzy,machine-translated
+msgctxt "help.work.synonyms"
+msgid "job, work, earn, money, wage, pay, shift, worksite, public works"
+msgstr "empleo, trabajo, trabajar, ganar, ganar dinero, dinero, salario, sueldo, pago, turno, obra, obras públicas, obras publicas"
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.work.title"
+msgid "How do I earn money?"
+msgstr "¿Cómo gano dinero?"
+
+#. The meaning of the word before it, as a short sentence.
+#, fuzzy,machine-translated
+msgctxt "help.work.word1.means"
+msgid "A day's work, once a day."
+msgstr "Un día de trabajo, una vez al día."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.work.word1.term"
+msgid "Shift"
+msgstr "Turno"
+
+#. The meaning of the word before it, as a short sentence.
+#, fuzzy,machine-translated
+msgctxt "help.work.word2.means"
+msgid "Shifts the government pays for, open to anyone."
+msgstr "Turnos que paga el gobierno, abiertos a cualquiera."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.work.word2.term"
+msgid "Public works"
+msgstr "Obras públicas"
+
+#. The meaning of the word before it, as a short sentence.
+#, fuzzy,machine-translated
+msgctxt "help.work.word3.means"
+msgid "A place where a company or a country works."
+msgstr "Un lugar donde trabaja una empresa o un país."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.work.word3.term"
+msgid "Site"
+msgstr "Instalación"
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.world.li1"
+msgid "<b>Provinces</b> belong to a country. In a war another country can take one and hold it; the owner still owns it, and the map draws it striped."
+msgstr "<b>Las provincias</b> pertenecen a un país. En una guerra otro país puede tomar una y mantenerla; el propietario sigue siéndolo, y el mapa la dibuja a rayas."
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.world.li2"
+msgid "<b>An era</b> is a stretch of the world's time. Countries earn prestige in it, and the most prestigious lead the rankings. Nothing about the world resets when an era ends."
+msgstr "<b>Una era</b> es un tramo del tiempo del mundo. Los países ganan prestigio en ella, y los de más prestigio lideran las clasificaciones. Nada del mundo se reinicia cuando termina una era."
+
+#. One item of a list; the bold start is a short label.
+#, fuzzy,machine-translated
+msgctxt "help.world.li3"
+msgid "<b>World projects</b> are built by everybody. Any citizen can give money or goods to one."
+msgstr "<b>Los proyectos del mundo</b> los construyen todos. Cualquier ciudadano puede dar dinero o bienes a uno."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.world.line"
+msgid "Its countries, its eras, and what everyone builds together."
+msgstr "Sus países, sus eras y lo que todos construyen juntos."
+
+#, fuzzy,machine-translated
+msgctxt "help.world.p1"
+msgid "There is one world, and everybody plays in it. It is the real Earth, split into countries and their provinces. Every country is run by its own players, and one with no players yet has every office open."
+msgstr "Hay un solo mundo, y todos juegan en él. Es la Tierra real, dividida en países y sus provincias. Cada país lo dirigen sus propios jugadores, y uno que aún no tiene jugadores tiene todos los cargos abiertos."
+
+#, fuzzy,machine-translated
+msgctxt "help.world.p2"
+msgid "The world's own page has its rankings, its wars, its projects and every country in it."
+msgstr "La página propia del mundo tiene sus clasificaciones, sus guerras, sus proyectos y todos los países que hay en él."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.world.title"
+msgid "What is the world?"
+msgstr "¿Qué es el mundo?"
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.writing.line"
+msgid "Write for a paper that takes you on."
+msgstr "Escribe para un periódico que te incorpore."
+
+#, fuzzy,machine-translated
+msgctxt "help.writing.p1"
+msgid "<b>Write for a paper that takes you on, or start a paper of your own.</b>"
+msgstr "<b>Escribe para un periódico que te incorpore, o crea un periódico propio.</b>"
+
+#, fuzzy,machine-translated
+msgctxt "help.writing.p2"
+msgid "To get a place: a paper’s owner can invite you, and the offer waits in Now. Or press Ask to write here on a paper’s front page, and its owner decides."
+msgstr "Para conseguir un puesto: el dueño de un periódico puede invitarte, y la oferta espera en Ahora. O pulsa Pedir escribir aquí en la portada de un periódico, y su dueño decide."
+
+#, fuzzy,machine-translated
+msgctxt "help.writing.p3"
+msgid "To write: press Write in News, or Write a piece on the paper. When it is ready, press Save and tell the owner. The owner or an editor publishes it, or sends it back with a note; then edit it and send it again."
+msgstr "Para escribir: pulsa Escribir en Noticias, o Escribir un artículo en el periódico. Cuando esté listo, pulsa Guardar y avisa al dueño. El dueño o un editor lo publica, o te lo devuelve con una nota; entonces edítalo y envíalo de nuevo."
+
+#. {writerShare} is a percentage, printed without the percent sign.
+#, fuzzy,machine-translated
+msgctxt "help.writing.p4"
+msgid "You keep most of every tip a reader sends you ({writerShare}% unless the owner changes it). To leave, press Stop writing for this paper."
+msgstr "Te quedas con la mayor parte de cada propina que te envía un lector ({writerShare}% salvo que el dueño lo cambie). Para salir, pulsa Dejar de escribir para este periódico."
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.writing.title"
+msgid "How do I write for a paper?"
+msgstr "¿Cómo escribo para un periódico?"
+
+#, fuzzy,machine-translated
+msgctxt "help.you.after"
+msgid "A fact that says Public can be read by anyone who opens your page."
+msgstr "Un dato que dice Público puede leerlo cualquiera que abra tu página."
+
+#, fuzzy,machine-translated
+msgctxt "help.you.answer"
+msgid "You is everything that is yours: the places you hold, your money and things, and what you can start."
+msgstr "Tú es todo lo que es tuyo: los lugares que ocupas, tu dinero y tus cosas, y lo que puedes crear."
+
+#. One short line under the title on the page's door; keep it short.
+#, fuzzy,machine-translated
+msgctxt "help.you.line"
+msgid "Your places, what you own, and what you can start."
+msgstr "Tus lugares, lo que posees y lo que puedes crear."
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.you.step1.how"
+msgid "press a position: a company, a bank, a paper, a party, a unit or an office."
+msgstr "pulsa un rol: una empresa, un banco, un periódico, un partido, una unidad o un cargo."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.you.step1.to"
+msgid "To go to something you run"
+msgstr "Para ir a algo que diriges"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.you.step2.how"
+msgid "press Start something. Each line says what it costs and what you need first."
+msgstr "pulsa Crear algo. Cada línea dice cuánto cuesta y qué necesitas antes."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.you.step2.to"
+msgid "To start something of your own"
+msgstr "Para crear algo propio"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.you.step3.how"
+msgid "press Money: your balance, what came in and what went out."
+msgstr "pulsa Dinero: tu saldo, lo que entró y lo que salió."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.you.step3.to"
+msgid "To see your money"
+msgstr "Para ver tu dinero"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.you.step4.how"
+msgid "press Inventory: what you hold, wear and can mend."
+msgstr "pulsa Inventario: lo que tienes, llevas puesto y puedes reparar."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.you.step4.to"
+msgid "To see your gear"
+msgstr "Para ver tu equipo"
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+#, fuzzy,machine-translated
+msgctxt "help.you.step5.how"
+msgid "press Settings."
+msgstr "pulsa Ajustes."
+
+#. The bold start of one step, before a colon: what the player wants to do.
+#, fuzzy,machine-translated
+msgctxt "help.you.step5.to"
+msgid "To change how you look or who sees you"
+msgstr "Para cambiar tu aspecto o quién te ve"
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+#, fuzzy,machine-translated
+msgctxt "help.you.synonyms"
+msgid "you, profile, me, my page, positions, start, own"
+msgstr "tú, tu, perfil, yo, mi página, mi pagina, roles, puestos, crear, empezar, propio, mío, mio"
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+#, fuzzy,machine-translated
+msgctxt "help.you.title"
+msgid "What is on the You screen?"
+msgstr "¿Qué hay en la pantalla Tú?"
+
+#. The meaning of the word before it, as a short sentence.
+#, fuzzy,machine-translated
+msgctxt "help.you.word1.means"
+msgid "A place you hold or run, such as a company or an office."
+msgstr "Un lugar que ocupas o diriges, como una empresa o un cargo."
+
+#. A word this page explains, shown in bold above its meaning.
+#, fuzzy,machine-translated
+msgctxt "help.you.word1.term"
+msgid "Position"
+msgstr "Rol"

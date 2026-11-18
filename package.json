@@ -1,0 +1,16 @@
+{
+  "name": "grayhorizon-translations",
+  "private": true,
+  "description": "Gray Horizon's text, and the translations players make of it.",
+  "type": "module",
+  "scripts": {
+    "check": "node tools/check.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@lingui/message-utils": "6.12.0",
+    "pofile-ts": "4.0.3"
+  }
+}

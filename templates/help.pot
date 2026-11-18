@@ -1,0 +1,2672 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gray Horizon\n"
+"Report-Msgid-Bugs-To: https://github.com/NijeFila/GrayHorizon-Translations/issues\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: \n"
+"X-Generator: Gray Horizon (pnpm i18n:publish)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.findWork"
+msgid "Find work"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.foundABank"
+msgid "Found a bank"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.foundACompany"
+msgid "Found a company"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.assemblyMember"
+msgid "Next: What does a member of the Assembly do?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.banking"
+msgid "Next: How do banks and loans work?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.chamber"
+msgid "Next: How does the chamber work?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.chat"
+msgid "Next: How does Chat work?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.country"
+msgid "Next: Your country and how to take part"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.deciding"
+msgid "Next: How does this country decide things?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.development"
+msgid "Next: Roads, research and world projects"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.elections"
+msgid "Next: How do elections work?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.gazette"
+msgid "Next: What is the Official Gazette?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.giving"
+msgid "Next: How do I give or sell to someone?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.letters"
+msgid "Next: How do letters and tips work?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.market"
+msgid "Next: How do I buy and sell?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.money"
+msgid "Next: How does money work?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.newspaper"
+msgid "Next: How do I run a newspaper?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.offices"
+msgid "Next: Who runs a country?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.orders"
+msgid "Next: What happens to my orders and offers?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.party"
+msgid "Next: What is a party for?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.press"
+msgid "Next: How does News work?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.primeMinister"
+msgid "Next: What does a Prime Minister do?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.safety"
+msgid "Next: How do I hide or report somebody?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.shares"
+msgid "Next: How do shares work?"
+msgstr ""
+
+#. A button at the foot of the page that opens the next page; after Next: comes that page's title.
+msgctxt "help.act.next.writing"
+msgid "Next: How do I write for a paper?"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.openAlerts"
+msgid "Open Alerts"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.openChat"
+msgid "Open Chat"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.openEconomy"
+msgid "Open Economy"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.openHome"
+msgid "Open Home"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.openJobs"
+msgid "Open Jobs"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.openNews"
+msgid "Open News"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.openNow"
+msgid "Open Now"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.openRankings"
+msgid "Open rankings"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.openSettings"
+msgid "Open Settings"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.openTheMap"
+msgid "Open the map"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.openWar"
+msgid "Open War"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.openWaysToEarn"
+msgid "Open Ways to earn"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.openWorldProjects"
+msgid "Open world projects"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.openYou"
+msgid "Open You"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.openYourCountry"
+msgid "Open your country"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.readTheWorldRules"
+msgid "Read the world rules"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.seeTreatiesAndAllies"
+msgid "See treaties and allies"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.seeWhereYouCanWork"
+msgid "See where you can work"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.seeYourCountrySUnits"
+msgid "See your country's units"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.seeYourFood"
+msgid "See your food"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.startANewspaper"
+msgid "Start a newspaper"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.whatIsAnOrganization"
+msgid "What is an organization?"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.yourCompanies"
+msgid "Your companies"
+msgstr ""
+
+#. A button at the foot of the page that takes the player into the game or to another page.
+msgctxt "help.act.yourMoney"
+msgid "Your money"
+msgstr ""
+
+msgctxt "help.alerts.after"
+msgid "A decision you, or the world, settled says what happened to it rather than leaving."
+msgstr ""
+
+msgctxt "help.alerts.answer"
+msgid "Alerts tell you what happened and what needs you; the game always shows them, and this device can too."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.alerts.line"
+msgid "What you are told, and where."
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.alerts.step1.how"
+msgid "open Alerts from Home: Waiting on you first, then Important, then the rest by day."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.alerts.step1.to"
+msgid "To read them"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.alerts.step2.how"
+msgid "press it: it opens the thing itself, and Back returns to the list."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.alerts.step2.to"
+msgid "To act on one"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.alerts.step3.how"
+msgid "open Settings, then Alerts, turn on alerts on this device, and choose which kinds reach it."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.alerts.step3.to"
+msgid "To get them on this device"
+msgstr ""
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+msgctxt "help.alerts.synonyms"
+msgid "alert, notification, notify, push, phone, news"
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.alerts.title"
+msgid "How alerts work"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence.
+msgctxt "help.alerts.word1.means"
+msgid "News that changes your country or your things, such as a war."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.alerts.word1.term"
+msgid "Important"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.assemblyMember.line"
+msgid "Votes on every bill, and may propose one."
+msgstr ""
+
+msgctxt "help.assemblyMember.p1"
+msgid "<b>A member votes on every bill before the chamber, and may propose bills.</b>"
+msgstr ""
+
+msgctxt "help.assemblyMember.p2"
+msgid "Seats are elected by place: a member stands for where their voters live, for the term the constitution sets."
+msgstr ""
+
+msgctxt "help.assemblyMember.p3"
+msgid "To vote: the seat’s console under You lists each bill waiting on your vote, with its tally and when it closes."
+msgstr ""
+
+msgctxt "help.assemblyMember.p4"
+msgid "Your votes are public, and the console keeps them: every bill you voted on, and how it ended."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.assemblyMember.title"
+msgid "What does a member of the Assembly do?"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.bankFounding.line"
+msgid "What it takes, and what is spent."
+msgstr ""
+
+#. {level} is a player level. {charter} is the charter fee, drawn as a coin amount. {capital} is the least capital, drawn as a coin amount.
+msgctxt "help.bankFounding.p1"
+msgid "From level {level} you can found a bank from You › Start something. It takes a {charter} charter fee, which is spent, and at least {capital} of your own money, which becomes the bank’s cash."
+msgstr ""
+
+msgctxt "help.bankFounding.p2"
+msgid "A bank can fail, and the people who bank there can lose money. You can wind a bank up, but founding one cannot be undone."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.bankFounding.title"
+msgid "How do I start a bank?"
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.bankRunning.li1"
+msgid "<b>What it lends on:</b> published terms. Anyone who fits them borrows without asking you. You can change them, or take them down; loans already made stay as they are."
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.bankRunning.li2"
+msgid "<b>Offer someone a loan:</b> the money leaves the bank only when they accept. One offer at a time to one person; you can withdraw it while it waits."
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.bankRunning.li3"
+msgid "<b>Who owes it money:</b> each loan and how it is going. A loan nobody repays is a loss nothing makes good."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.bankRunning.line"
+msgid "Whether it can pay out, who owes it, and its terms."
+msgstr ""
+
+msgctxt "help.bankRunning.p1"
+msgid "A bank keeps other players’ money and lends it. Its console says first whether it <b>can pay out</b>: its cash against what it owes the people who bank there."
+msgstr ""
+
+msgctxt "help.bankRunning.p2"
+msgid "A bank that owes depositors more than it holds says so first. Winding a bank up is at the foot of More options and cannot be undone."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.bankRunning.title"
+msgid "Running a bank"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.banking.line"
+msgid "Keep money in a bank, borrow it, or run a bank yourself."
+msgstr ""
+
+msgctxt "help.banking.p1"
+msgid "<b>Banks are run by players: you can put money in one, or borrow from one that lends to you.</b>"
+msgstr ""
+
+msgctxt "help.banking.p2"
+msgid "To put money in: open Money, then Banks, and press Put money in on a bank. No bank pays interest on it. You take it out when the bank has the money to pay you."
+msgstr ""
+
+msgctxt "help.banking.p3"
+msgid "To borrow: open Money, then Loans. Each bank says how much it lends, its interest a year, for how long and how often you pay. The Borrow sheet says each payment, the day of the last, and what a missed payment does under that bank’s terms. One loan per bank at a time."
+msgstr ""
+
+msgctxt "help.banking.p4"
+msgid "To pay it back early: open the loan and press Repay, or Repay it all."
+msgstr ""
+
+#. {level} is a player level. {charter} is the charter fee, drawn as a coin amount. {capital} is the least capital, drawn as a coin amount.
+msgctxt "help.banking.p5"
+msgid "From Level {level} you can found a bank: {charter} for the charter and at least {capital} of capital."
+msgstr ""
+
+msgctxt "help.banking.p6"
+msgid "Words: Deposit: money you put in a bank. Interest: what a loan costs a year, as a part of what you borrow."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.banking.title"
+msgid "How do banks and loans work?"
+msgstr ""
+
+msgctxt "help.basics.answer"
+msgid "Work your first shift, eat, train and choose where you live; Getting started in Now walks you through it."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.basics.line"
+msgid "What to do first, step by step."
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {food} is a number of food items. {starterGrant} is the money a new citizen starts with, drawn as a coin amount. {newCountryGrant} is the money a newcomer starts with in a country that is still new, drawn as a coin amount.
+msgctxt "help.basics.step1.how"
+msgid "you are a citizen already, with {starterGrant} ({newCountryGrant} in a country that is still new), {food} food and a basic set of gear."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.basics.step1.to"
+msgid "To begin"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.basics.step2.how"
+msgid "press Work a shift on Home. Public works take anyone, with or without a job."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.basics.step2.to"
+msgid "To earn"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.basics.step3.how"
+msgid "train once a day and finish today's goals; each level opens more of the game."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.basics.step3.to"
+msgid "To grow"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.basics.step4.how"
+msgid "open a province on the map and choose Live here once you stand in it."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.basics.step4.to"
+msgid "To settle"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.basics.step5.how"
+msgid "vote after a few days, trade on the Market, write for a paper, and fight when your country is at war."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.basics.step5.to"
+msgid "Later"
+msgstr ""
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+msgctxt "help.basics.synonyms"
+msgid "new, start, begin, first, tutorial, guide, how to play"
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.basics.title"
+msgid "Your first hour"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence.
+msgctxt "help.basics.word1.means"
+msgid "The steps in Now that take you through your first day."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.basics.word1.term"
+msgid "Getting started"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence.
+msgctxt "help.basics.word2.means"
+msgid "What your experience adds up to; each one opens more of the game."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.basics.word2.term"
+msgid "Level"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.chamber.line"
+msgid "Members propose bills and vote on them."
+msgstr ""
+
+#. {hours} is a number of hours.
+msgctxt "help.chamber.p1"
+msgid "<b>The chamber is the country’s elected assembly. Its members propose bills and vote on each for {hours} hours.</b>"
+msgstr ""
+
+msgctxt "help.chamber.p2"
+msgid "A bill passes with more yes than no votes. A change to the constitution needs two thirds. How each member voted is public."
+msgstr ""
+
+msgctxt "help.chamber.p3"
+msgid "To follow a bill: Country, Politics, The chamber lists every bill, its tally and when its vote closes."
+msgstr ""
+
+msgctxt "help.chamber.p4"
+msgid "To propose one: a member, or an office that may propose bills, uses Propose a bill on the same screen."
+msgstr ""
+
+msgctxt "help.chamber.p5"
+msgid "Words: Member: somebody holding a seat in the chamber."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.chamber.title"
+msgid "How does the chamber work?"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.chat.line"
+msgid "Rooms, direct messages, and staying safe."
+msgstr ""
+
+msgctxt "help.chat.p1"
+msgid "<b>Chat is the rooms you are in and the people you write to.</b>"
+msgstr ""
+
+msgctxt "help.chat.p2"
+msgid "Your rooms: the whole world, your country, and every party, unit, company or battle you belong to. Press a room to open it."
+msgstr ""
+
+msgctxt "help.chat.p3"
+msgid "To write: type in the box and press Send. The world room may ask you to wait between messages, and Send counts it down. Press + to mention somebody, add an emoji or a sticker, or attach a picture."
+msgstr ""
+
+msgctxt "help.chat.p4"
+msgid "To answer one message: open its ⋯ and press Reply. To write to one person, press Message on their page."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.chat.title"
+msgid "How does Chat work?"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.citizenship.line"
+msgid "Which country you belong to, and moving to another."
+msgstr ""
+
+msgctxt "help.citizenship.p1"
+msgid "<b>You are a citizen of one country at a time. It is where you vote, run for office and join a party.</b>"
+msgstr ""
+
+msgctxt "help.citizenship.p2"
+msgid "To change: open the other country’s People and apply. Some countries let everyone in at once; in others an office decides. The application says what moving would end for you."
+msgstr ""
+
+msgctxt "help.citizenship.p3"
+msgid "There is a wait between changes, and after moving you wait longer before you can vote or run. Your own dates are on the People screen."
+msgstr ""
+
+msgctxt "help.citizenship.p4"
+msgid "Words: Citizen: a member of a country."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.citizenship.title"
+msgid "Citizenship, and how to change it"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.coins.line"
+msgid "Frames, banners and name colours for how you look."
+msgstr ""
+
+msgctxt "help.coins.p1"
+msgid "<b>Coins are a second currency, for how you look and how much room you have, never for an advantage.</b>"
+msgstr ""
+
+msgctxt "help.coins.p2"
+msgid "They are bought with real money once the store opens, and buying them is not open yet. They cannot be turned into CR."
+msgstr ""
+
+msgctxt "help.coins.p3"
+msgid "To try something on: open it in the Store and press Try it on. Only you see it, nothing is bought, and it ends when you leave the Store."
+msgstr ""
+
+msgctxt "help.coins.p4"
+msgid "To wear what you own: open it and press Wear. A title you earned is worn from your public page."
+msgstr ""
+
+#. {coins} is a number of Coins.
+msgctxt "help.coins.p5"
+msgid "Supporter, once it is on sale: {coins} Coins a month, a badge and extra slots. The tip jar on Ko-fi buys nothing and changes nothing."
+msgstr ""
+
+msgctxt "help.coins.p6"
+msgid "Words: Coins: the Store’s currency. Supporter: a monthly subscription for looks and room."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.coins.title"
+msgid "What are Coins?"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.company.h1"
+msgid "Words"
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.company.li1"
+msgid "<b>To make something:</b> open a site. It is a building in a province of your company’s country. The price shown is the whole price: the building and the goods bought for it."
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.company.li2"
+msgid "<b>To get it working:</b> advertise for people under People. Both sides are held for 24 hours once somebody is hired."
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.company.li3"
+msgid "<b>To sell what it makes:</b> Trade and stock opens the Market as the company."
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.company.li4"
+msgid "<b>To pay its owners:</b> Money. It keeps two weeks of wages and what it owes."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.company.line"
+msgid "Sites, people, money and stock, from one screen."
+msgstr ""
+
+msgctxt "help.company.p1"
+msgid "Open it from You: its first screen says what waits on you, what is wrong, and what runs by itself."
+msgstr ""
+
+msgctxt "help.company.p2"
+msgid "<b>Site:</b> a building where your company makes things. <b>Stock:</b> what its sites hold. <b>Payout:</b> money paid to its owners by their shares."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.company.title"
+msgid "How do I run a company?"
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.companyFounding.li1"
+msgid "<b>Alone:</b> you pay all of it and own all of it."
+msgstr ""
+
+#. One item of a list; the bold start is a short label. {partners} is a number of citizens. {hours} is a number of hours.
+msgctxt "help.companyFounding.li2"
+msgid "<b>With partners:</b> up to {partners} citizens of its country put money in and own shares by what they put in. You send them a link. If it is not all in within {hours} hours, everyone’s money goes back."
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.companyFounding.li3"
+msgid "<b>Where it is registered is for good:</b> it can only build in that country. The fee goes to the treasury of whoever holds the province."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.companyFounding.line"
+msgid "Alone or with partners, and what is for good."
+msgstr ""
+
+#. {level} is a player level. {charter} is the fee to found a company, drawn as a coin amount. {startMoney} is the least start money a company needs, drawn as a coin amount.
+msgctxt "help.companyFounding.p1"
+msgid "From level {level} you can found a company from You › Start something. It takes a {charter} fee and at least {startMoney} of start money, which becomes the company’s."
+msgstr ""
+
+msgctxt "help.companyFounding.p2"
+msgid "Once it exists, open its first site: until then it can make and hire nothing."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.companyFounding.title"
+msgid "How do I start a company?"
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.companyHiring.li1"
+msgid "<b>Advertise for people:</b> say how many, from which level, and the pay for a short shift. The screen says what a full shift then pays, and warns you when you would pay more than a shift makes."
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.companyHiring.li2"
+msgid "<b>Ask me first</b> lets you answer each person. <b>Hire anyone who qualifies</b> takes them at once."
+msgstr ""
+
+#. One item of a list; the bold start is a short label. {hours} is a number of hours.
+msgctxt "help.companyHiring.li3"
+msgid "<b>Answering:</b> Hire or Refuse. Once somebody is hired, both sides are held for {hours} hours."
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.companyHiring.li4"
+msgid "<b>Wages</b> are paid from the company’s money each day; the console says how many days it has in hand."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.companyHiring.line"
+msgid "Adverts, applicants, pay, and handing hiring over."
+msgstr ""
+
+msgctxt "help.companyHiring.p1"
+msgid "A company hires from its People once it has a site that is open."
+msgstr ""
+
+msgctxt "help.companyHiring.p2"
+msgid "Under More options you can let idle workers go after a number of days, or hand hiring over to someone you trust, with a job title."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.companyHiring.title"
+msgid "How do I hire people?"
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.companySite.li1"
+msgid "<b>What it makes:</b> each choice shows the whole price of its cheapest place, what a site makes a day and what that sells for today."
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.companySite.li2"
+msgid "<b>Where:</b> a province of your company’s own country, with its industry level and the room left. A province another country holds is shown, and cannot be chosen."
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.companySite.li3"
+msgid "<b>How big:</b> a bigger site has more places to work. You can make it bigger later; it stops for a few hours then."
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.companySite.li4"
+msgid "<b>The price:</b> the building and the goods it needs, bought on the Market for the company. Nothing more is spent than the price you were shown."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.companySite.line"
+msgid "What it makes, where, how big, and what it costs."
+msgstr ""
+
+msgctxt "help.companySite.p1"
+msgid "A site is a building where your company makes one thing. Open one from your company’s Sites."
+msgstr ""
+
+msgctxt "help.companySite.p2"
+msgid "A site works once it has people, or an automation line. Pulling one down is at the foot of the site’s More options."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.companySite.title"
+msgid "How do I open a site?"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.country.h1"
+msgid "Voting and running for office"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.country.h2"
+msgid "Laws and taxes"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.country.h3"
+msgid "Changing citizenship and parties"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.country.line"
+msgid "Citizenship, elections, laws and taxes."
+msgstr ""
+
+msgctxt "help.country.p1"
+msgid "Every country is run by its players. Citizens elect the people who make the laws, set the taxes and can declare war."
+msgstr ""
+
+#. The first three numbers are days of citizenship: {originalVote} before voting, {originalAssembly} before running for the assembly, {originalHeadOfState} before running for head of state, for a citizen who never changed country. {migrantVote}, {migrantAssembly} and {migrantHeadOfState} are the same three waits, in days, for a citizen who moved from another country.
+msgctxt "help.country.p2"
+msgid "Both depend on how many days you have been a citizen of that country. If you have never changed citizenship, you can vote after {originalVote} days, run for the assembly after {originalAssembly} and for head of state after {originalHeadOfState}. If you moved from another country it is {migrantVote}, {migrantAssembly} and {migrantHeadOfState} days. The Country screen shows your own dates."
+msgstr ""
+
+msgctxt "help.country.p3"
+msgid "While a country is new there is no wait at all: see A new country."
+msgstr ""
+
+#. {nominationDays} is a number of days. {votingDays} is a number of days.
+msgctxt "help.country.p4"
+msgid "An election has {nominationDays} day for candidates to run, then {votingDays} day of voting, the first election for an office too. If nobody runs against you, you take the seat when entries close, with no vote. A chamber is elected by place, so for a seat in it that means nobody else running where you live. An office the chamber chooses, such as a prime minister, is the exception: anybody may run for it, and the chamber’s members always vote, even on one name."
+msgstr ""
+
+#. {hours} is a number of hours.
+msgctxt "help.country.p5"
+msgid "Members of the assembly propose laws and vote on them for {hours} hours. A president or prime minister may propose laws too, and votes on them only with a seat of their own. A law passes with more yes than no votes; a change to the constitution needs two thirds. Taxes are set this way, so they differ from country to country: see your country’s Money room."
+msgstr ""
+
+#. {level} is a player level. {fee} is the fee to found a party, drawn as a coin amount.
+msgctxt "help.country.p6"
+msgid "You can apply to become a citizen of another country. Some countries accept everyone at once, others have an official decide. There is a wait between changes. From level {level} you can found a political party for {fee}."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.country.title"
+msgid "Your country and how to take part"
+msgstr ""
+
+msgctxt "help.daily.after"
+msgid "A new day starts at midnight UTC."
+msgstr ""
+
+msgctxt "help.daily.answer"
+msgid "Work a shift, train and eat, then see what is waiting on you."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.daily.line"
+msgid "Work, train, eat, and what waits on you."
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {shortShift} is an amount of Energy.
+msgctxt "help.daily.step1.how"
+msgid "press Work a shift on Home. A short shift costs {shortShift} Energy and pays a wage in CR."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.daily.step1.to"
+msgid "To earn money"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {training} is an amount of Energy.
+msgctxt "help.daily.step2.how"
+msgid "press Train for battle, once a day, for {training} Energy. You hit harder in a battle."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.daily.step2.to"
+msgid "To get stronger"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {foodEnergy} is an amount of Energy. {restingEnergy} is an amount of Energy.
+msgctxt "help.daily.step3.how"
+msgid "press Eat. One food gives {foodEnergy} Energy; on its own, Energy comes back up to {restingEnergy}."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.daily.step3.to"
+msgid "To get Energy back"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.daily.step4.how"
+msgid "look at Waiting on you at the top of Now. Each line says by when."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.daily.step4.to"
+msgid "To see what needs you"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {reward} is the reward, drawn as a coin amount.
+msgctxt "help.daily.step5.how"
+msgid "finish today’s goals for {reward} and a case."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.daily.step5.to"
+msgid "To earn a little more"
+msgstr ""
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+msgctxt "help.daily.synonyms"
+msgid "each day, daily, routine, what now, today"
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.daily.title"
+msgid "What do I do each day?"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence.
+msgctxt "help.daily.word1.means"
+msgid "What work, training and fighting use."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.daily.word1.term"
+msgid "Energy"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence.
+msgctxt "help.daily.word2.means"
+msgid "Credits, the game's money."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.daily.word2.term"
+msgid "CR"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence.
+msgctxt "help.daily.word3.means"
+msgid "Decisions only you can make, each with its deadline."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.daily.word3.term"
+msgid "Waiting on you"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.deciding.line"
+msgid "Bills, laws and what each office may do."
+msgstr ""
+
+msgctxt "help.deciding.p1"
+msgid "<b>By law. Members of the chamber propose bills and vote on them, and a bill that passes becomes law.</b>"
+msgstr ""
+
+msgctxt "help.deciding.p2"
+msgid "Some acts belong to an office instead: whoever holds it acts within the powers its page lists, such as spending from the Treasury up to a limit. A power the constitution keeps for the chamber is done by proposing a bill."
+msgstr ""
+
+msgctxt "help.deciding.p3"
+msgid "Citizens choose who holds the offices and the seats in elections, and can be asked one question in a referendum."
+msgstr ""
+
+msgctxt "help.deciding.p4"
+msgid "To take part: vote in Country, Politics, Elections; run for an office there; or ask your member of the chamber to propose a bill."
+msgstr ""
+
+msgctxt "help.deciding.p5"
+msgid "Words: Bill: a proposed law. Law: a bill that passed. Power: what an office may do."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.deciding.title"
+msgid "How does this country decide things?"
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.development.li1"
+msgid "Better transport makes journeys shorter and can give a province an airport."
+msgstr ""
+
+#. One item of a list; the bold start is a short label. {tierOne} is a number of days. {tierTwo} is a number of days. {tierThree} is a number of days. {floor} is the lowest price, drawn as a coin amount.
+msgctxt "help.development.li2"
+msgid "Research comes in three tiers and helps the whole country. A tier costs {tierOne}, {tierTwo} and {tierThree} days of what the country takes in, never less than {floor}, plus goods. A minister starts it from Country, Economy, or a law orders it."
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.development.li3"
+msgid "World projects are built by everyone. Any citizen can contribute."
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.development.li4"
+msgid "Upgrades and world projects earn a country prestige."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.development.line"
+msgid "Roads, industry, research and world projects."
+msgstr ""
+
+msgctxt "help.development.p1"
+msgid "Every province has three kinds of infrastructure: transport, industrial and civil, each up to level 10. A country builds them by opening a worksite, by law or by a minister’s order, and its citizens build it shift by shift, paid from the treasury."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.development.title"
+msgid "Roads, research and world projects"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.elections.line"
+msgid "Running, voting, and asking the country one question."
+msgstr ""
+
+#. {nominationDays} is a number of days. {votingDays} is a number of days.
+msgctxt "help.elections.p1"
+msgid "<b>An election fills an office or the chamber’s seats. Candidates have {nominationDays} day to run, then voting is open for {votingDays} day. Your vote is secret.</b>"
+msgstr ""
+
+msgctxt "help.elections.p2"
+msgid "If nobody runs against you, you take the seat when entries close, with no vote."
+msgstr ""
+
+#. {hours} is a number of hours.
+msgctxt "help.elections.p3"
+msgid "A referendum asks every citizen one question. It opens at once and runs for {hours} hours. Its answer binds nobody: acting on it is up to the government."
+msgstr ""
+
+msgctxt "help.elections.p4"
+msgid "To vote: open Country, Politics, Elections, then the election, then Vote. You can vote once you have been a citizen long enough; the screen shows your date."
+msgstr ""
+
+msgctxt "help.elections.p5"
+msgid "To run: the same election, Run for this office. You can choose a party to run for."
+msgstr ""
+
+msgctxt "help.elections.p6"
+msgid "Words: Candidate: somebody running. Ballot: the list you vote on."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.elections.title"
+msgid "How do elections and referendums work?"
+msgstr ""
+
+msgctxt "help.energy.after"
+msgid "With too little Energy, an act waits until you have enough. Nothing else happens to you."
+msgstr ""
+
+msgctxt "help.energy.answer"
+msgid "Energy is what work, training and fighting spend; it comes back when you eat, and slowly by itself."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.energy.line"
+msgid "What spends it, and how it comes back."
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {shortShift} is an amount of Energy. {fullShift} is an amount of Energy. {training} is an amount of Energy. {energy} is an amount of Energy.
+msgctxt "help.energy.step1.how"
+msgid "a short shift costs {shortShift}, a full one {fullShift}, training {training}, and each attack in a battle {energy}."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.energy.step1.to"
+msgid "To know what it costs"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {foodEnergy} is an amount of Energy. {maxEnergy} is an amount of Energy.
+msgctxt "help.energy.step2.how"
+msgid "press Eat. One food gives {foodEnergy} Energy, up to {maxEnergy}."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.energy.step2.to"
+msgid "To get it back"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {perHour} is an amount of Energy. {restingEnergy} is an amount of Energy.
+msgctxt "help.energy.step3.how"
+msgid "it comes back by itself, {perHour} at the start of every hour, while you have less than {restingEnergy}."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.energy.step3.to"
+msgid "To wait instead"
+msgstr ""
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+msgctxt "help.energy.synonyms"
+msgid "energy, tired, rest, resting, food, eat, hungry"
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.energy.title"
+msgid "How Energy works"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence. {restingEnergy} is an amount of Energy.
+msgctxt "help.energy.word1.means"
+msgid "The {restingEnergy} Energy it comes back to by itself."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.energy.word1.term"
+msgid "Resting level"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.foundingEra.h1"
+msgid "What is different"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.foundingEra.h2"
+msgid "Before the first government"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.foundingEra.h3"
+msgid "Running unopposed"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.foundingEra.line"
+msgid "Why the first days in a country are easier."
+msgstr ""
+
+#. {companies} is a number of companies. {days} is a number of days.
+msgctxt "help.foundingEra.p1"
+msgid "A country is new from the day its first citizen arrives until players own {companies} companies there, or for {days} days, whichever comes first. The Country screen says when yours is."
+msgstr ""
+
+#. {newCountryGrant} is the money a newcomer starts with in a country that is still new, drawn as a coin amount. {starterGrant} is the money a new citizen starts with, drawn as a coin amount.
+msgctxt "help.foundingEra.p2"
+msgid "Newcomers here start with {newCountryGrant} instead of {starterGrant}, and founding a company here needs no waiting, whoever founds it."
+msgstr ""
+
+msgctxt "help.foundingEra.p3"
+msgid "If you started playing in that country, you can vote and run for office at once, with no waiting. Somebody who moves there from another country waits the usual time for a newcomer from abroad, new country or not. When the country stops being new, the usual waits come back for everybody, counted from the day each person arrived: somebody who arrived yesterday waits out the rest of theirs, and the Country screen gives them the day."
+msgstr ""
+
+msgctxt "help.foundingEra.p4"
+msgid "Until somebody is elected, nobody governs. What runs on its own keeps running, and nobody can pass a law, spend from the treasury or declare war. A monarchy with nobody on its throne holds a first election for it among its citizens, and whoever wins holds it for life."
+msgstr ""
+
+msgctxt "help.foundingEra.p5"
+msgid "If nobody runs against you, there is nothing to vote on: when entries close, you take the seat. So if you are the only one running for President, you become President. A chamber is elected by place, so for a seat in it that means nobody else running where you live. A name on a ballot cannot be taken off, and the Run button says so before you press it. An office the chamber chooses is never taken unopposed: its members vote even when one person runs."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.foundingEra.title"
+msgid "A new country"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.gazette.line"
+msgid "Where a government speaks for its country."
+msgstr ""
+
+msgctxt "help.gazette.p1"
+msgid "<b>It is where a government speaks for its country.</b>"
+msgstr ""
+
+msgctxt "help.gazette.p2"
+msgid "To read it: its notices appear in News under Your country, marked Official notice, and its front page lists all of them and the offices that write there. Every citizen of the country gets its notices without following it."
+msgstr ""
+
+msgctxt "help.gazette.p3"
+msgid "To write a notice: hold an office that writes there, then press Write a notice on its front page. A notice costs nothing to print, and you write it while you hold the office."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.gazette.title"
+msgid "What is the Official Gazette?"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.giving.line"
+msgid "Give goods to a person, or offer them for a price."
+msgstr ""
+
+msgctxt "help.giving.p1"
+msgid "<b>Open their page and press Give or sell, or start from a good in your Inventory.</b>"
+msgstr ""
+
+msgctxt "help.giving.p2"
+msgid "To give: choose Give, what and how many, and press Give. To sell: choose Sell and set a price for all of it, which they pay when they accept."
+msgstr ""
+
+msgctxt "help.giving.p3"
+msgid "What you send is held for them at once, and they are told. If they say no, or do not answer in time, it all comes back to you. You can withdraw the offer before they answer."
+msgstr ""
+
+msgctxt "help.giving.p4"
+msgid "Goods given or sold to a person pay no freight and no import tax, wherever they are."
+msgstr ""
+
+#. {hours} is a number of hours.
+msgctxt "help.giving.p5"
+msgid "For your first {hours} hours, your starting gear and early rewards cannot be sold or given away. The sheet says the day you can."
+msgstr ""
+
+msgctxt "help.giving.p6"
+msgid "Words: Held: kept for them until they answer."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.giving.title"
+msgid "How do I give or sell to someone?"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.givingOrders.line"
+msgid "Telling your side where to fight."
+msgstr ""
+
+msgctxt "help.givingOrders.p1"
+msgid "An order is given on a battle, in the name of a unit (by its commander or an officer) or of a country (by whoever holds that power). It says what to do, how urgent it is and when it ends."
+msgstr ""
+
+msgctxt "help.givingOrders.p2"
+msgid "Everybody fighting for your side in that battle reads it right above the Fight buttons, and the unit’s soldiers see it first in Now. Other orders keep standing beside it. Whoever gave an order can take it back while it stands, and it ends by itself when its time is up or its battle is decided."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.givingOrders.title"
+msgid "Giving orders"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.inventory.line"
+msgid "Gear, food, goods and cases."
+msgstr ""
+
+msgctxt "help.inventory.p1"
+msgid "<b>Inventory holds what you wear, your goods and your cases. What a company or a unit you run holds is on its own page.</b>"
+msgstr ""
+
+msgctxt "help.inventory.p2"
+msgid "To wear something: press Wear on a piece. You wear five: a weapon, a helmet, body armor, legwear and boots. Power is how hard you hit, Protection how much of a hit your armor takes, and Mobility how light you move."
+msgstr ""
+
+msgctxt "help.inventory.p3"
+msgid "To mend a piece: open it and press Repair, which costs Scrap. A piece at nothing is broken and stops counting in a fight. Only a broken piece can be broken up for Scrap or retired."
+msgstr ""
+
+msgctxt "help.inventory.p4"
+msgid "To use goods: open one to sell it, give it to someone, or, for food, eat it. To open a case: press Open one, or Open all."
+msgstr ""
+
+#. {common} is a percentage, printed without the percent sign. {uncommon} is a percentage, printed without the percent sign. {rare} is a percentage, printed without the percent sign. {epic} is a percentage, printed without the percent sign. {legendary} is a percentage, printed without the percent sign.
+msgctxt "help.inventory.p5"
+msgid "Gear made in a factory comes out rarer than gear from a case: {common}% Common, {uncommon}% Uncommon, {rare}% Rare, {epic}% Epic and {legendary}% Legendary."
+msgstr ""
+
+msgctxt "help.inventory.p6"
+msgid "Words: Scrap: what gear is mended with. Condition: how worn a piece is, out of the best it can still reach."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.inventory.title"
+msgid "What do I own, and how do I use it?"
+msgstr ""
+
+msgctxt "help.jobs.after"
+msgid "You hold one job at a time. Taking one withdraws your other applications."
+msgstr ""
+
+#. {hours} is a number of hours.
+msgctxt "help.jobs.answer"
+msgid "Apply for a job and work its shifts; for {hours} hours after you are hired, neither you nor the company can end it."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.jobs.line"
+msgid "Applying, working and leaving."
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.jobs.step1.how"
+msgid "open Ways to earn, then Jobs. Some jobs hire you at once; others send your application to the company, which says yes or no."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.jobs.step1.to"
+msgid "To apply"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.jobs.step2.how"
+msgid "each job says what a full and a short shift pay you after tax."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.jobs.step2.to"
+msgid "To compare"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.jobs.step3.how"
+msgid "your applications are above the board, each with Withdraw it."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.jobs.step3.to"
+msgid "To change your mind"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.jobs.step4.how"
+msgid "press Leave this job on your job's card, once your hours are up."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.jobs.step4.to"
+msgid "To leave"
+msgstr ""
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+msgctxt "help.jobs.synonyms"
+msgid "job, apply, hire, employer, quit, leave, resign"
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.jobs.title"
+msgid "How do jobs work?"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence.
+msgctxt "help.jobs.word1.means"
+msgid "What a shift pays before tax."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.jobs.word1.term"
+msgid "Wage"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence.
+msgctxt "help.jobs.word2.means"
+msgid "A company your country owns; it hires anyone at its wage."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.jobs.word2.term"
+msgid "State company"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.letters.line"
+msgid "What readers send a piece and its writer."
+msgstr ""
+
+msgctxt "help.letters.p1"
+msgid "<b>Under every piece, readers write letters and can thank the writer with a tip.</b>"
+msgstr ""
+
+msgctxt "help.letters.p2"
+msgid "To write a letter: type it in the box under the piece and post it. Letters are public, with your name and country. You can withdraw your own letter from its ⋯."
+msgstr ""
+
+#. {paperShare} is a percentage, printed without the percent sign. {minimumTip} is the smallest tip, drawn as a coin amount.
+msgctxt "help.letters.p3"
+msgid "To thank the writer: press Thank and choose an amount, from {minimumTip}. The writer keeps most of it and the paper keeps the rest ({paperShare}% unless its owner changes it). You thank a writer once for each piece."
+msgstr ""
+
+msgctxt "help.letters.p4"
+msgid "To say what you thought: Good piece or Not for me. To report a letter or a piece, open its ⋯."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.letters.title"
+msgid "How do letters and tips work?"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.market.line"
+msgid "Buying, selling, and what a trade costs."
+msgstr ""
+
+msgctxt "help.market.p1"
+msgid "<b>Every good has a page in the Market, with its price delivered to where you are and one button that buys or sells.</b>"
+msgstr ""
+
+msgctxt "help.market.p2"
+msgid "To buy: open the good, choose Buy and how many, and press the button. It shows the total, and that is what you pay. The cheapest offers are taken first."
+msgstr ""
+
+msgctxt "help.market.p3"
+msgid "To sell: choose Sell. Sell now sells to the buyers paying most; when nobody is buying, set your own price."
+msgstr ""
+
+msgctxt "help.market.p4"
+msgid "To set your own price: press Set your own price. An offer to buy sets its money aside and a listing holds your goods, until one is taken."
+msgstr ""
+
+#. {percent} is a percentage, printed without the percent sign. {amount} is the size of a trade that asks first, drawn as a coin amount.
+msgctxt "help.market.p5"
+msgid "The total is the price, freight by weight and distance, a fee of {percent}% paid to the country the goods are delivered to, and an import tax on goods from another country. A trade of {amount} or more asks you first."
+msgstr ""
+
+msgctxt "help.market.p6"
+msgid "Until a country’s players make enough, the game’s shop sells food, construction materials, industrial components and fuel in its capital, at a price anyone who makes it can sell for less."
+msgstr ""
+
+msgctxt "help.market.p7"
+msgid "Words: Delivered: the price with every charge, to where you are. Bid: an offer to buy at your own price."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.market.title"
+msgid "How do I buy and sell?"
+msgstr ""
+
+msgctxt "help.moderation.answer"
+msgid "Read the report, decide it within 24 hours, and check the words the player will read before you send them."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.moderation.line"
+msgid "For staff: the queue, a decision, and an appeal."
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.moderation.step1.how"
+msgid "open the staff console: reports are oldest first, and one waiting more than 24 hours says Late."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.moderation.step1.to"
+msgid "To see what waits"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.moderation.step2.how"
+msgid "open a report, press Decide, and choose what it stops and for how long."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.moderation.step2.to"
+msgid "To decide"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.moderation.step3.how"
+msgid "the question shows the player's sentence, who is told, and that they may appeal."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.moderation.step3.to"
+msgid "To check the words"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.moderation.step4.how"
+msgid "press Nothing was wrong. Close it."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.moderation.step4.to"
+msgid "To close one with nothing wrong"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.moderation.step5.how"
+msgid "a moderator who did not decide it reads it, and presses Lift it or Keep it."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.moderation.step5.to"
+msgid "To answer an appeal"
+msgstr ""
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+msgctxt "help.moderation.synonyms"
+msgid "report, sanction, moderate, moderation, appeal, staff"
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.moderation.title"
+msgid "Deciding a report"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence.
+msgctxt "help.moderation.word1.means"
+msgid "A report waiting more than 24 hours."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.moderation.word1.term"
+msgid "Late"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence.
+msgctxt "help.moderation.word2.means"
+msgid "What a decision stops a player doing, and until when."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.moderation.word2.term"
+msgid "Sanction"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.money.line"
+msgid "CR, what you earn and spend, and where it went."
+msgstr ""
+
+msgctxt "help.money.p1"
+msgid "<b>CR is the money of the world: you earn it, spend it and keep it in your wallet, and every movement is in your Records.</b>"
+msgstr ""
+
+#. {starterGrant} is the money a new citizen starts with, drawn as a coin amount. {newCountryGrant} is the money a newcomer starts with in a country that is still new, drawn as a coin amount.
+msgctxt "help.money.p2"
+msgid "To earn it: work a shift for a wage, sell on the Market, or take tips for what you write. New citizens start with {starterGrant} ({newCountryGrant} in a country that is still new)."
+msgstr ""
+
+msgctxt "help.money.p3"
+msgid "To spend it: buy goods, travel, or start a company, a paper or a bank. An offer to buy sets its money aside: it is still yours, but you cannot spend it until the offer fills or you take it back."
+msgstr ""
+
+msgctxt "help.money.p4"
+msgid "To see where it went: open Records at the foot of Money, and choose Earned, Spent, Banks and loans or Trades."
+msgstr ""
+
+#. {hours} is a number of hours.
+msgctxt "help.money.p5"
+msgid "Your country sets its taxes by law, and a new rate starts {hours} hours after the law passes. Its rates are under Country, Economy."
+msgstr ""
+
+msgctxt "help.money.p6"
+msgid "Words: CR: credits, the game’s money. Set aside: held by an offer to buy, and still yours."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.money.title"
+msgid "How does money work?"
+msgstr ""
+
+msgctxt "help.moved.after"
+msgid "Old links still work: they open the place where the thing lives now."
+msgstr ""
+
+msgctxt "help.moved.answer"
+msgid "Everything now lives in six places: Home, Market, News, Chat, Country and You. Each place you knew before is inside one of them."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.moved.line"
+msgid "Where Today, Work, Press, Banking and the Menu went."
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.moved.step1.how"
+msgid "press Home. Now and Today hold your next steps, your shift, training and eating. Jobs is under Find a job."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.moved.step1.to"
+msgid "To find Today and Work"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.moved.step2.how"
+msgid "press News: your country's papers, the world's, and the ones you follow."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.moved.step2.to"
+msgid "To find Press"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.moved.step3.how"
+msgid "press You, then Money: your accounts, loans and shares. A bank you run is in You too."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.moved.step3.to"
+msgid "To find Banking"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.moved.step4.how"
+msgid "press Country, then Economy: public works and research."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.moved.step4.to"
+msgid "To find Development"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.moved.step5.how"
+msgid "press You: what you hold and run, Settings and Help."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.moved.step5.to"
+msgid "To find the Menu"
+msgstr ""
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+msgctxt "help.moved.synonyms"
+msgid "moved, where is, where did, today, work, press, banking, development, menu, dock, old, changed"
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.moved.title"
+msgid "Where did things move?"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence.
+msgctxt "help.moved.word1.means"
+msgid "One of the six: Home, Market, News, Country and You at the bottom of a phone, with Chat at its top; all six down the side of a desktop."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.moved.word1.term"
+msgid "Place"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.newspaper.line"
+msgid "A paper's pieces, its writers and its printing money."
+msgstr ""
+
+#. {level} is a player level.
+msgctxt "help.newspaper.p1"
+msgid "<b>Start one from You › Start something once you reach Level {level}.</b>"
+msgstr ""
+
+#. {creationFee} is the cost to start a paper, drawn as a coin amount.
+msgctxt "help.newspaper.p2"
+msgid "To start it: give it a name and the country it prints from. It costs {creationFee}, which becomes its printing money. A citizen runs one paper at a time."
+msgstr ""
+
+#. {printFee} is the cost to print one piece, drawn as a coin amount.
+msgctxt "help.newspaper.p3"
+msgid "To publish: each piece costs the paper {printFee} to print. Add money under More options when it runs low."
+msgstr ""
+
+msgctxt "help.newspaper.p4"
+msgid "To take writers on: invite them from Writers, or accept those who ask. An editor publishes too; a writer sends you their pieces. What writers keep of a tip is yours to set, under More options."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.newspaper.title"
+msgid "How do I run a newspaper?"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.offices.line"
+msgid "Its offices, who holds them, and what each may do."
+msgstr ""
+
+msgctxt "help.offices.p1"
+msgid "<b>The players holding its offices: a head of state, a head of government, ministers and the members of the chamber.</b>"
+msgstr ""
+
+msgctxt "help.offices.p2"
+msgid "The constitution sets which offices exist and how each is filled: by election, by the chamber, or by an office that appoints to it."
+msgstr ""
+
+msgctxt "help.offices.p3"
+msgid "Each office’s page says how it is filled, how long a term lasts and what it may do, each power a door to where it is used."
+msgstr ""
+
+msgctxt "help.offices.p4"
+msgid "To see who holds what: Country, Politics, Offices. An office nobody holds says how it can be filled."
+msgstr ""
+
+msgctxt "help.offices.p5"
+msgid "If you hold one, its console is under You: what waits on it first, then what it may do."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.offices.title"
+msgid "Who runs a country?"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.orders.line"
+msgid "What you have out on the Market, and what it holds."
+msgstr ""
+
+msgctxt "help.orders.p1"
+msgid "<b>An order or an offer waits until someone takes it, you take it back, or it ends, and while it waits it holds its money or goods.</b>"
+msgstr ""
+
+msgctxt "help.orders.p2"
+msgid "To see them: open Your orders and offers in the Market. Open lists everything out in your name, what each one holds and when it ends."
+msgstr ""
+
+msgctxt "help.orders.p3"
+msgid "To take one back: press Take back on an order, or Withdraw on an offer you sent. What it held comes back at once."
+msgstr ""
+
+msgctxt "help.orders.p4"
+msgid "An order can fill while you are away, when a seller or a buyer meets your price. An offer to a person waits for their answer; if they say no, or do not answer in time, the goods come back."
+msgstr ""
+
+msgctxt "help.orders.p5"
+msgid "To see what you traded: open Records at the foot. Every closed order and answered offer is there, under its day."
+msgstr ""
+
+msgctxt "help.orders.p6"
+msgid "Words: Set aside: money an offer to buy holds, still yours. Held: goods kept for an order or an offer until it ends."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.orders.title"
+msgid "What happens to my orders and offers?"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.organization.line"
+msgid "A group with members and a voice."
+msgstr ""
+
+msgctxt "help.organization.p1"
+msgid "<b>A group of players with a name, members and a voice: its leader and officers announce to every member. It has no power in the game.</b>"
+msgstr ""
+
+msgctxt "help.organization.p2"
+msgid "To join: open it from Country, People, Organizations. Some let anyone in; others decide each request."
+msgstr ""
+
+msgctxt "help.organization.p3"
+msgid "To start one: You, Start something. It is free, and you lead it."
+msgstr ""
+
+msgctxt "help.organization.p4"
+msgid "To leave: on its page, Leave. A leader cannot leave what they lead."
+msgstr ""
+
+msgctxt "help.organization.p5"
+msgid "Words: Officer: a member who can let people in, remove plain members and announce."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.organization.title"
+msgid "What is an organization?"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.party.line"
+msgid "A label candidates share on the ballot."
+msgstr ""
+
+msgctxt "help.party.p1"
+msgid "<b>A party is a label candidates share on the ballot. It gives no advantage and holds no power of its own.</b>"
+msgstr ""
+
+msgctxt "help.party.p2"
+msgid "To ask to join: open it from Country, Politics, Parties and press Ask to join. You can ask several parties; you belong to the first that lets you in."
+msgstr ""
+
+msgctxt "help.party.p3"
+msgid "To give money: on the party’s page, Money. Every gift is public and cannot be taken back, and the party fund cannot be spent yet."
+msgstr ""
+
+msgctxt "help.party.p4"
+msgid "To leave: on the party’s page, Leave. When its leader leaves, the party passes to its longest-serving officer."
+msgstr ""
+
+#. {level} is a player level. {fee} is the fee to found a party, drawn as a coin amount.
+msgctxt "help.party.p5"
+msgid "To found one: from level {level}, for {fee}, under You, Start something."
+msgstr ""
+
+msgctxt "help.party.p6"
+msgid "Words: Officer: a member who can let people in and remove plain members. Party fund: the money given to a party."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.party.title"
+msgid "What is a party for?"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.peace.line"
+msgid "How a war ends."
+msgstr ""
+
+msgctxt "help.peace.p1"
+msgid "A war ends when one side accepts the other’s peace terms. Terms can hand provinces over and say who keeps what. Whoever holds that power in a country offers them; the other country accepts them, refuses them, or sends different terms back, which take their place."
+msgstr ""
+
+msgctxt "help.peace.p2"
+msgid "Terms stand until they are answered or withdrawn. After peace, either country may declare war again."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.peace.title"
+msgid "Peace terms"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.personPage.line"
+msgid "A citizen's public record."
+msgstr ""
+
+msgctxt "help.personPage.p1"
+msgid "<b>Their public record: who they are and what they have done.</b>"
+msgstr ""
+
+msgctxt "help.personPage.p2"
+msgid "It shows their banner and picture, their name and title, their level and country, where they are, their own words, the seals they chose to show, their statistics and their record. Anyone can read it."
+msgstr ""
+
+msgctxt "help.personPage.p3"
+msgid "To change yours: open You, then Your page, and press Edit. Your picture, banner and words are set in Settings. On You, each fact others can also see says Public."
+msgstr ""
+
+msgctxt "help.personPage.p4"
+msgid "To choose the seals on show: in Achievements, turn on Show on my page. You get room for more as you level up."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.personPage.title"
+msgid "What does a citizen's page show?"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.press.line"
+msgid "Newspapers written by players."
+msgstr ""
+
+msgctxt "help.press.p1"
+msgid "<b>News is the papers players write, as headlines you open and read.</b>"
+msgstr ""
+
+msgctxt "help.press.p2"
+msgid "To read: open a headline. A dot marks one you have not opened yet. Your country shows your country’s papers (press its flag to read another country’s), The world shows every paper, and Following shows the papers you follow."
+msgstr ""
+
+msgctxt "help.press.p3"
+msgid "To keep up with a paper: press Follow on its front page or under one of its pieces. Its new pieces then come to Following. Pieces you liked are kept there too."
+msgstr ""
+
+#. {level} is a player level.
+msgctxt "help.press.p4"
+msgid "To write: if you write for a paper, Write is under the tabs. Anyone can start a paper from Level {level}."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.press.title"
+msgid "How does News work?"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.primeMinister.line"
+msgid "The head of government, and the powers of the office."
+msgstr ""
+
+msgctxt "help.primeMinister.p1"
+msgid "<b>A Prime Minister heads the government. What the office may do is set by the country’s constitution and listed on its page.</b>"
+msgstr ""
+
+msgctxt "help.primeMinister.p2"
+msgid "Its powers often include appointing ministers, proposing bills and spending from the Treasury up to a limit the law sets. A power the office lacks is shown with who holds it instead."
+msgstr ""
+
+msgctxt "help.primeMinister.p3"
+msgid "To act: open the office’s console under You. What waits on it comes first, then its powers in groups, each act asking before it is done."
+msgstr ""
+
+msgctxt "help.primeMinister.p4"
+msgid "Words: Head of government: the office that runs the country day to day."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.primeMinister.title"
+msgid "What does a Prime Minister do?"
+msgstr ""
+
+msgctxt "help.rankings.after"
+msgid "Wealth shows your position only. No amount of anybody's money is ever shown."
+msgstr ""
+
+msgctxt "help.rankings.answer"
+msgid "Rankings count who is ahead this week, this month and for all time; they are for pride and pay nothing."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.rankings.line"
+msgid "Who is ahead, and what the world builds."
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.rankings.step1.how"
+msgid "open Rankings from The world: citizens, countries, military units, companies and newspapers, the top 50 of each."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.rankings.step1.to"
+msgid "To see the boards"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.rankings.step2.how"
+msgid "boards are recounted every hour, and the week starts on Monday at midnight UTC."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.rankings.step2.to"
+msgid "To know when they change"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.rankings.step3.how"
+msgid "open The world: its world projects, its eras and what each country has put in."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.rankings.step3.to"
+msgid "To see what the world builds"
+msgstr ""
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+msgctxt "help.rankings.synonyms"
+msgid "ranking, rankings, leaderboard, top, world project, prestige"
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.rankings.title"
+msgid "How do rankings and world projects work?"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.safety.line"
+msgid "Hide, block or report somebody."
+msgstr ""
+
+msgctxt "help.safety.p1"
+msgid "<b>From the ⋯ beside their name, or beside anything they wrote.</b>"
+msgstr ""
+
+msgctxt "help.safety.p2"
+msgid "To hide them: Hide their posts. Their articles, letters and room posts leave your screens, but not your direct messages. Show them again from Chat › People you know."
+msgstr ""
+
+msgctxt "help.safety.p3"
+msgid "To block them: they cannot write to you in a direct or group room, and you stop seeing what they write in chat."
+msgstr ""
+
+msgctxt "help.safety.p4"
+msgid "To report: choose Report on a message, a letter, a piece or a person, pick what is wrong and add a note if you like. A moderator reads every report, and nobody is told who reported them."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.safety.title"
+msgid "How do I hide or report somebody?"
+msgstr ""
+
+msgctxt "help.settings.answer"
+msgid "Settings holds how you look, what others see, your alerts and sound, how you sign in, and your account."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.settings.line"
+msgid "How you look, what others see, alerts and your account."
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.settings.step1.how"
+msgid "Profile: your picture, banner, words about you and your name."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.settings.step1.to"
+msgid "To change how you look"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.settings.step2.how"
+msgid "Privacy, with the people you hid."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.settings.step2.to"
+msgid "To choose what others see"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.settings.step3.how"
+msgid "Alerts. Language and Sound and radio sit beside it."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.settings.step3.to"
+msgid "To be told on this device"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.settings.step4.how"
+msgid "Account and security: your email address, your ways in, your devices, and deleting your account."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.settings.step4.to"
+msgid "To change how you sign in"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.settings.step5.how"
+msgid "Your standing, where you can ask a moderator to look again."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.settings.step5.to"
+msgid "To see anything against your account"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.settings.step6.how"
+msgid "Advanced holds Discord and keys for your own tools; About this world, the version and the rules."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.settings.step6.to"
+msgid "For everything else"
+msgstr ""
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+msgctxt "help.settings.synonyms"
+msgid "settings, account, email, sign out, log out, delete, name, picture, privacy, language, sound"
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.settings.title"
+msgid "What can I change?"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence.
+msgctxt "help.settings.word1.means"
+msgid "Stop seeing someone's articles, letters and room messages; they can still write to you."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.settings.word1.term"
+msgid "Hide"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence.
+msgctxt "help.settings.word2.means"
+msgid "A device where you are signed in."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.settings.word2.term"
+msgid "Session"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.shares.line"
+msgid "Part of a company you own, and offers to buy or sell some."
+msgstr ""
+
+#. {shares} is a number of shares.
+msgctxt "help.shares.p1"
+msgid "<b>A company is {shares} shares, and more than half of a player’s company is control of it.</b>"
+msgstr ""
+
+msgctxt "help.shares.p2"
+msgid "Shares change hands only by an offer from one holder to one person, who accepts it or not. There is no share market."
+msgstr ""
+
+msgctxt "help.shares.p3"
+msgid "To answer an offer: it waits in Now and in Money, Shares, with what you pay, for how much of the company, and what you would own after."
+msgstr ""
+
+msgctxt "help.shares.p4"
+msgid "To offer some of yours: open Money, Shares, then Offer shares to someone. Choose who, how many and a price, or no price to give them. Nothing moves until they accept, and you can take it back until then."
+msgstr ""
+
+msgctxt "help.shares.p5"
+msgid "To buy from a country: some countries sell shares in their state companies. They are under Shares on offer, and you buy on the company’s page."
+msgstr ""
+
+msgctxt "help.shares.p6"
+msgid "Words: Share: one part of a company. Control: more than half, which lets you run it."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.shares.title"
+msgid "How do shares work?"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.stateCompanies.h1"
+msgid "Who runs one"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.stateCompanies.h2"
+msgid "Where the money goes"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.stateCompanies.h3"
+msgid "How a country founds, sells and buys one"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.stateCompanies.line"
+msgid "Companies your country owns, where anyone can work."
+msgstr ""
+
+msgctxt "help.stateCompanies.p1"
+msgid "Some companies belong to a country rather than a person. They hire, make and sell like any other company, and nothing about them is cheaper or faster. Every country opens with two: a state farm and a state food plant. Both hire anyone at once."
+msgstr ""
+
+#. {day} is a day number of the world's calendar.
+msgctxt "help.stateCompanies.p10"
+msgid "The companies every country began with can be sold from day {day} of the world."
+msgstr ""
+
+msgctxt "help.stateCompanies.p11"
+msgid "Where to find it: a sale is on the company’s own page, in Work → Shares under Companies for sale, and in the country’s Official Gazette."
+msgstr ""
+
+msgctxt "help.stateCompanies.p2"
+msgid "An office of the country runs it, usually the finance minister. Whoever holds that office runs the company for as long as they hold it. They cannot take a job there, raise their own wage there, or trade with it for themselves."
+msgstr ""
+
+msgctxt "help.stateCompanies.p3"
+msgid "When nobody holds the office, the company keeps working on its own: it hires anyone who applies at the wage it already pays, and buys and sells at the going price."
+msgstr ""
+
+msgctxt "help.stateCompanies.p4"
+msgid "A state company only offers jobs while it can pay a full shift for every place it has. When it cannot, its jobs disappear from the lists until it has sold enough."
+msgstr ""
+
+msgctxt "help.stateCompanies.p5"
+msgid "Once a week, what a state company holds beyond two weeks of a full crew’s wages goes to its owners. The country’s share goes into its Treasury, and your country’s Money tab shows what each one last paid."
+msgstr ""
+
+msgctxt "help.stateCompanies.p6"
+msgid "A country’s chamber can found a state company with money from the Treasury. The bill says what it makes, where its first site stands, and how much it starts with."
+msgstr ""
+
+#. {auctionDays} is a number of days. {offeringDays} is a number of days.
+msgctxt "help.stateCompanies.p7"
+msgid "A chamber can sell one of the country’s companies in one of two ways. Sealed bids for {auctionDays} days: anyone may bid once, nobody sees another bid, and the highest bid of at least the price the chamber set buys the whole company. Every other bid comes back in full. Or shares at a fixed price for {offeringDays} days, to whoever buys first."
+msgstr ""
+
+msgctxt "help.stateCompanies.p8"
+msgid "Once the country holds half the shares or fewer, the company is no longer the country’s. Whoever holds the most shares runs it."
+msgstr ""
+
+msgctxt "help.stateCompanies.p9"
+msgid "A chamber can buy a company based in its country. Every shareholder is paid for their shares: its sites at today’s building cost and its stock, plus a quarter, and its money, less what it owes. Putting the bill fixes the price. A company that is closing or for sale cannot be bought."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.stateCompanies.title"
+msgid "How do state companies work?"
+msgstr ""
+
+#. One step of a page: {to} is what the player wants to do, written as the start of a sentence ("To travel"), and {how} is what to do, which begins in lower case in English ("open a province on the map…"). The bold start ends in a colon.
+msgctxt "help.step"
+msgid "<b>{to}:</b> {how}"
+msgstr ""
+
+msgctxt "help.travel.after"
+msgid "On the way you can trade, write and chat, but you cannot work a shift or fight until you arrive."
+msgstr ""
+
+msgctxt "help.travel.answer"
+msgid "You stand in one province and live in one: travel moves where you stand, and once you are there you can live there too."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.travel.line"
+msgid "Journeys, flights and your home."
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {fastest} is a number of minutes. {slowest} is a number of minutes. {cheapest} is the lowest fare, drawn as a coin amount. {cheapestAir} is the lowest air fare, drawn as a coin amount.
+msgctxt "help.travel.step1.how"
+msgid "open a province on the map and choose Travel. Overland or by sea takes {fastest} to {slowest} minutes, from {cheapest}; by air, from an airport, from {cheapestAir}."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.travel.step1.to"
+msgid "To travel"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {km} is a number of kilometres. {minimumEnergy} is an amount of Energy.
+msgctxt "help.travel.step2.how"
+msgid "press Arrive now: 1 Energy for every {km} km still to go (at least {minimumEnergy}), and half the fare again."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.travel.step2.to"
+msgid "To arrive at once"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.travel.step3.how"
+msgid "stand in the province, open it and choose Live here."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.travel.step3.to"
+msgid "To live somewhere"
+msgstr ""
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+msgctxt "help.travel.synonyms"
+msgid "travel, move, journey, fly, flight, live, home, residence, map"
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.travel.title"
+msgid "How do I travel and where do I live?"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence.
+msgctxt "help.travel.word1.means"
+msgid "Where you live, shown on your page."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.travel.word1.term"
+msgid "Residence"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.treasury.line"
+msgid "Taxes in, public spending out."
+msgstr ""
+
+msgctxt "help.treasury.p1"
+msgid "<b>Taxes fill the Treasury: wages are taxed and the tax is paid into it.</b>"
+msgstr ""
+
+msgctxt "help.treasury.p2"
+msgid "Goods bought from another country can carry a duty the buyer’s country sets. Taxes and duties change by law."
+msgstr ""
+
+msgctxt "help.treasury.p3"
+msgid "The offices that may spend it do so within the limits the law sets: public works, research, budgets, state aid to another country, and its state companies."
+msgstr ""
+
+msgctxt "help.treasury.p4"
+msgid "To see it: Country, Economy shows the Treasury, its last movement, and where each part of it goes."
+msgstr ""
+
+msgctxt "help.treasury.p5"
+msgid "Words: Treasury: a country’s own money. Duty: a tax on goods from abroad."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.treasury.title"
+msgid "Where does the country's money come from and go?"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.treaties.line"
+msgid "Who comes to your side when you are attacked."
+msgstr ""
+
+msgctxt "help.treaties.p1"
+msgid "A defence pact is a treaty between countries: when one of them is attacked, the others are called on and may enter that war on its side. It is a right and not an obligation. Entering costs nothing, refusing is recorded publicly, and saying nothing is an answer too."
+msgstr ""
+
+msgctxt "help.treaties.p2"
+msgid "A treaty is proposed by whoever holds that power and comes into force once each country has agreed, the way its own laws say."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.treaties.title"
+msgid "Treaties and allies"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.units.h1"
+msgid "Ranks"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.units.h2"
+msgid "Treasury and armoury"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.units.h3"
+msgid "Machines and the base"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.units.h4"
+msgid "Leaving and disbanding"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.units.line"
+msgid "Fighting together under one commander."
+msgstr ""
+
+msgctxt "help.units.p1"
+msgid "A military unit is people of one country who fight together. Anyone can start one, free, and command it; a citizen serves in one unit at a time. Its page is public."
+msgstr ""
+
+msgctxt "help.units.p2"
+msgid "The commander runs it. Officers give the unit’s orders, answer people who ask to serve and can remove a soldier; if the commander leaves, the unit passes to its longest-serving officer. Soldiers read the orders, stock the armoury and draw on it."
+msgstr ""
+
+msgctxt "help.units.p3"
+msgid "A unit has no income of its own: its treasury is what members pay in, and nobody can pay it back out to them. Its armoury holds the goods members put in for everyone."
+msgstr ""
+
+msgctxt "help.units.p4"
+msgid "A machine the unit holds can be put into service at its base, for a fee from the treasury. It cannot be undone. The base is chosen when the unit starts and moves only if its province is lost, free, by the commander."
+msgstr ""
+
+msgctxt "help.units.p5"
+msgid "A soldier can leave at any time, free. A unit is disbanded only by its last member, and wound up rather than deleted: its record stays."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.units.title"
+msgid "Units"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.war.h1"
+msgid "Who can fight"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.war.h2"
+msgid "What makes you hit harder"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.war.h3"
+msgid "What the ground does"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.war.h4"
+msgid "What fighting earns"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.war.h5"
+msgid "Fighting for pay"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.war.h6"
+msgid "Machines"
+msgstr ""
+
+#. A heading inside the page.
+msgctxt "help.war.h7"
+msgid "Whose ground"
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.war.li1"
+msgid "Citizens of a country in the war, or of its allies."
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.war.li2"
+msgid "Anyone, for a side that posts a bounty, and paid for their damage. Never against your own country."
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.war.li3"
+msgid "Standing in the battle’s province or one next to it, and not travelling."
+msgstr ""
+
+#. One item of a list; the bold start is a short label. {energy} is an amount of Energy.
+msgctxt "help.war.li4"
+msgid "Each attack costs {energy} Energy."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.war.line"
+msgid "How battles are fought, and who can fight."
+msgstr ""
+
+#. {rounds} is a number of rounds. {minutes} is a number of minutes.
+msgctxt "help.war.p1"
+msgid "Countries at war fight over provinces. A battle lasts {rounds} rounds of {minutes} minutes. Each round goes to the side that dealt more damage in it, and later rounds count for more. A battle can end early when one side can no longer catch up. A tie goes to extra rounds, and if it is still tied the defender wins."
+msgstr ""
+
+#. {attacks} is a number of attacks. {provinces} is a number of provinces.
+msgctxt "help.war.p2"
+msgid "A country runs one battle at a time against each enemy, and at most {attacks} attacks at once, plus one more for every {provinces} provinces it holds."
+msgstr ""
+
+#. {declareDays} is a number of days. {battleDays} is a number of days. {floor} is the lowest price, drawn as a coin amount.
+msgctxt "help.war.p3"
+msgid "Declaring a war costs the country’s Treasury {declareDays} days of what it takes in, and opening a battle {battleDays} day, never less than {floor}. War shows today’s price before anybody presses."
+msgstr ""
+
+msgctxt "help.war.p4"
+msgid "Your combat skill, which grows each time you train, and your weapon’s power. Terrain, supply and a little luck change it slightly. Your rank shows what you have done and adds no damage."
+msgstr ""
+
+#. {damage} is an amount of damage. {dailyCap} is an amount of XP. {attacks} is a number of attacks.
+msgctxt "help.war.p5"
+msgid "When a battle is decided, everyone who fought in it gets 1 XP for every {damage} damage they dealt, up to {dailyCap} a day, win or lose. The winning side also gets a case for {attacks} attacks or more, one a day. The top fighter on each side gets a medal."
+msgstr ""
+
+msgctxt "help.war.p6"
+msgid "When attackers win, their country takes control of the province. Military units are groups of players who fight together; anyone can found one, free."
+msgstr ""
+
+#. {lowest} is the lowest pay, drawn as a coin amount. {highest} is the highest pay, drawn as a coin amount.
+msgctxt "help.war.p7"
+msgid "A side can post a bounty: it pays anyone who fights for it, from any country, for the damage they deal, between {lowest} and {highest} per 100 damage, up to the most one fighter can earn, while its budget lasts. You must be in the province or next to it and not travelling, have the Energy for an attack, and not fight against your own country. Once you join a side for pay you keep it for the rest of that battle."
+msgstr ""
+
+msgctxt "help.war.p8"
+msgid "A country and a unit can put machines into service: tanks, artillery and planes. Each is stationed at a base, filled with Fuel from its owner’s stock, and sent to a battle within its reach, where each use spends fuel and wears it down. Bring it home to send it again elsewhere."
+msgstr ""
+
+msgctxt "help.war.p9"
+msgid "Holding a province is not owning it. A province’s sheet shows who owns it and, when that is somebody else, who holds it: the owner keeps it on paper and its people stay the owner’s citizens until a peace hands it over. Every country that still claims a province may fight to take it back."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.war.title"
+msgid "War and battles"
+msgstr ""
+
+msgctxt "help.work.answer"
+msgid "Work a shift at a job or on public works; a job usually pays more."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.work.line"
+msgid "Shifts, public works and jobs."
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {shortShift} is an amount of Energy. {fullShift} is an amount of Energy. {times} is how many times the wage a full shift pays.
+msgctxt "help.work.step1.how"
+msgid "press Work a shift on Home, or open Ways to earn. A short shift costs {shortShift} Energy; a full one costs {fullShift}, pays {times} times the wage, and gives your workplace two shifts of work."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.work.step1.to"
+msgid "To work"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English. {wage} is the wage, drawn as a coin amount.
+msgctxt "help.work.step2.how"
+msgid "choose public works. A short shift pays {wage} unless your country’s law sets another wage, from the treasury and untaxed."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.work.step2.to"
+msgid "To work without a job"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.work.step3.how"
+msgid "open Ways to earn, then Jobs."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.work.step3.to"
+msgid "To find a job"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.work.step4.how"
+msgid "read the pay slip after a shift: the wage, the income tax of the country you work in, and what is yours."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.work.step4.to"
+msgid "To see what you kept"
+msgstr ""
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+msgctxt "help.work.synonyms"
+msgid "job, work, earn, money, wage, pay, shift, worksite, public works"
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.work.title"
+msgid "How do I earn money?"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence.
+msgctxt "help.work.word1.means"
+msgid "A day's work, once a day."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.work.word1.term"
+msgid "Shift"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence.
+msgctxt "help.work.word2.means"
+msgid "Shifts the government pays for, open to anyone."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.work.word2.term"
+msgid "Public works"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence.
+msgctxt "help.work.word3.means"
+msgid "A place where a company or a country works."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.work.word3.term"
+msgid "Site"
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.world.li1"
+msgid "<b>Provinces</b> belong to a country. In a war another country can take one and hold it; the owner still owns it, and the map draws it striped."
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.world.li2"
+msgid "<b>An era</b> is a stretch of the world's time. Countries earn prestige in it, and the most prestigious lead the rankings. Nothing about the world resets when an era ends."
+msgstr ""
+
+#. One item of a list; the bold start is a short label.
+msgctxt "help.world.li3"
+msgid "<b>World projects</b> are built by everybody. Any citizen can give money or goods to one."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.world.line"
+msgid "Its countries, its eras, and what everyone builds together."
+msgstr ""
+
+msgctxt "help.world.p1"
+msgid "There is one world, and everybody plays in it. It is the real Earth, split into countries and their provinces. Every country is run by its own players, and one with no players yet has every office open."
+msgstr ""
+
+msgctxt "help.world.p2"
+msgid "The world's own page has its rankings, its wars, its projects and every country in it."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.world.title"
+msgid "What is the world?"
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.writing.line"
+msgid "Write for a paper that takes you on."
+msgstr ""
+
+msgctxt "help.writing.p1"
+msgid "<b>Write for a paper that takes you on, or start a paper of your own.</b>"
+msgstr ""
+
+msgctxt "help.writing.p2"
+msgid "To get a place: a paper’s owner can invite you, and the offer waits in Now. Or press Ask to write here on a paper’s front page, and its owner decides."
+msgstr ""
+
+msgctxt "help.writing.p3"
+msgid "To write: press Write in News, or Write a piece on the paper. When it is ready, press Save and tell the owner. The owner or an editor publishes it, or sends it back with a note; then edit it and send it again."
+msgstr ""
+
+#. {writerShare} is a percentage, printed without the percent sign.
+msgctxt "help.writing.p4"
+msgid "You keep most of every tip a reader sends you ({writerShare}% unless the owner changes it). To leave, press Stop writing for this paper."
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.writing.title"
+msgid "How do I write for a paper?"
+msgstr ""
+
+msgctxt "help.you.after"
+msgid "A fact that says Public can be read by anyone who opens your page."
+msgstr ""
+
+msgctxt "help.you.answer"
+msgid "You is everything that is yours: the places you hold, your money and things, and what you can start."
+msgstr ""
+
+#. One short line under the title on the page's door; keep it short.
+msgctxt "help.you.line"
+msgid "Your places, what you own, and what you can start."
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.you.step1.how"
+msgid "press a position: a company, a bank, a paper, a party, a unit or an office."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.you.step1.to"
+msgid "To go to something you run"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.you.step2.how"
+msgid "press Start something. Each line says what it costs and what you need first."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.you.step2.to"
+msgid "To start something of your own"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.you.step3.how"
+msgid "press Money: your balance, what came in and what went out."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.you.step3.to"
+msgid "To see your money"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.you.step4.how"
+msgid "press Inventory: what you hold, wear and can mend."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.you.step4.to"
+msgid "To see your gear"
+msgstr ""
+
+#. Follows the step's bold start and its colon, so it begins in lower case in English.
+msgctxt "help.you.step5.how"
+msgid "press Settings."
+msgstr ""
+
+#. The bold start of one step, before a colon: what the player wants to do.
+msgctxt "help.you.step5.to"
+msgid "To change how you look or who sees you"
+msgstr ""
+
+#. Everyday words a player might type into Help's search to find this page, separated by commas. Give the words people in your language would search with, and add others if you like. Keep the commas.
+msgctxt "help.you.synonyms"
+msgid "you, profile, me, my page, positions, start, own"
+msgstr ""
+
+#. The question this page answers; also its door on Help's front page. Screens and buttons named in Help's text must match the interface's own wording.
+msgctxt "help.you.title"
+msgid "What is on the You screen?"
+msgstr ""
+
+#. The meaning of the word before it, as a short sentence.
+msgctxt "help.you.word1.means"
+msgid "A place you hold or run, such as a company or an office."
+msgstr ""
+
+#. A word this page explains, shown in bold above its meaning.
+msgctxt "help.you.word1.term"
+msgid "Position"
+msgstr ""
