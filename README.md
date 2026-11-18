@@ -6,8 +6,7 @@ armies together, in one shared world. This repository holds every sentence
 of the game, in English and in the languages players translate it into.
 
 **You do not need to be a programmer to help.** You download a file,
-translate it in a free program, and upload it back here. A check reads your
-file within minutes and tells you if anything needs fixing.
+translate it in a free program, and upload it back here.
 
 ## Languages
 
@@ -31,7 +30,7 @@ sees first.
 | `help.po`   | the Help articles                                                     | ~570      |
 | `server.po` | what the game's server says: refusals, alerts, notifications, e-mails | ~1 700    |
 
-The English originals are in `templates/` (`.pot` files).
+The English originals are in `locales/en` (`.pot` files).
 
 ## How to translate
 
@@ -75,9 +74,10 @@ on GitHub:
    press **Propose changes**, then **Create pull request**.
 
 GitHub makes your own copy of this repository the first time; that is
-normal. A check runs on your pull request and says, with the sentence and
-the reason, if anything must change. A maintainer then merges it, and it
-reaches the game with the next update.
+normal. A maintainer then reads it and merges it, and it reaches the game
+with the next update. Every sentence is checked on the way in: one that
+breaks a rule below (a changed placeholder, a plural branch out of place) is
+left out, and you are told which and why on your pull request.
 
 You can send part of a file: translate or check as much as you like and
 upload it. Several smaller pull requests are easier to review than one huge
@@ -108,8 +108,8 @@ The full version, with examples, is in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 1. Open an issue with the **New language** template, so others know and can
    join you.
-2. Download `templates/ui.pot`. In Poedit: **File › New from POT/PO file**,
-   choose the `.pot`, then your language.
+2. Download `locales/en/ui.pot`. In Poedit: **File › New from POT/PO
+   file**, choose the `.pot`, then your language.
 3. Save it as `ui.po`, and upload it to a new folder `locales/<code>/`, where
    `<code>` is your language's code (`de`, `pt-BR`, `fr`, `pl`…). On GitHub,
    type `locales/<code>/` in front of the file name when uploading.
@@ -134,6 +134,6 @@ Horizon the right to use your work in the game, and you are credited in
 
 For maintainers: this repository is written to by `pnpm i18n:publish` in
 the game's own (private) repository and read back by `pnpm i18n:pull`, which
-validates every translation again before the game uses it. Do not edit
-`templates/`, `STATUS.md` or `tools/icu-check.mjs` here by hand; they are
+checks every translation before the game uses it and prints why it refused
+any. Do not edit `locales/en/` or `STATUS.md` here by hand; they are
 overwritten on the next publish.
