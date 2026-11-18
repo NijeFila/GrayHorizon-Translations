@@ -20895,12 +20895,13 @@ msgctxt "language.help"
 msgid "Help translate Gray Horizon"
 msgstr ""
 
-msgctxt "language.helpDiscord"
-msgid "Join the translators on Discord ↗"
+#. GitHub is a product name and stays as it is.
+msgctxt "language.helpGuide"
+msgid "Translate on GitHub ↗"
 msgstr ""
 
-msgctxt "language.helpDiscordName"
-msgid "Join the translators on Discord, opens another site"
+msgctxt "language.helpGuideName"
+msgid "Translate on GitHub, opens another site"
 msgstr ""
 
 msgctxt "language.helpReport"
@@ -20908,7 +20909,7 @@ msgid "Report a wrong translation"
 msgstr ""
 
 msgctxt "language.helpWhy"
-msgid "Players translate the game. Found a wrong or clumsy word? Report it with the screen you saw it on. To translate or check a language, join the translators on Discord."
+msgid "Players translate the game. Found a wrong or clumsy word? Report it with the screen you saw it on. To translate or check a language, the guide shows how; you need a free GitHub account."
 msgstr ""
 
 msgctxt "language.lead"

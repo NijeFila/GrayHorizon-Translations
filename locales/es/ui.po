@@ -25798,15 +25798,16 @@ msgctxt "language.help"
 msgid "Help translate Gray Horizon"
 msgstr "Ayuda a traducir Gray Horizon"
 
+#. GitHub is a product name and stays as it is.
 #, fuzzy,machine-translated
-msgctxt "language.helpDiscord"
-msgid "Join the translators on Discord ↗"
-msgstr "Únete a los traductores en Discord ↗"
+msgctxt "language.helpGuide"
+msgid "Translate on GitHub ↗"
+msgstr "Traducir en GitHub ↗"
 
 #, fuzzy,machine-translated
-msgctxt "language.helpDiscordName"
-msgid "Join the translators on Discord, opens another site"
-msgstr "Únete a los traductores en Discord, abre otro sitio"
+msgctxt "language.helpGuideName"
+msgid "Translate on GitHub, opens another site"
+msgstr "Traducir en GitHub, abre otro sitio"
 
 #, fuzzy,machine-translated
 msgctxt "language.helpReport"
@@ -25815,8 +25816,8 @@ msgstr "Informar de una traducción incorrecta"
 
 #, fuzzy,machine-translated
 msgctxt "language.helpWhy"
-msgid "Players translate the game. Found a wrong or clumsy word? Report it with the screen you saw it on. To translate or check a language, join the translators on Discord."
-msgstr "Los jugadores traducen el juego. ¿Encontraste una palabra incorrecta o torpe? Cuéntanoslo, con la pantalla donde la viste. Para traducir o revisar un idioma, únete a los traductores en Discord."
+msgid "Players translate the game. Found a wrong or clumsy word? Report it with the screen you saw it on. To translate or check a language, the guide shows how; you need a free GitHub account."
+msgstr "Los jugadores traducen el juego. ¿Encontraste una palabra incorrecta o torpe? Cuéntanoslo, con la pantalla donde la viste. Para traducir o revisar un idioma, la guía explica cómo; necesitas una cuenta gratuita de GitHub."
 
 #, fuzzy,machine-translated
 msgctxt "language.lead"

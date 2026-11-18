@@ -25798,15 +25798,16 @@ msgctxt "language.help"
 msgid "Help translate Gray Horizon"
 msgstr "Pomozi da se prevede Gray Horizon"
 
+#. GitHub is a product name and stays as it is.
 #, fuzzy,machine-translated
-msgctxt "language.helpDiscord"
-msgid "Join the translators on Discord ↗"
-msgstr "Pridruži se prevodiocima na Discordu ↗"
+msgctxt "language.helpGuide"
+msgid "Translate on GitHub ↗"
+msgstr "Prevodi na GitHub-u ↗"
 
 #, fuzzy,machine-translated
-msgctxt "language.helpDiscordName"
-msgid "Join the translators on Discord, opens another site"
-msgstr "Pridruži se prevodiocima na Discordu, otvara drugi sajt"
+msgctxt "language.helpGuideName"
+msgid "Translate on GitHub, opens another site"
+msgstr "Prevodi na GitHub-u, otvara drugi sajt"
 
 #, fuzzy,machine-translated
 msgctxt "language.helpReport"
@@ -25815,8 +25816,8 @@ msgstr "Prijavi pogrešan prevod"
 
 #, fuzzy,machine-translated
 msgctxt "language.helpWhy"
-msgid "Players translate the game. Found a wrong or clumsy word? Report it with the screen you saw it on. To translate or check a language, join the translators on Discord."
-msgstr "Igru prevode igrači. Pogrešna ili nezgrapna reč? Prijavi je zajedno sa ekranom na kome se pojavila. Da prevodiš ili proveravaš neki jezik, pridruži se prevodiocima na Discordu."
+msgid "Players translate the game. Found a wrong or clumsy word? Report it with the screen you saw it on. To translate or check a language, the guide shows how; you need a free GitHub account."
+msgstr "Igru prevode igrači. Vidiš pogrešnu ili nezgrapnu reč? Prijavi je, uz ekran na kom se nalazi. Da prevodiš ili proveravaš jezik, vodič objašnjava kako; potreban ti je besplatan GitHub račun."
 
 #, fuzzy,machine-translated
 msgctxt "language.lead"
