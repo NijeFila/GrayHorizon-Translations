@@ -29,7 +29,7 @@ msgstr "Un navegador en {system}"
 #, fuzzy,machine-translated
 msgctxt "account.browser.system.ios"
 msgid "iPhone or iPad"
-msgstr "iPhone o iPad"
+msgstr "iPhone o {nombre}"
 
 #. Shown in the list of signed-in devices when nothing is known about the browser.
 #, fuzzy,machine-translated
